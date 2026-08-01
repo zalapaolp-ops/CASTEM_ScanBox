@@ -327,6 +327,40 @@
     .cam-frame::before { top: -2px; left: -2px; border-top-width: 4px; border-left-width: 4px; border-top-left-radius: 12px; }
     .cam-frame::after { bottom: -2px; right: -2px; border-bottom-width: 4px; border-right-width: 4px; border-bottom-right-radius: 12px; }
 
+    /* ✅ ซูมมือ (manual zoom): แถบเลื่อนแนวตั้งด้านขวาของกล้อง โผล่เฉพาะกล้องที่รองรับ zoom */
+    .zoom-slider-wrap {
+      position: absolute;
+      right: 10px; top: 50%; transform: translateY(-50%);
+      display: none; /* เปิดผ่าน JS เมื่อ track รองรับ zoom */
+      flex-direction: column; align-items: center; gap: 8px;
+      z-index: 5;
+    }
+    .zoom-slider-wrap.show { display: flex; }
+    .zoom-slider-wrap .zoom-label {
+      font-size: 11px; font-weight: 700; color: #fff;
+      background: rgba(0,0,0,0.4); padding: 3px 8px; border-radius: 100px;
+      font-family: 'JetBrains Mono', monospace; min-width: 34px; text-align: center;
+    }
+    .zoom-slider-wrap input[type="range"] {
+      -webkit-appearance: none; appearance: none;
+      writing-mode: vertical-lr; direction: rtl; /* เลื่อนขึ้น = ซูมเข้า */
+      width: 34px; height: 140px;
+      background: rgba(255,255,255,0.2);
+      border-radius: 100px; outline: none; cursor: pointer;
+      touch-action: none;
+    }
+    .zoom-slider-wrap input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none; appearance: none;
+      width: 28px; height: 28px; border-radius: 50%;
+      background: #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+      border: 3px solid var(--accent);
+    }
+    .zoom-slider-wrap input[type="range"]::-moz-range-thumb {
+      width: 28px; height: 28px; border-radius: 50%;
+      background: #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.4);
+      border: 3px solid var(--accent); cursor: pointer;
+    }
+
     .cam-hint {
       position: absolute;
       bottom: 16px; left: 50%; transform: translateX(-50%);
@@ -611,6 +645,10 @@
             <div class="cam-hint" id="camHint">จัดกรอบให้ตรง QR</div>
             <button id="btnCloseCam" class="cam-close" aria-label="ปิดกล้อง">✕</button>
             <button id="btnTorch" class="cam-close" style="right: 66px; display: none;" aria-label="เปิด/ปิดไฟฉาย">💡</button>
+            <div class="zoom-slider-wrap" id="zoomSliderWrap">
+              <span class="zoom-label" id="zoomLabel">1.0x</span>
+              <input type="range" id="zoomSlider" min="0" max="100" value="0" step="1" aria-label="ปรับซูมกล้อง">
+            </div>
           </div>
           <canvas id="canvas" style="display: none;"></canvas>
         </div>
@@ -640,6 +678,7 @@
       let qrScanner = null;
       let cameraActive = false;   // true ระหว่างที่กล้องเปิดอยู่ (ควบคุมว่าผลลัพธ์ควรขึ้นเป็น sheet หรือเต็มหน้า)
       let scanLocked = false;     // true ระหว่างที่ sheet เปิดอยู่ กันไม่ให้ยิง QR ซ้ำจนกว่าจะกด "สแกนต่อ"
+      let currentTrack = null;    // เก็บ video track ปัจจุบันไว้ ให้สไลเดอร์ซูมมือเรียก applyConstraints ได้ตรงๆ
 
       QrScanner.WORKER_PATH = "https://cdn.jsdelivr.net/npm/qr-scanner@1.4.2/qr-scanner-worker.min.js";
       // ℹ️ 1.4.2 คือเวอร์ชันล่าสุดที่ publish บน npm ณ ตอนนี้ (เช็คแล้วไม่มีเวอร์ชันใหม่กว่านี้)
@@ -1202,6 +1241,8 @@
           const track = stream.getVideoTracks()[0];
           if (!track || typeof track.getCapabilities !== "function") return;
 
+          currentTrack = track; // เก็บไว้ให้สไลเดอร์ซูมมือเรียกใช้ต่อได้
+
           const caps = track.getCapabilities();
           const cam = SCAN_PROFILE.cam;
           const constraints = { advanced: [] };
@@ -1220,10 +1261,12 @@
             constraints.advanced.push({ focusMode: "continuous" });
           }
 
-          // ข้อ 7: Zoom — ขยับซูมเข้าเล็กน้อยจากค่าต่ำสุด ช่วยให้ QR เล็กๆ/ไกลๆ เต็มเฟรมมากขึ้น
+          // ข้อ 7: Zoom — ตั้งค่าเริ่มต้นให้ซูมเข้าเล็กน้อยจากค่าต่ำสุด (auto) ช่วยให้ QR เล็กๆ/ไกลๆ เต็มเฟรมมากขึ้น
+          // ผู้ใช้ยังปรับเองต่อได้อีกทีผ่านสไลเดอร์ (ดู setupZoomSlider ด้านล่าง)
+          let mildZoom = null;
           if (caps.zoom && typeof caps.zoom.min === "number" && typeof caps.zoom.max === "number") {
             const zoomRange = caps.zoom.max - caps.zoom.min;
-            const mildZoom = caps.zoom.min + zoomRange * 0.15; // ซูมเบาๆ 15% ของช่วงที่มี ไม่มากจนหลุดโฟกัส
+            mildZoom = caps.zoom.min + zoomRange * 0.15; // ซูมเบาๆ 15% ของช่วงที่มี ไม่มากจนหลุดโฟกัส
             constraints.advanced.push({ zoom: mildZoom });
           }
 
@@ -1231,16 +1274,65 @@
           if (Object.keys(basic).length || constraints.advanced.length) {
             await track.applyConstraints(constraints);
           }
+
+          // เปิดใช้งานสไลเดอร์ซูมมือ ถ้ากล้องรองรับ zoom
+          if (caps.zoom && typeof caps.zoom.min === "number" && typeof caps.zoom.max === "number") {
+            setupZoomSlider(track, caps.zoom, mildZoom);
+          } else {
+            document.getElementById("zoomSliderWrap").classList.remove("show");
+          }
         } catch (e) {
           console.log("[Camera Capabilities] ปรับไม่สำเร็จบางส่วน (ไม่เป็นไร ใช้ค่า default แทน):", e);
         }
+      }
+
+      // =====================
+      // ✅ ซูมมือ: ผู้ใช้ลากสไลเดอร์เพื่อสั่งซูมกล้องเองได้ทุกเมื่อ
+      // - ตั้งช่วง min/max/step ตาม capability จริงของกล้องเครื่องนั้นๆ
+      // - ค่าเริ่มต้นของแท่งเลื่อน = ค่าออโต้ซูมที่ตั้งไว้ก่อนหน้า (mildZoom) ให้ต่อเนื่องกัน ไม่กระตุก
+      // - ระหว่างลาก เรียก track.applyConstraints({advanced:[{zoom}]}) แบบสด (real-time)
+      // =====================
+      function setupZoomSlider(track, zoomCaps, initialZoom) {
+        const wrap = document.getElementById("zoomSliderWrap");
+        const slider = document.getElementById("zoomSlider");
+        const label = document.getElementById("zoomLabel");
+
+        const min = zoomCaps.min;
+        const max = zoomCaps.max;
+        const step = zoomCaps.step && zoomCaps.step > 0 ? zoomCaps.step : (max - min) / 100;
+        const startValue = typeof initialZoom === "number" ? initialZoom : min;
+
+        slider.min = min;
+        slider.max = max;
+        slider.step = step;
+        slider.value = startValue;
+        // แสดงเป็น "เท่าตัวจาก min" ให้เข้าใจง่าย เช่น min=1 -> 1.0x
+        label.textContent = (startValue / min).toFixed(1) + "x";
+
+        wrap.classList.add("show");
+
+        // ลบ listener เก่า (กันซ้อนตอนเปิดกล้องใหม่หลายรอบ) ด้วยการ clone element
+        const freshSlider = slider.cloneNode(true);
+        slider.parentNode.replaceChild(freshSlider, slider);
+        freshSlider.value = startValue;
+
+        freshSlider.addEventListener("input", (e) => {
+          const zoomVal = parseFloat(e.target.value);
+          label.textContent = (zoomVal / min).toFixed(1) + "x";
+          if (currentTrack) {
+            currentTrack.applyConstraints({ advanced: [{ zoom: zoomVal }] })
+              .catch(err => console.log("[Zoom] ปรับไม่สำเร็จ:", err));
+          }
+        });
       }
 
       function stopCamera() {
         cameraActive = false;
         scanLocked = false;
         if (qrScanner) { qrScanner.stop(); qrScanner.destroy(); qrScanner = null; }
+        currentTrack = null;
         document.getElementById("btnTorch").style.display = "none";
+        document.getElementById("zoomSliderWrap").classList.remove("show");
       }
 
       function toggleTorch() {
