@@ -5,16 +5,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-  <title>CASTEM SCAN | สแกนหาตะกร้า</title>
+  <title>หาตะกร้า | Box → Basket Finder</title>
 
   <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#0A1547">
+  <meta name="theme-color" content="#0B1520">
   <link rel="icon" href="icon-32.png" type="image/png" sizes="32x32">
   <link rel="apple-touch-icon" href="icon-180.png">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-title" content="CASTEM SCAN">
+  <meta name="apple-mobile-web-app-title" content="หาตะกร้า">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
@@ -26,20 +26,20 @@
        🎨 DESIGN TOKENS
        ========================================================================== */
     :root {
-      --bg-app: #f3f6fc;
+      --bg-app: #f8fafc;
       --surface: #ffffff;
       --surface-raised: #ffffff;
-      --border: #dde6f7;
-      --border-focus: #1656d6;
+      --border: #e2e8f0;
+      --border-focus: #4f46e5;
 
-      --text-main: #0a1547;
-      --text-muted: #5c6b8f;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
       --text-inverse: #ffffff;
 
-      --primary: #0a1547;
-      --primary-gradient: linear-gradient(135deg, #1656d6 0%, #071238 100%);
-      --accent: #1656d6;
-      --accent-soft: #e6eefc;
+      --primary: #0f172a;
+      --primary-gradient: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+      --accent: #4f46e5;
+      --accent-soft: #eeecfd;
 
       --good: #10b981;
       --good-soft: #f0fdf4;
@@ -49,56 +49,33 @@
       --radius-sm: 12px;
       --radius-md: 20px;
       --radius-lg: 28px;
-      --shadow-sm: 0 1px 3px 0 rgba(10, 21, 71, 0.06);
-      --shadow-md: 0 4px 20px -2px rgba(10, 21, 71, 0.08), 0 2px 8px -1px rgba(10, 21, 71, 0.05);
-      --shadow-lg: 0 20px 25px -5px rgba(10, 21, 71, 0.14), 0 10px 10px -5px rgba(10, 21, 71, 0.05);
+      --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+      --shadow-md: 0 4px 20px -2px rgba(15, 23, 42, 0.06), 0 2px 8px -1px rgba(15, 23, 42, 0.04);
+      --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
     }
 
-    /* ✅ Dark mode: ตามระบบอัตโนมัติ (ถ้าไม่ได้กดเลือกเองใน UI ว่าอยากได้ light เสมอ) */
     @media (prefers-color-scheme: dark) {
-      :root:not([data-theme="light"]) {
-        --bg-app: #050912;
-        --surface: #0c1730;
-        --surface-raised: #10203f;
-        --border: #1c2c52;
-        --border-focus: #4f8bff;
+      :root {
+        --bg-app: #080e16;
+        --surface: #111b27;
+        --surface-raised: #172434;
+        --border: #203044;
+        --border-focus: #818cf8;
 
-        --text-main: #f4f7fd;
-        --text-muted: #8ea0c9;
+        --text-main: #f8fafc;
+        --text-muted: #94a3b8;
 
         --primary: #ffffff;
-        --primary-gradient: linear-gradient(135deg, #4f8bff 0%, #1656d6 100%);
-        --accent: #4f8bff;
-        --accent-soft: rgba(79, 139, 255, 0.15);
+        --primary-gradient: linear-gradient(135deg, #ffffff 0%, #e2e8f0 100%);
+        --accent: #818cf8;
+        --accent-soft: rgba(129, 140, 248, 0.15);
 
         --good: #34d399;
         --good-soft: rgba(52, 211, 153, 0.1);
         --bad: #f87171;
         --bad-soft: rgba(248, 113, 113, 0.1);
-        --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.4);
+        --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.3);
       }
-    }
-    /* ✅ Dark mode: กดเลือกเองใน UI (ไม่สนใจ system setting) */
-    :root[data-theme="dark"] {
-      --bg-app: #050912;
-      --surface: #0c1730;
-      --surface-raised: #10203f;
-      --border: #1c2c52;
-      --border-focus: #4f8bff;
-
-      --text-main: #f4f7fd;
-      --text-muted: #8ea0c9;
-
-      --primary: #ffffff;
-      --primary-gradient: linear-gradient(135deg, #4f8bff 0%, #1656d6 100%);
-      --accent: #4f8bff;
-      --accent-soft: rgba(79, 139, 255, 0.15);
-
-      --good: #34d399;
-      --good-soft: rgba(52, 211, 153, 0.1);
-      --bad: #f87171;
-      --bad-soft: rgba(248, 113, 113, 0.1);
-      --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.4);
     }
 
     /* ==========================================================================
@@ -125,7 +102,7 @@
        👑 HEADER / TOPBAR
        ========================================================================== */
     header.topbar {
-      background: rgba(243, 246, 252, 0.8);
+      background: rgba(248, 250, 252, 0.8);
       backdrop-filter: blur(20px);
       -webkit-backdrop-filter: blur(20px);
       padding: 20px 24px;
@@ -135,7 +112,7 @@
       border-bottom: 1px solid var(--border);
     }
     @media (prefers-color-scheme: dark) {
-      header.topbar { background: rgba(5, 9, 18, 0.8); }
+      header.topbar { background: rgba(8, 14, 22, 0.8); }
     }
 
     header.topbar .row1 { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
@@ -169,15 +146,6 @@
     }
     .status-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--bad); flex-shrink: 0; }
     .status-dot.ok { background: var(--good); box-shadow: 0 0 8px var(--good); }
-
-    .theme-toggle-btn {
-      border: 1px solid var(--border); background: var(--surface); color: var(--text-main);
-      width: 32px; height: 32px; border-radius: 50%; font-size: 14px; cursor: pointer;
-      display: flex; align-items: center; justify-content: center; flex-shrink: 0;
-      -webkit-tap-highlight-color: transparent; touch-action: manipulation;
-      transition: transform 0.15s ease;
-    }
-    .theme-toggle-btn:active { transform: scale(0.9); }
 
     /* ✅ จอมือถือ: หัวเว็บย่อลง กระชับขึ้น ไม่กินพื้นที่จอมากเกินไป */
     @media (max-width: 400px) {
@@ -214,8 +182,7 @@
       align-items: center;
       justify-content: center;
       font-size: 40px;
-      color: var(--accent);
-      box-shadow: inset 0 0 20px rgba(180, 83, 9, 0.06);
+      box-shadow: inset 0 0 20px rgba(79, 70, 229, 0.05);
     }
     .scan-hero h2 { font-size: 22px; font-weight: 700; margin: 0 0 8px; letter-spacing: -0.5px; }
     .scan-hero p { font-size: 14px; color: var(--text-muted); margin: 0; line-height: 1.5; }
@@ -248,9 +215,8 @@
       box-shadow: 0 4px 12px rgba(15, 23, 42, 0.15);
     }
     @media (prefers-color-scheme: dark) {
-      :root:not([data-theme="light"]) .btn-primary { color: #ffffff; font-weight: 700; }
+      .btn-primary { color: #000; font-weight: 700; }
     }
-    :root[data-theme="dark"] .btn-primary { color: #ffffff; font-weight: 700; }
 
     .btn-secondary {
       background: var(--surface-raised);
@@ -305,13 +271,6 @@
       box-shadow: var(--shadow-lg);
     }
     .cam-wrap video { width: 100%; height: 100%; object-fit: cover; }
-
-    /* ✅ จอแนวนอน/หน้าจอเตี้ย (เช่น มือถือหมุนนอน) — กันกล้องสี่เหลี่ยมจัตุรัสสูงเกินจอจนบังปุ่มกดด้านล่าง */
-    @media (max-height: 480px) and (orientation: landscape) {
-      .cam-wrap { max-width: 70vh; margin: 0 auto; }
-      main { padding-top: 12px; padding-bottom: 12px; }
-      .scan-hero { padding: 16px 24px 12px; }
-    }
 
     .cam-frame {
       position: absolute;
@@ -462,7 +421,7 @@
        ========================================================================== */
     .toast {
       position: fixed; bottom: 32px; left: 50%; transform: translateX(-50%) translateY(20px);
-      background: #0a1547; color: white; padding: 14px 28px; border-radius: 100px;
+      background: #0f172a; color: white; padding: 14px 28px; border-radius: 100px;
       font-size: 14px; font-weight: 600; box-shadow: var(--shadow-lg);
       opacity: 0; pointer-events: none; transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); z-index: 1000;
       max-width: 90%; text-align: center;
@@ -477,37 +436,6 @@
       padding-top: max(10px, env(safe-area-inset-top));
     }
     .offline-banner.show { transform: translateY(0); }
-
-    /* ==========================================================================
-       🔄 UPDATE BANNER — เด้งเตือนเมื่อมีเวอร์ชันใหม่ (แบบ Play Store)
-       ========================================================================== */
-    .update-banner {
-      position: fixed; left: 16px; right: 16px; bottom: 16px;
-      max-width: 448px; margin: 0 auto;
-      background: var(--primary-gradient); color: var(--text-inverse);
-      border-radius: var(--radius-md); box-shadow: var(--shadow-lg);
-      padding: 16px 18px; z-index: 3000;
-      display: flex; align-items: center; gap: 12px;
-      transform: translateY(140%); opacity: 0;
-      transition: transform 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.35s ease;
-      padding-bottom: max(16px, env(safe-area-inset-bottom));
-    }
-    .update-banner.show { transform: translateY(0); opacity: 1; }
-    .update-banner .update-icon { font-size: 22px; flex-shrink: 0; }
-    .update-banner .update-text { flex: 1; min-width: 0; }
-    .update-banner .update-title { font-size: 14px; font-weight: 700; margin: 0 0 2px; }
-    .update-banner .update-sub { font-size: 12px; opacity: 0.75; margin: 0; }
-    .update-banner button {
-      flex-shrink: 0; border: none; cursor: pointer; font-family: inherit;
-      font-weight: 700; font-size: 13px; padding: 10px 16px; border-radius: 100px;
-      background: rgba(255,255,255,0.15); color: var(--text-inverse);
-      -webkit-tap-highlight-color: transparent; touch-action: manipulation;
-      transition: transform 0.15s ease;
-    }
-    .update-banner button:active { transform: scale(0.95); }
-    @media (prefers-color-scheme: dark) {
-      .update-banner button { background: rgba(0,0,0,0.25); }
-    }
 
     #app { padding-bottom: env(safe-area-inset-bottom); }
     @media (min-width: 401px) {
@@ -530,25 +458,13 @@
 
   <div id="offlineBanner" class="offline-banner">📡 ขาดการเชื่อมต่ออินเทอร์เน็ต — ผลค้นหาอาจไม่เป็นปัจจุบัน</div>
 
-  <div id="updateBanner" class="update-banner" role="status" aria-live="polite">
-    <div class="update-icon">🔄</div>
-    <div class="update-text">
-      <p class="update-title">มีเวอร์ชันใหม่</p>
-      <p class="update-sub">กดเพื่ออัปเดตแอปตอนนี้</p>
-    </div>
-    <button id="btnUpdateNow" type="button">อัปเดต</button>
-  </div>
-
   <div id="app">
     <header class="topbar">
       <div class="row1">
-        <h1><span class="box-emoji">📦</span> CASTEM <span style="color:var(--accent)">SCAN</span></h1>
-        <div style="display:flex; align-items:center; gap:8px;">
-          <button id="btnThemeToggle" type="button" class="theme-toggle-btn" aria-label="สลับธีมสี" title="สลับธีมสี">🌗</button>
-          <div class="status-pill">
-            <span class="status-dot" id="statusDot"></span>
-            <span id="statusText">DATABASE</span>
-          </div>
+        <h1><span class="box-emoji">📦</span> หาตะกร้า</h1>
+        <div class="status-pill">
+          <span class="status-dot" id="statusDot"></span>
+          <span id="statusText">DATABASE</span>
         </div>
       </div>
     </header>
@@ -559,22 +475,13 @@
         <div id="scanIdle" style="display: flex; flex-direction: column; gap: 20px;">
           <div class="card scan-hero">
             <div class="icon-wrap">📷</div>
-            <h2>สแกน QR Box_No</h2>
-            <p>ใช้กล้องสแกน QR Code หรือพิมพ์รหัสกล่องด้านล่างเพื่อค้นหา</p>
+            <h2>สแกน QR BOX_NO</h2>
+            <p>ยิง QR Code หรือพิมพ์รหัสกล่องด้านล่าง<br>เพื่อค้นหาตะกร้าแบบเรียลไทม์</p>
           </div>
 
           <div class="card">
             <button class="btn btn-primary" id="btnOpenCam">
-              <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0">
-                <rect x="3" y="3" width="7" height="7" rx="2"></rect>
-                <rect x="14" y="3" width="7" height="7" rx="2"></rect>
-                <rect x="3" y="14" width="7" height="7" rx="2"></rect>
-                <rect x="14" y="14" width="3" height="3" rx="1"></rect>
-                <rect x="18" y="14" width="3" height="3" rx="1"></rect>
-                <rect x="14" y="18" width="3" height="3" rx="1"></rect>
-                <rect x="18" y="18" width="3" height="3" rx="1"></rect>
-              </svg>
-              เริ่มสแกนด้วยกล้อง
+              📷 เริ่มสแกนด้วยกล้อง
             </button>
 
             <div class="divider-or">หรือ</div>
@@ -635,75 +542,13 @@
       "use strict";
 
       // ⚠️ แก้ URL นี้ให้เป็น URL ของ Apps Script Web App ที่ Deploy ไว้จริง
-      const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw_OJ96PPBW0usWC8hXnk-nVgSjIiIFriP3eEzTUOZMUiEv0fgqXwE0DJhyhNsdKs8F/exec";
+      const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw3UvwvBumX3Gx4Sp3FaD5fJnB2_b_0cBGdlGr8UxnxfHuRdX5pp2bH-CrxeTJ7VBV4/exec";
 
       let qrScanner = null;
       let cameraActive = false;   // true ระหว่างที่กล้องเปิดอยู่ (ควบคุมว่าผลลัพธ์ควรขึ้นเป็น sheet หรือเต็มหน้า)
       let scanLocked = false;     // true ระหว่างที่ sheet เปิดอยู่ กันไม่ให้ยิง QR ซ้ำจนกว่าจะกด "สแกนต่อ"
 
       QrScanner.WORKER_PATH = "https://cdn.jsdelivr.net/npm/qr-scanner@1.4.2/qr-scanner-worker.min.js";
-      // ℹ️ 1.4.2 คือเวอร์ชันล่าสุดที่ publish บน npm ณ ตอนนี้ (เช็คแล้วไม่มีเวอร์ชันใหม่กว่านี้)
-
-      // =====================
-      // ✅ ข้อ 2-4: Adaptive Scanner — เช็คแรงเครื่อง (CPU cores + RAM) ครั้งเดียวตอนโหลดหน้า
-      // แล้วเลือกโปรไฟล์ FPS / ความละเอียดสแกนให้เหมาะกับเครื่อง แทนการ fix ค่าตายตัว
-      // =====================
-      function detectDeviceProfile() {
-        const cores = navigator.hardwareConcurrency || 4;       // เครื่องเก่า/ถูกมักมี core น้อย
-        const ram = navigator.deviceMemory || 4;                  // iOS Safari ไม่รองรับ -> เดาเป็นค่ากลาง
-
-        let tier;
-        if (cores <= 2 || ram <= 2) {
-          tier = "low";
-        } else if (cores >= 6 && ram >= 6) {
-          tier = "high";
-        } else {
-          tier = "mid";
-        }
-
-        const PROFILES = {
-          low:  { label: "Low-end",     fps: 8,  resolution: 220, cam: { idealW: 640,  idealH: 640,  maxW: 960,  maxH: 960  } },
-          mid:  { label: "Balanced",    fps: 15, resolution: 300, cam: { idealW: 960,  idealH: 960,  maxW: 1280, maxH: 1280 } },
-          high: { label: "Performance", fps: 25, resolution: 400, cam: { idealW: 1280, idealH: 1280, maxW: 1920, maxH: 1920 } }
-        };
-
-        const profile = PROFILES[tier];
-        console.log(`[Adaptive Scanner] cores=${cores} ram=${ram}GB(ประมาณ) → ${profile.label} (fps=${profile.fps}, res=${profile.resolution})`);
-        return profile;
-      }
-
-      const SCAN_PROFILE = detectDeviceProfile();
-
-      // ไอคอน QR แบบ SVG ใช้แทนอิโมจิ 📷 ในปุ่มที่สร้างด้วย JS (ดูเป็นมืออาชีพกว่า)
-      const ICON_QR_SMALL = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px; margin-right:6px"><rect x="3" y="3" width="7" height="7" rx="2"></rect><rect x="14" y="3" width="7" height="7" rx="2"></rect><rect x="3" y="14" width="7" height="7" rx="2"></rect><rect x="14" y="14" width="3" height="3" rx="1"></rect><rect x="18" y="14" width="3" height="3" rx="1"></rect><rect x="14" y="18" width="3" height="3" rx="1"></rect><rect x="18" y="18" width="3" height="3" rx="1"></rect></svg>';
-
-      // =====================
-      // ✅ Theme toggle: auto (ตามระบบ) -> light -> dark -> auto วนไป, จำค่าไว้ใน localStorage
-      // =====================
-      const THEME_KEY = "theme_pref";
-      const THEME_ICONS = { auto: "🌗", light: "☀️", dark: "🌙" };
-
-      function applyTheme(pref) {
-        if (pref === "auto") document.documentElement.removeAttribute("data-theme");
-        else document.documentElement.setAttribute("data-theme", pref);
-        const btn = document.getElementById("btnThemeToggle");
-        if (btn) btn.textContent = THEME_ICONS[pref] || THEME_ICONS.auto;
-      }
-
-      (function initTheme() {
-        let pref = "auto";
-        try { pref = localStorage.getItem(THEME_KEY) || "auto"; } catch (e) { /* private mode ฯลฯ ข้ามไป ใช้ auto */ }
-        applyTheme(pref);
-      })();
-
-      document.getElementById("btnThemeToggle").addEventListener("click", function () {
-        const order = ["auto", "light", "dark"];
-        let cur = "auto";
-        try { cur = localStorage.getItem(THEME_KEY) || "auto"; } catch (e) {}
-        const next = order[(order.indexOf(cur) + 1) % order.length];
-        try { localStorage.setItem(THEME_KEY, next); } catch (e) {}
-        applyTheme(next);
-      });
 
       // =====================
       // Security: escape ข้อมูลก่อนแทรกลง innerHTML เสมอ (กัน XSS จากข้อมูลใน Sheet)
@@ -898,7 +743,7 @@
 
         result.innerHTML = data.found ? resultFoundHtml(data, {
           exitId: "again", exitLabel: "ย้อนกลับ",
-          continueId: "scanAgain", continueLabel: ICON_QR_SMALL + "สแกนต่อ"
+          continueId: "scanAgain", continueLabel: "📷 สแกนต่อ"
         }) : resultNotFoundHtml(code, {
           exitId: "again", exitLabel: "ย้อนกลับ", fullWidth: true
         });
@@ -929,7 +774,7 @@
         const content = document.getElementById("scanSheetContent");
         content.innerHTML = data.found ? resultFoundHtml(data, {
           exitId: "sheetExit", exitLabel: "ย้อนกลับ",
-          continueId: "sheetContinue", continueLabel: ICON_QR_SMALL + "สแกนกล่องต่อไป"
+          continueId: "sheetContinue", continueLabel: "📷 สแกนกล่องต่อไป"
         }) : resultNotFoundHtml(code, {
           exitId: "sheetExit", exitLabel: "ย้อนกลับ",
           continueId: "sheetContinue", continueLabel: "ลองสแกนใหม่"
@@ -1032,30 +877,21 @@
 
       // =====================
       // History (localStorage)
-      // ✅ ห่อด้วย try/catch ทั้งหมด — เบราว์เซอร์บางตัว (Safari Private Mode, บาง WebView รุ่นเก่า)
-      // จะ throw error ตอนเรียก localStorage ถ้าไม่รองรับ/ถูกปิดไว้ ไม่อยากให้พังทั้งแอปเพราะจุดนี้จุดเดียว
       // =====================
-      function safeGetHistory() {
-        try { return JSON.parse(localStorage.getItem('scan_history') || '[]'); }
-        catch (e) { return []; }
-      }
-
       function saveToHistory(boxNo, tray, isFound) {
-        try {
-          let history = safeGetHistory();
-          const now = new Date();
-          const timeStr = now.toLocaleTimeString('th-TH', { hour: '2-digit', minute: '2-digit' }) + ' น.';
+        let history = JSON.parse(localStorage.getItem('scan_history') || '[]');
+        const now = new Date();
+        const timeStr = now.toLocaleTimeString('th-TH', { hour: '2-digit', minute: '2-digit' }) + ' น.';
 
-          history = history.filter(item => normalizeCode(item.boxNo) !== normalizeCode(boxNo));
-          history.unshift({ boxNo, tray: isFound ? `#${tray}` : 'ไม่พบข้อมูล', time: timeStr, success: isFound });
-          if (history.length > 20) history.pop();
-          localStorage.setItem('scan_history', JSON.stringify(history));
-        } catch (e) { console.log('[History] บันทึกไม่ได้ (localStorage ใช้งานไม่ได้):', e); }
+        history = history.filter(item => normalizeCode(item.boxNo) !== normalizeCode(boxNo));
+        history.unshift({ boxNo, tray: isFound ? `#${tray}` : 'ไม่พบข้อมูล', time: timeStr, success: isFound });
+        if (history.length > 20) history.pop();
+        localStorage.setItem('scan_history', JSON.stringify(history));
       }
 
       function renderHistory() {
         const listEl = document.getElementById('historyList');
-        let history = safeGetHistory();
+        let history = JSON.parse(localStorage.getItem('scan_history') || '[]');
 
         if (history.length === 0) {
           listEl.innerHTML = `<div class="history-empty"><div class="history-empty-icon">📂</div>ไม่มีประวัติการสแกนล่าสุด</div>`;
@@ -1090,7 +926,7 @@
       }
 
       document.getElementById('btnClearHistory').addEventListener('click', () => {
-        try { localStorage.removeItem('scan_history'); } catch (e) {}
+        localStorage.removeItem('scan_history');
         renderHistory();
         toast("ล้างประวัติเรียบร้อยแล้ว");
       });
@@ -1134,8 +970,8 @@
         const x = Math.round(offsetX + leftFrac * s);
         const y = Math.round(offsetY + topFrac * s);
 
-        const downScaledWidth = SCAN_PROFILE.resolution;
-        const downScaledHeight = Math.max(1, Math.round(SCAN_PROFILE.resolution * (height / width)));
+        const downScaledWidth = 400;
+        const downScaledHeight = Math.max(1, Math.round(400 * (height / width)));
 
         return { x, y, width, height, downScaledWidth, downScaledHeight };
       }
@@ -1165,12 +1001,11 @@
               highlightScanRegion: true,
               highlightCodeOutline: true,
               calculateScanRegion: calcScanRegionFromFrame,
-              maxScansPerSecond: SCAN_PROFILE.fps
+              maxScansPerSecond: 25
             }
           );
 
           await qrScanner.start();
-          await applyCameraCapabilities(video);
 
           try {
             const hasFlash = await qrScanner.hasFlash();
@@ -1184,55 +1019,6 @@
           cameraActive = false;
           document.getElementById("scanCamera").style.display = "none";
           document.getElementById("scanIdle").style.display = "flex";
-        }
-      }
-
-      // =====================
-      // ✅ ข้อ 5-7: ปรับความสามารถกล้องหลังเปิดสตรีมสำเร็จ
-      // - ข้อ 5 Adaptive Camera Constraints: ขอความละเอียดแบบ ideal/max ตามโปรไฟล์เครื่อง
-      //   แทนที่จะ fix ค่าตายตัว (qr-scanner เองจะลองแค่ min:1024 -> min:768 -> ไม่ระบุ)
-      // - ข้อ 6 Autofocus: เปิด continuous focus ถ้ากล้องรองรับ
-      // - ข้อ 7 Zoom: เปิด auto/near-zoom เล็กน้อยถ้ารองรับ ช่วยอ่าน QR เล็กๆ ได้ดีขึ้น
-      // ทำแบบ best-effort ทั้งหมด — ถ้ากล้อง/เบราว์เซอร์ไม่รองรับ capability ไหนก็แค่ข้ามไปเงียบๆ
-      // =====================
-      async function applyCameraCapabilities(video) {
-        try {
-          const stream = video.srcObject;
-          if (!stream) return;
-          const track = stream.getVideoTracks()[0];
-          if (!track || typeof track.getCapabilities !== "function") return;
-
-          const caps = track.getCapabilities();
-          const cam = SCAN_PROFILE.cam;
-          const constraints = { advanced: [] };
-          const basic = {};
-
-          // ข้อ 5: ความละเอียด — ideal ตามโปรไฟล์เครื่อง, max กันไม่ให้ขอสูงเกินไปจนเปลือง CPU
-          if (caps.width) {
-            basic.width = { ideal: cam.idealW, max: Math.min(cam.maxW, caps.width.max || cam.maxW) };
-          }
-          if (caps.height) {
-            basic.height = { ideal: cam.idealH, max: Math.min(cam.maxH, caps.height.max || cam.maxH) };
-          }
-
-          // ข้อ 6: Autofocus แบบต่อเนื่อง
-          if (caps.focusMode && caps.focusMode.includes("continuous")) {
-            constraints.advanced.push({ focusMode: "continuous" });
-          }
-
-          // ข้อ 7: Zoom — ขยับซูมเข้าเล็กน้อยจากค่าต่ำสุด ช่วยให้ QR เล็กๆ/ไกลๆ เต็มเฟรมมากขึ้น
-          if (caps.zoom && typeof caps.zoom.min === "number" && typeof caps.zoom.max === "number") {
-            const zoomRange = caps.zoom.max - caps.zoom.min;
-            const mildZoom = caps.zoom.min + zoomRange * 0.15; // ซูมเบาๆ 15% ของช่วงที่มี ไม่มากจนหลุดโฟกัส
-            constraints.advanced.push({ zoom: mildZoom });
-          }
-
-          if (Object.keys(basic).length) Object.assign(constraints, basic);
-          if (Object.keys(basic).length || constraints.advanced.length) {
-            await track.applyConstraints(constraints);
-          }
-        } catch (e) {
-          console.log("[Camera Capabilities] ปรับไม่สำเร็จบางส่วน (ไม่เป็นไร ใช้ค่า default แทน):", e);
         }
       }
 
@@ -1274,60 +1060,9 @@
   </script>
 
   <script>
-    // =====================
-    // ✅ อัปเดตแอปแบบ Play Store: ตรวจเวอร์ชันใหม่ -> เด้ง banner -> กด "อัปเดต" -> รีเฟรชอัตโนมัติ
-    // =====================
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
-        navigator.serviceWorker.register('sw.js').then(function (registration) {
-
-          const banner = document.getElementById('updateBanner');
-          const btnUpdate = document.getElementById('btnUpdateNow');
-          let waitingWorker = null;
-
-          function showUpdateBanner(worker) {
-            waitingWorker = worker;
-            banner.classList.add('show');
-          }
-
-          // กรณี Service Worker เวอร์ชันใหม่ "ติดตั้งเสร็จ" แต่รอเวอร์ชันเก่าเลิกใช้งานอยู่ (waiting state)
-          if (registration.waiting && registration.active) {
-            showUpdateBanner(registration.waiting);
-          }
-
-          // กรณีเจอเวอร์ชันใหม่ระหว่างที่หน้าเปิดอยู่ (เช็ค sw.js ใหม่แล้วต่างจากเดิม)
-          registration.addEventListener('updatefound', function () {
-            const newWorker = registration.installing;
-            if (!newWorker) return;
-            newWorker.addEventListener('statechange', function () {
-              // 'installed' + มี controller อยู่แล้ว = อัปเดตจากเวอร์ชันเก่า (ไม่ใช่ติดตั้งครั้งแรก)
-              if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                showUpdateBanner(newWorker);
-              }
-            });
-          });
-
-          btnUpdate.addEventListener('click', function () {
-            if (!waitingWorker) return;
-            btnUpdate.disabled = true;
-            btnUpdate.textContent = 'กำลังอัปเดต…';
-            waitingWorker.postMessage({ type: 'SKIP_WAITING' });
-          });
-
-          // เมื่อ Service Worker ใหม่เข้าควบคุมหน้าเว็บสำเร็จ -> รีโหลดหน้าเพื่อใช้โค้ดเวอร์ชันใหม่
-          let refreshed = false;
-          navigator.serviceWorker.addEventListener('controllerchange', function () {
-            if (refreshed) return;
-            refreshed = true;
-            window.location.reload();
-          });
-
-          // เผื่อกรณีเปิดแอปทิ้งไว้นาน (เช่นสแกนของในโกดัง) -> เช็คอัปเดตเองทุกครั้งที่กลับมาที่แท็บ
-          document.addEventListener('visibilitychange', function () {
-            if (document.visibilityState === 'visible') registration.update();
-          });
-
-        }).catch(function (err) {
+        navigator.serviceWorker.register('sw.js').catch(function (err) {
           console.log('SW register failed:', err);
         });
       });
