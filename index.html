@@ -315,17 +315,27 @@
 
     .cam-frame {
       position: absolute;
-      inset: 4% 4% 15% 4%;
+      inset: 3% 3% 11% 3%; /* ✅ ขยายกรอบสแกนให้คลุมพื้นที่วิดีโอมากขึ้น (เดิม 4% 4% 15% 4%) */
       border: 2px solid rgba(255, 255, 255, 0.3);
       border-radius: 24px;
       box-shadow: 0 0 0 2000px rgba(0, 0, 0, 0.6);
       pointer-events: none;
     }
-    .cam-frame::before, .cam-frame::after {
-      content: ''; position: absolute; width: 24px; height: 24px; border-color: #fff; border-style: solid; border-width: 0;
+    /* ✅ มุมเรืองแสงสีเหลือง/ทอง วางชิดขอบกรอบสแกนพอดี (ไม่มีช่องว่างจากมุม)
+       ใช้แทนไฮไลท์เหลืองปกติของไลบรารี qr-scanner ที่คำนวณตำแหน่งแยกกันเอง
+       ทำให้บางครั้งไม่ตรงกับกรอบขาวเป๊ะ ๆ — ที่นี่ครอบทั้ง 4 มุมด้วยกรอบเดียวกันเลย รับประกันว่าตรงกันเสมอ */
+    .cam-frame::before, .cam-frame::after,
+    .cam-frame .corner-tr, .cam-frame .corner-bl {
+      content: ''; position: absolute; width: 34px; height: 34px;
+      border-color: #f5c518; border-style: solid; border-width: 0;
     }
-    .cam-frame::before { top: -2px; left: -2px; border-top-width: 4px; border-left-width: 4px; border-top-left-radius: 12px; }
-    .cam-frame::after { bottom: -2px; right: -2px; border-bottom-width: 4px; border-right-width: 4px; border-bottom-right-radius: 12px; }
+    .cam-frame::before { top: -2px; left: -2px; border-top-width: 5px; border-left-width: 5px; border-top-left-radius: 14px; }
+    .cam-frame::after { bottom: -2px; right: -2px; border-bottom-width: 5px; border-right-width: 5px; border-bottom-right-radius: 14px; }
+    .cam-frame .corner-tr { top: -2px; right: -2px; border-top-width: 5px; border-right-width: 5px; border-top-right-radius: 14px; }
+    .cam-frame .corner-bl { bottom: -2px; left: -2px; border-bottom-width: 5px; border-left-width: 5px; border-bottom-left-radius: 14px; }
+
+    /* ✅ ปิดไฮไลท์เหลืองเริ่มต้นของไลบรารี qr-scanner (ใช้กรอบมุมของเราแทนทั้งหมด กันไม่ให้มี 2 กรอบซ้อนกันแบบไม่ตรงกัน */
+    .scan-region-highlight-svg { display: none !important; }
 
     /* ✅ ซูมมือ (manual zoom): แถบเลื่อนแนวตั้งด้านขวาของกล้อง โผล่เฉพาะกล้องที่รองรับ zoom */
     .zoom-slider-wrap {
@@ -640,7 +650,10 @@
         <div id="scanCamera">
           <div class="cam-wrap">
             <video id="video" autoplay playsinline muted></video>
-            <div class="cam-frame"></div>
+            <div class="cam-frame">
+              <div class="corner-tr"></div>
+              <div class="corner-bl"></div>
+            </div>
             <div class="cam-counter" id="camCounter">✓ <span id="camCounterNum">0</span> กล่องแล้ว</div>
             <div class="cam-hint" id="camHint">จัดกรอบให้ตรง QR</div>
             <button id="btnCloseCam" class="cam-close" aria-label="ปิดกล้อง">✕</button>
