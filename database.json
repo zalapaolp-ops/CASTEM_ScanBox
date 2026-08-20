@@ -271,60 +271,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900453",
-    "itemCode": "10-25030-100",
-    "itemName": "CAM CASE(XWE081-001) ｶﾑｹｰｽ (XWE081-001)",
-    "qty": 264,
-    "tray": 2,
-    "note": "264,Tray#88,6pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900454",
-    "itemCode": "10-25030-100",
-    "itemName": "CAM CASE(XWE081-001) ｶﾑｹｰｽ (XWE081-001)",
-    "qty": 36,
-    "tray": 2,
-    "note": "264,Tray#88,6pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900458",
-    "itemCode": "10-26802-100",
-    "itemName": "Y FORM TIP METAL FITTING Y形先端金具 (C-4079-04)",
-    "qty": 20,
-    "tray": 2,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900459",
-    "itemCode": "10-26802-100",
-    "itemName": "Y FORM TIP METAL FITTING Y形先端金具 (C-4079-04)",
-    "qty": 20,
-    "tray": 2,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900460",
-    "itemCode": "10-26802-100",
-    "itemName": "Y FORM TIP METAL FITTING Y形先端金具 (C-4079-04)",
-    "qty": 20,
-    "tray": 2,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900461",
-    "itemCode": "10-26802-100",
-    "itemName": "Y FORM TIP METAL FITTING Y形先端金具 (C-4079-04)",
-    "qty": 12,
-    "tray": 2,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900463",
     "itemCode": "10-21926-100",
     "itemName": "BOLT BOLT （AC9 3063 400)",
@@ -550,141 +496,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900579",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900580",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900581",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900582",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900583",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900584",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900585",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900586",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900587",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900588",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900589",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900590",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900591",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900592",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900593",
-    "itemCode": "10-29378-000",
-    "itemName": "BALL ﾎﾞｰﾙ",
-    "qty": 20,
-    "tray": 4,
-    "note": "20,Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900603",
     "itemCode": "10-26511-000",
     "itemName": "ARM ｱｰﾑ",
@@ -725,7 +536,7 @@
     "itemCode": "10-24822-100",
     "itemName": "ROCKER ARM ﾛｯｶｰｱｰﾑ",
     "qty": 144,
-    "tray": 5,
+    "tray": 4,
     "note": "144,Tray#48,3+3pcs."
   },
   {
@@ -734,7 +545,7 @@
     "itemCode": "10-24822-100",
     "itemName": "ROCKER ARM ﾛｯｶｰｱｰﾑ",
     "qty": 17,
-    "tray": 5,
+    "tray": 4,
     "note": "144,Tray#48,3+3pcs."
   },
   {
@@ -743,7 +554,7 @@
     "itemCode": "10-26509-000",
     "itemName": "ARM ｱｰﾑ",
     "qty": 210,
-    "tray": 5,
+    "tray": 4,
     "note": "616,Tray#88,8pcs."
   },
   {
@@ -752,71 +563,8 @@
     "itemCode": "10-26509-000",
     "itemName": "ARM ｱｰﾑ",
     "qty": 210,
-    "tray": 5,
+    "tray": 4,
     "note": "616,Tray#88,8pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900609",
-    "itemCode": "10-29417-000",
-    "itemName": "MAIN BRKT INJECTION DRIVE MAIN BRKT INJECTION DRIVE",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900610",
-    "itemCode": "10-29417-000",
-    "itemName": "MAIN BRKT INJECTION DRIVE MAIN BRKT INJECTION DRIVE",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900611",
-    "itemCode": "10-29417-000",
-    "itemName": "MAIN BRKT INJECTION DRIVE MAIN BRKT INJECTION DRIVE",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900612",
-    "itemCode": "10-29417-000",
-    "itemName": "MAIN BRKT INJECTION DRIVE MAIN BRKT INJECTION DRIVE",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900613",
-    "itemCode": "10-29417-000",
-    "itemName": "MAIN BRKT INJECTION DRIVE MAIN BRKT INJECTION DRIVE",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900614",
-    "itemCode": "10-29417-000",
-    "itemName": "MAIN BRKT INJECTION DRIVE MAIN BRKT INJECTION DRIVE",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900615",
-    "itemCode": "10-29417-000",
-    "itemName": "MAIN BRKT INJECTION DRIVE MAIN BRKT INJECTION DRIVE",
-    "qty": 3,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
   },
   {
     "type": "SEA",
@@ -824,7 +572,7 @@
     "itemCode": "10-24242-000",
     "itemName": "SLIDER L ｽﾗｲﾀﾞL",
     "qty": 40,
-    "tray": 5,
+    "tray": 4,
     "note": "60,Tray#20,3pcs."
   },
   {
@@ -833,7 +581,7 @@
     "itemCode": "10-24242-000",
     "itemName": "SLIDER L ｽﾗｲﾀﾞL",
     "qty": 40,
-    "tray": 5,
+    "tray": 4,
     "note": "60,Tray#20,3pcs."
   },
   {
@@ -842,7 +590,7 @@
     "itemCode": "10-24242-000",
     "itemName": "SLIDER L ｽﾗｲﾀﾞL",
     "qty": 40,
-    "tray": 5,
+    "tray": 4,
     "note": "60,Tray#20,3pcs."
   },
   {
@@ -851,8 +599,260 @@
     "itemCode": "10-24242-000",
     "itemName": "SLIDER L ｽﾗｲﾀﾞL",
     "qty": 40,
-    "tray": 5,
+    "tray": 4,
     "note": "60,Tray#20,3pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000115",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000116",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000117",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000118",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000119",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 55,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000120",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000121",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000122",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000123",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000124",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000125",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000126",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000127",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 400,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000128",
+    "itemCode": "10-01633-000",
+    "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
+    "qty": 145,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000131",
+    "itemCode": "10-27486-000",
+    "itemName": "GUIDE C (KMX-M919H-001) GUIDE C (KMX-M919H-001)",
+    "qty": 500,
+    "tray": 5,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000132",
+    "itemCode": "10-27486-000",
+    "itemName": "GUIDE C (KMX-M919H-001) GUIDE C (KMX-M919H-001)",
+    "qty": 235,
+    "tray": 5,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000133",
+    "itemCode": "10-29106-000",
+    "itemName": "SHAFT,CUTTER LH SHAFT,CUTTER LH",
+    "qty": 192,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000134",
+    "itemCode": "10-11108-000",
+    "itemName": "CL12N4X8D HEAD CL12N4X8Dﾍｯﾄﾞｿｻﾞｲ (T-850719)",
+    "qty": 294,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000135",
+    "itemCode": "10-06943-100",
+    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-40Aﾎﾞﾃﾞｨ",
+    "qty": 4,
+    "tray": 5,
+    "note": "6,Tray#6,2 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000136",
+    "itemCode": "10-27404-100",
+    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
+    "qty": 12,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000137",
+    "itemCode": "10-27404-100",
+    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
+    "qty": 5,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000138",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 500,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000139",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 500,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000140",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 500,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000141",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 500,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000142",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 500,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000143",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 475,
+    "tray": 5,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000144",
+    "itemCode": "10-29326-000",
+    "itemName": "ARMATURE SUPPORT ｱｰﾏﾁｭｱ支え",
+    "qty": 107,
+    "tray": 5,
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1432,42 +1432,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900802",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 144,
-    "tray": 9,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900803",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 144,
-    "tray": 9,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900804",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 144,
-    "tray": 9,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900805",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 60,
-    "tray": 9,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900807",
     "itemCode": "10-29481-110",
     "itemName": "TURBO ROLL(TOP) ﾀｰﾎﾞﾛｰﾙ(上)",
@@ -1540,42 +1504,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900816",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 144,
-    "tray": 9,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900817",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 144,
-    "tray": 9,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900818",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 144,
-    "tray": 9,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900819",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 65,
-    "tray": 9,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900677",
     "itemCode": "10-28463-000",
     "itemName": "MIRROR HOLDER A ﾐﾗｰﾎﾙﾀﾞｰA (3200933618/H3185214001)",
@@ -1618,15 +1546,6 @@
     "qty": 45,
     "tray": 10,
     "note": "70,Tray#35,4pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900450",
-    "itemCode": "10-27093-100",
-    "itemName": "HOOK ﾌｯｸ",
-    "qty": 100,
-    "tray": 10,
-    "note": ""
   },
   {
     "type": "SEA",
@@ -2620,42 +2539,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900136",
-    "itemCode": "10-29393-000",
-    "itemName": "IMPELLER 羽根",
-    "qty": 180,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900137",
-    "itemCode": "10-29393-000",
-    "itemName": "IMPELLER 羽根",
-    "qty": 40,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900138",
-    "itemCode": "10-24041-000",
-    "itemName": "SJP CONTROL STAND S ( C ) HWC1091M SJP制御台S(C)",
-    "qty": 40,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900139",
-    "itemCode": "10-24041-000",
-    "itemName": "SJP CONTROL STAND S ( C ) HWC1091M SJP制御台S(C)",
-    "qty": 37,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900140",
     "itemCode": "10-24698-000",
     "itemName": "SUPPORT SUPPORT",
@@ -2696,42 +2579,6 @@
     "itemCode": "10-21641-000",
     "itemName": "QL25N HEAD C 225QLﾍｯﾄﾞｿｻﾞｲ",
     "qty": 106,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900156",
-    "itemCode": "10-29958-000",
-    "itemName": "SLIDERACK L ｽﾗｲﾀﾞﾗｯｸL",
-    "qty": 75,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900157",
-    "itemCode": "10-29958-000",
-    "itemName": "SLIDERACK L ｽﾗｲﾀﾞﾗｯｸL",
-    "qty": 75,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900158",
-    "itemCode": "10-29958-000",
-    "itemName": "SLIDERACK L ｽﾗｲﾀﾞﾗｯｸL",
-    "qty": 75,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900159",
-    "itemCode": "10-29958-000",
-    "itemName": "SLIDERACK L ｽﾗｲﾀﾞﾗｯｸL",
-    "qty": 51,
     "tray": 13,
     "note": "A"
   },
@@ -3853,24 +3700,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900451",
-    "itemCode": "10-29735-100",
-    "itemName": "PHASE ADJUSTMENT BOARD 25 位相調整板25",
-    "qty": 230,
-    "tray": 16,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900452",
-    "itemCode": "10-29735-100",
-    "itemName": "PHASE ADJUSTMENT BOARD 25 位相調整板25",
-    "qty": 216,
-    "tray": 16,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900455",
     "itemCode": "10-20373-100",
     "itemName": "END HANGER 1 ｴﾝﾄﾞﾊﾝｶﾞｰ1(ﾊﾈ上げ)",
@@ -4141,15 +3970,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900520",
-    "itemCode": "10-25292-100",
-    "itemName": "LEVER ﾚﾊﾞｰ (CP135-10001L-02)",
-    "qty": 100,
-    "tray": 17,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900525",
     "itemCode": "10-27075-100",
     "itemName": "DRIVEN HOUSING2 従動部ﾊｳｼﾞﾝｸﾞ(2)",
@@ -4254,87 +4074,6 @@
     "itemName": "FINGER HOLDER YBM-640V ﾌｨﾝｶﾞｰﾎﾙﾀﾞｰ",
     "qty": 7,
     "tray": 17,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900471",
-    "itemCode": "10-21478-100",
-    "itemName": "HOOK フック完成図",
-    "qty": 15,
-    "tray": 18,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900472",
-    "itemCode": "10-21478-100",
-    "itemName": "HOOK フック完成図",
-    "qty": 15,
-    "tray": 18,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900473",
-    "itemCode": "10-21478-100",
-    "itemName": "HOOK フック完成図",
-    "qty": 15,
-    "tray": 18,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900474",
-    "itemCode": "10-21478-100",
-    "itemName": "HOOK フック完成図",
-    "qty": 15,
-    "tray": 18,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900475",
-    "itemCode": "10-21478-100",
-    "itemName": "HOOK フック完成図",
-    "qty": 15,
-    "tray": 18,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900476",
-    "itemCode": "10-21478-100",
-    "itemName": "HOOK フック完成図",
-    "qty": 15,
-    "tray": 18,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900477",
-    "itemCode": "10-21478-100",
-    "itemName": "HOOK フック完成図",
-    "qty": 15,
-    "tray": 18,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900478",
-    "itemCode": "10-21478-100",
-    "itemName": "HOOK フック完成図",
-    "qty": 15,
-    "tray": 18,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900479",
-    "itemCode": "10-21478-100",
-    "itemName": "HOOK フック完成図",
-    "qty": 12,
-    "tray": 18,
     "note": "A"
   },
   {
@@ -4789,15 +4528,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900574",
-    "itemCode": "10-02936-000",
-    "itemName": "CAM ｶﾑ",
-    "qty": 100,
-    "tray": 19,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900575",
     "itemCode": "10-27025-000",
     "itemName": "HN-65 USA SEND NAIL HN-65(USA)ｵｸﾘﾂﾞﾒ",
@@ -4838,24 +4568,6 @@
     "itemCode": "10-04440-000",
     "itemName": "LEVER A ﾚﾊﾞ-A (5734B8587)",
     "qty": 20,
-    "tray": 19,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900596",
-    "itemCode": "10-08466-000",
-    "itemName": "STOPPER FITTING 後面止金具(SP448078)",
-    "qty": 2,
-    "tray": 19,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900597",
-    "itemCode": "10-08466-000",
-    "itemName": "STOPPER FITTING 後面止金具(SP448078)",
-    "qty": 25,
     "tray": 19,
     "note": "A"
   },
@@ -6130,6 +5842,24 @@
   },
   {
     "type": "SEA",
+    "boxNo": "S26082000129",
+    "itemCode": "10-26368-000",
+    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
+    "qty": 14,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000130",
+    "itemCode": "10-26368-000",
+    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
+    "qty": 10,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
     "boxNo": "S26081900105",
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
@@ -6256,42 +5986,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900152",
-    "itemCode": "10-29957-000",
-    "itemName": "SLIDERACK R ｽﾗｲﾀﾞﾗｯｸR",
-    "qty": 75,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900153",
-    "itemCode": "10-29957-000",
-    "itemName": "SLIDERACK R ｽﾗｲﾀﾞﾗｯｸR",
-    "qty": 75,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900154",
-    "itemCode": "10-29957-000",
-    "itemName": "SLIDERACK R ｽﾗｲﾀﾞﾗｯｸR",
-    "qty": 75,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900155",
-    "itemCode": "10-29957-000",
-    "itemName": "SLIDERACK R ｽﾗｲﾀﾞﾗｯｸR",
-    "qty": 51,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900160",
     "itemCode": "10-21244-000",
     "itemName": "BODY ﾎﾞﾃﾞｨ(VX022S-2S-03-AS)",
@@ -6328,87 +6022,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900185",
-    "itemCode": "10-08368-000",
-    "itemName": "HEAD MATERIAL QH12Dﾍｯﾄﾞｿｻﾞｲ(01T46836)",
-    "qty": 60,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900186",
-    "itemCode": "10-08368-000",
-    "itemName": "HEAD MATERIAL QH12Dﾍｯﾄﾞｿｻﾞｲ(01T46836)",
-    "qty": 60,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900187",
-    "itemCode": "10-08368-000",
-    "itemName": "HEAD MATERIAL QH12Dﾍｯﾄﾞｿｻﾞｲ(01T46836)",
-    "qty": 60,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900188",
-    "itemCode": "10-08368-000",
-    "itemName": "HEAD MATERIAL QH12Dﾍｯﾄﾞｿｻﾞｲ(01T46836)",
-    "qty": 60,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900189",
-    "itemCode": "10-08368-000",
-    "itemName": "HEAD MATERIAL QH12Dﾍｯﾄﾞｿｻﾞｲ(01T46836)",
-    "qty": 60,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900190",
-    "itemCode": "10-08368-000",
-    "itemName": "HEAD MATERIAL QH12Dﾍｯﾄﾞｿｻﾞｲ(01T46836)",
-    "qty": 60,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900191",
-    "itemCode": "10-08368-000",
-    "itemName": "HEAD MATERIAL QH12Dﾍｯﾄﾞｿｻﾞｲ(01T46836)",
-    "qty": 60,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900192",
-    "itemCode": "10-08368-000",
-    "itemName": "HEAD MATERIAL QH12Dﾍｯﾄﾞｿｻﾞｲ(01T46836)",
-    "qty": 60,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900193",
-    "itemCode": "10-08368-000",
-    "itemName": "HEAD MATERIAL QH12Dﾍｯﾄﾞｿｻﾞｲ(01T46836)",
-    "qty": 26,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900197",
     "itemCode": "10-28680-000",
     "itemName": "BLIND BRACKET SS KEY TYPE AFTER Blind Bracket SS Key(Type After)(H1880-00)",
@@ -6422,15 +6035,6 @@
     "itemCode": "10-28680-000",
     "itemName": "BLIND BRACKET SS KEY TYPE AFTER Blind Bracket SS Key(Type After)(H1880-00)",
     "qty": 1600,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900200",
-    "itemCode": "10-27407-000",
-    "itemName": "VALVE 弁",
-    "qty": 30,
     "tray": 24,
     "note": "M"
   },
@@ -6683,15 +6287,6 @@
     "itemCode": "10-28807-000",
     "itemName": "SLEEVE A ｽﾘｰﾌﾞA(RB13135)",
     "qty": 60,
-    "tray": 24,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900243",
-    "itemCode": "10-27486-000",
-    "itemName": "GUIDE C (KMX-M919H-001) GUIDE C (KMX-M919H-001)",
-    "qty": 156,
     "tray": 24,
     "note": "M"
   },
@@ -7210,51 +6805,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26081900445",
-    "itemCode": "10-11615-100",
-    "itemName": "HOLDER 押え金",
-    "qty": 1000,
-    "tray": 25,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900446",
-    "itemCode": "10-11615-100",
-    "itemName": "HOLDER 押え金",
-    "qty": 1000,
-    "tray": 25,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900447",
-    "itemCode": "10-11615-100",
-    "itemName": "HOLDER 押え金",
-    "qty": 1000,
-    "tray": 25,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900448",
-    "itemCode": "10-11615-100",
-    "itemName": "HOLDER 押え金",
-    "qty": 1000,
-    "tray": 25,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900449",
-    "itemCode": "10-11615-100",
-    "itemName": "HOLDER 押え金",
-    "qty": 500,
-    "tray": 25,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26081900462",
     "itemCode": "10-11614-100",
     "itemName": "ACP3S HOLDER 押え金 ACP3S (X-71517B)",
@@ -7268,51 +6818,6 @@
     "itemCode": "10-02609-100",
     "itemName": "DAMPER ARM ダンパーアーム",
     "qty": 76,
-    "tray": 25,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900529",
-    "itemCode": "10-02621-100",
-    "itemName": "CYLINDER FITTINGS Yﾅｯｸﾙ (D4-252285)",
-    "qty": 85,
-    "tray": 25,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900530",
-    "itemCode": "10-02621-100",
-    "itemName": "CYLINDER FITTINGS Yﾅｯｸﾙ (D4-252285)",
-    "qty": 44,
-    "tray": 25,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900531",
-    "itemCode": "10-02621-100",
-    "itemName": "CYLINDER FITTINGS Yﾅｯｸﾙ (D4-252285)",
-    "qty": 85,
-    "tray": 25,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900532",
-    "itemCode": "10-02621-100",
-    "itemName": "CYLINDER FITTINGS Yﾅｯｸﾙ (D4-252285)",
-    "qty": 85,
-    "tray": 25,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900533",
-    "itemCode": "10-02621-100",
-    "itemName": "CYLINDER FITTINGS Yﾅｯｸﾙ (D4-252285)",
-    "qty": 30,
     "tray": 25,
     "note": "M"
   },
@@ -7468,5 +6973,383 @@
     "qty": 120,
     "tray": 26,
     "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000157",
+    "itemCode": "10-23264-000",
+    "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
+    "qty": 120,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000158",
+    "itemCode": "10-23264-000",
+    "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
+    "qty": 150,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000159",
+    "itemCode": "10-23264-000",
+    "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
+    "qty": 50,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000160",
+    "itemCode": "10-23264-000",
+    "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
+    "qty": 96,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000145",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000146",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000147",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000148",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000149",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000150",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000151",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000152",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000153",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000154",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000155",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 30,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000156",
+    "itemCode": "10-20971-000",
+    "itemName": "FLAP 羽根 (2T-0924)",
+    "qty": 24,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000161",
+    "itemCode": "10-30250-000",
+    "itemName": "MOVABLE SIDE CLAMP 可動側ｸﾗﾝﾌﾟ",
+    "qty": 100,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000162",
+    "itemCode": "10-30250-000",
+    "itemName": "MOVABLE SIDE CLAMP 可動側ｸﾗﾝﾌﾟ",
+    "qty": 100,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000163",
+    "itemCode": "10-30250-000",
+    "itemName": "MOVABLE SIDE CLAMP 可動側ｸﾗﾝﾌﾟ",
+    "qty": 100,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000164",
+    "itemCode": "10-30250-000",
+    "itemName": "MOVABLE SIDE CLAMP 可動側ｸﾗﾝﾌﾟ",
+    "qty": 100,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000165",
+    "itemCode": "10-30250-000",
+    "itemName": "MOVABLE SIDE CLAMP 可動側ｸﾗﾝﾌﾟ",
+    "qty": 74,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000166",
+    "itemCode": "10-03441-000",
+    "itemName": "CASE A ｹｰｽA(20315002)",
+    "qty": 10,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000167",
+    "itemCode": "10-03441-000",
+    "itemName": "CASE A ｹｰｽA(20315002)",
+    "qty": 10,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000168",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000169",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000170",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000171",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000172",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000173",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000174",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000175",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000176",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000177",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000178",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000179",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000180",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000181",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000182",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000183",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000184",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000185",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082000186",
+    "itemCode": "10-21373-000",
+    "itemName": "BLACKET,CYLINDER UEL ROATING Bracket,Cylnder UEL Roating",
+    "qty": 1,
+    "tray": 27,
+    "note": "A"
   }
 ]
