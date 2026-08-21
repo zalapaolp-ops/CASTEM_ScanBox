@@ -604,6 +604,60 @@
   },
   {
     "type": "SEA",
+    "boxNo": "S26082100033",
+    "itemCode": "10-29481-110",
+    "itemName": "TURBO ROLL(TOP) ﾀｰﾎﾞﾛｰﾙ(上)",
+    "qty": 9,
+    "tray": 4,
+    "note": "9,Tray#9,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100034",
+    "itemCode": "10-29481-110",
+    "itemName": "TURBO ROLL(TOP) ﾀｰﾎﾞﾛｰﾙ(上)",
+    "qty": 1,
+    "tray": 4,
+    "note": "9,Tray#9,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100029",
+    "itemCode": "10-22671-000",
+    "itemName": "BLOCK ﾌﾞﾛｯｸ(1E000046775)",
+    "qty": 60,
+    "tray": 4,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100030",
+    "itemCode": "10-22671-000",
+    "itemName": "BLOCK ﾌﾞﾛｯｸ(1E000046775)",
+    "qty": 60,
+    "tray": 4,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100031",
+    "itemCode": "10-22671-000",
+    "itemName": "BLOCK ﾌﾞﾛｯｸ(1E000046775)",
+    "qty": 60,
+    "tray": 4,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100032",
+    "itemCode": "10-22671-000",
+    "itemName": "BLOCK ﾌﾞﾛｯｸ(1E000046775)",
+    "qty": 55,
+    "tray": 4,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
     "boxNo": "S26082000115",
     "itemCode": "10-01633-000",
     "itemName": "CLAMP TOP SLIDE GUIDE(UM3530801)ｸﾗﾝﾌﾟｺﾏ",
@@ -760,7 +814,7 @@
     "boxNo": "S26082000134",
     "itemCode": "10-11108-000",
     "itemName": "CL12N4X8D HEAD CL12N4X8Dﾍｯﾄﾞｿｻﾞｲ (T-850719)",
-    "qty": 294,
+    "qty": 271,
     "tray": 5,
     "note": "A"
   },
@@ -1435,7 +1489,7 @@
     "boxNo": "S26081900807",
     "itemCode": "10-29481-110",
     "itemName": "TURBO ROLL(TOP) ﾀｰﾎﾞﾛｰﾙ(上)",
-    "qty": 6,
+    "qty": 4,
     "tray": 9,
     "note": "9,Tray#9,2pcs."
   },
@@ -1525,7 +1579,7 @@
     "boxNo": "S26081900692",
     "itemCode": "10-23353-000",
     "itemName": "F LOCK ARM Fﾛｯｸｱｰﾑ",
-    "qty": 132,
+    "qty": 104,
     "tray": 10,
     "note": "144,Tray#48,3pcs."
   },
@@ -1624,7 +1678,7 @@
     "boxNo": "S26081900648",
     "itemCode": "10-28267-000",
     "itemName": "BODY BODY",
-    "qty": 15,
+    "qty": 10,
     "tray": 10,
     "note": "#N/A"
   },
@@ -1633,7 +1687,7 @@
     "boxNo": "S26081900649",
     "itemCode": "10-28267-000",
     "itemName": "BODY BODY",
-    "qty": 15,
+    "qty": "-",
     "tray": 10,
     "note": "#N/A"
   },
@@ -1642,7 +1696,7 @@
     "boxNo": "S26081900650",
     "itemCode": "10-28267-000",
     "itemName": "BODY BODY",
-    "qty": 15,
+    "qty": "-",
     "tray": 10,
     "note": "#N/A"
   },
@@ -1651,7 +1705,7 @@
     "boxNo": "S26081900651",
     "itemCode": "10-28267-000",
     "itemName": "BODY BODY",
-    "qty": 5,
+    "qty": "-",
     "tray": 10,
     "note": "#N/A"
   },
@@ -2974,7 +3028,7 @@
     "boxNo": "S26081900286",
     "itemCode": "10-24137-000",
     "itemName": "CONNECTION BOARD INSTALLATION STAND KOTO559ME 連結板取り付け台",
-    "qty": 100,
+    "qty": 20,
     "tray": 14,
     "note": "A"
   },
@@ -3362,15 +3416,6 @@
     "itemCode": "10-25635-000",
     "itemName": "HR-AV/ST CLINDER STAY A HR-AV/STｼﾘﾝﾀﾞｽﾃｰA(HR10759)",
     "qty": 30,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26081900335",
-    "itemCode": "10-24137-000",
-    "itemName": "CONNECTION BOARD INSTALLATION STAND KOTO559ME 連結板取り付け台",
-    "qty": 100,
     "tray": 15,
     "note": "A"
   },
@@ -6799,7 +6844,7 @@
     "boxNo": "S26081900408",
     "itemCode": "10-11382-000",
     "itemName": "FINGER ﾌｨﾝｶﾞ （P3318304-1-M)",
-    "qty": 95,
+    "qty": 80,
     "tray": 25,
     "note": "M"
   },
@@ -6976,37 +7021,253 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26082000157",
-    "itemCode": "10-23264-000",
-    "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
-    "qty": 120,
+    "boxNo": "S26082100001",
+    "itemCode": "10-22985-000",
+    "itemName": "STEPPED PLATE 段付き板 (2K626-457)",
+    "qty": 140,
+    "tray": 26,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100002",
+    "itemCode": "10-22985-000",
+    "itemName": "STEPPED PLATE 段付き板 (2K626-457)",
+    "qty": 140,
+    "tray": 26,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100003",
+    "itemCode": "10-22985-000",
+    "itemName": "STEPPED PLATE 段付き板 (2K626-457)",
+    "qty": 140,
+    "tray": 26,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100004",
+    "itemCode": "10-22985-000",
+    "itemName": "STEPPED PLATE 段付き板 (2K626-457)",
+    "qty": 54,
+    "tray": 26,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100005",
+    "itemCode": "10-22923-000",
+    "itemName": "GUIDE ROLLER CONTROL LEVER L ｶﾞｲﾄﾞﾛｰﾗｰ調節ﾚﾊﾞｰL(JET0003M)",
+    "qty": 200,
     "tray": 26,
     "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26082000158",
+    "boxNo": "S26082100006",
     "itemCode": "10-23264-000",
     "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
-    "qty": 150,
+    "qty": 105,
     "tray": 26,
     "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26082000159",
+    "boxNo": "S26082100007",
     "itemCode": "10-23264-000",
     "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
-    "qty": 50,
+    "qty": 15,
     "tray": 26,
     "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26082000160",
+    "boxNo": "S26082100008",
+    "itemCode": "10-22923-000",
+    "itemName": "GUIDE ROLLER CONTROL LEVER L ｶﾞｲﾄﾞﾛｰﾗｰ調節ﾚﾊﾞｰL(JET0003M)",
+    "qty": 200,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100009",
+    "itemCode": "10-23264-000",
+    "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
+    "qty": 105,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100010",
+    "itemCode": "10-23264-000",
+    "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
+    "qty": 95,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100011",
+    "itemCode": "10-22923-000",
+    "itemName": "GUIDE ROLLER CONTROL LEVER L ｶﾞｲﾄﾞﾛｰﾗｰ調節ﾚﾊﾞｰL(JET0003M)",
+    "qty": 200,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100012",
+    "itemCode": "10-22923-000",
+    "itemName": "GUIDE ROLLER CONTROL LEVER L ｶﾞｲﾄﾞﾛｰﾗｰ調節ﾚﾊﾞｰL(JET0003M)",
+    "qty": 200,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100013",
+    "itemCode": "10-22923-000",
+    "itemName": "GUIDE ROLLER CONTROL LEVER L ｶﾞｲﾄﾞﾛｰﾗｰ調節ﾚﾊﾞｰL(JET0003M)",
+    "qty": 200,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100014",
+    "itemCode": "10-22923-000",
+    "itemName": "GUIDE ROLLER CONTROL LEVER L ｶﾞｲﾄﾞﾛｰﾗｰ調節ﾚﾊﾞｰL(JET0003M)",
+    "qty": 200,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100015",
     "itemCode": "10-23264-000",
     "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
     "qty": 96,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100016",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100017",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100018",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 10,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100019",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100020",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100021",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100022",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100023",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100024",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100025",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100026",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100027",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
+    "tray": 26,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26082100028",
+    "itemCode": "10-21478-100",
+    "itemName": "HOOK フック完成図",
+    "qty": 15,
     "tray": 26,
     "note": "A"
   },
