@@ -325,6 +325,33 @@
   },
   {
     "type": "AIR",
+    "boxNo": "S26082601058",
+    "itemCode": "10-29774-120",
+    "itemName": "END CAP ｴﾝﾄﾞｷｬｯﾌﾟ",
+    "qty": 9,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26082601059",
+    "itemCode": "10-29774-120",
+    "itemName": "END CAP ｴﾝﾄﾞｷｬｯﾌﾟ",
+    "qty": 9,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26082601060",
+    "itemCode": "10-29774-120",
+    "itemName": "END CAP ｴﾝﾄﾞｷｬｯﾌﾟ",
+    "qty": 3,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
     "boxNo": "S26082600990",
     "itemCode": "10-10657-000",
     "itemName": "BODY ACV-S2H 本体 ACV-S2H 45S02H99",
@@ -826,33 +853,6 @@
     "qty": 3,
     "tray": 2,
     "note": "#N/A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26082601058",
-    "itemCode": "10-29774-120",
-    "itemName": "END CAP ｴﾝﾄﾞｷｬｯﾌﾟ",
-    "qty": 9,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26082601059",
-    "itemCode": "10-29774-120",
-    "itemName": "END CAP ｴﾝﾄﾞｷｬｯﾌﾟ",
-    "qty": 9,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26082601060",
-    "itemCode": "10-29774-120",
-    "itemName": "END CAP ｴﾝﾄﾞｷｬｯﾌﾟ",
-    "qty": 3,
-    "tray": 2,
-    "note": "A"
   },
   {
     "type": "AIR",
