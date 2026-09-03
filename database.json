@@ -1,1342 +1,631 @@
 [
   {
     "type": "AIR",
-    "boxNo": "S26083100015",
-    "itemCode": "10-27758-100",
-    "itemName": "SWITCH MOUNTING BASE ｽｲｯﾁ取付台",
-    "qty": 40,
+    "boxNo": "S26090200626",
+    "itemCode": "10-26802-100",
+    "itemName": "Y FORM TIP METAL FITTING Y形先端金具 (C-4079-04)",
+    "qty": 20,
     "tray": 1,
-    "note": "144,Tray#48,3 pcs"
+    "note": "20,Tray#20,2pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100016",
-    "itemCode": "10-30113-120",
-    "itemName": "GEAR CASE ｷﾞﾔｰｹｰｽ",
+    "boxNo": "S26090200627",
+    "itemCode": "10-26802-100",
+    "itemName": "Y FORM TIP METAL FITTING Y形先端金具 (C-4079-04)",
+    "qty": 20,
+    "tray": 1,
+    "note": "20,Tray#20,2pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200628",
+    "itemCode": "10-26802-100",
+    "itemName": "Y FORM TIP METAL FITTING Y形先端金具 (C-4079-04)",
+    "qty": 20,
+    "tray": 1,
+    "note": "20,Tray#20,2pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200629",
+    "itemCode": "10-26802-100",
+    "itemName": "Y FORM TIP METAL FITTING Y形先端金具 (C-4079-04)",
+    "qty": 12,
+    "tray": 1,
+    "note": "20,Tray#20,2pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200654",
+    "itemCode": "10-27259-100",
+    "itemName": "BODY ﾎﾞﾃﾞｨ (OP232-RP-109-1)",
+    "qty": 20,
+    "tray": 1,
+    "note": "20,#20,2PCS."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200655",
+    "itemCode": "10-27259-100",
+    "itemName": "BODY ﾎﾞﾃﾞｨ (OP232-RP-109-1)",
+    "qty": 20,
+    "tray": 1,
+    "note": "20,#20,2PCS."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200656",
+    "itemCode": "10-27259-100",
+    "itemName": "BODY ﾎﾞﾃﾞｨ (OP232-RP-109-1)",
+    "qty": 4,
+    "tray": 1,
+    "note": "20,#20,2PCS."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200684",
+    "itemCode": "10-26345-230",
+    "itemName": "AP11-8A 10A BODY AP11-8A、10Aﾎﾞﾃﾞｨ",
+    "qty": 35,
+    "tray": 1,
+    "note": "35,CKD,Tray35,2pcs"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200685",
+    "itemCode": "10-26345-230",
+    "itemName": "AP11-8A 10A BODY AP11-8A、10Aﾎﾞﾃﾞｨ",
+    "qty": 15,
+    "tray": 1,
+    "note": "35,CKD,Tray35,2pcs"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200686",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200687",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200688",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200689",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200690",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200691",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200692",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200693",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200694",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200695",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200696",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200697",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200698",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200699",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200700",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 18,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200701",
+    "itemCode": "10-26187-130",
+    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
+    "qty": 3,
+    "tray": 1,
+    "note": "18,Tray#9,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200621",
+    "itemCode": "10-29431-000",
+    "itemName": "ASSISTANCE TIMES MOUNTAIN CONTROL STAND 補助度山制御台",
+    "qty": 87,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200622",
+    "itemCode": "10-24854-000",
+    "itemName": "BUSH (H154204323) BUSH (H154204323)",
+    "qty": 4,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200623",
+    "itemCode": "10-22922-000",
+    "itemName": "GUIDE ROLLER CONTROL LEVER R ｶﾞｲﾄﾞﾛｰﾗｰ調節ﾚﾊﾞｰR(JET0002M)",
+    "qty": 38,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200624",
+    "itemCode": "10-22097-000",
+    "itemName": "PULLEY SUPPORT LEVER 従動ﾌﾟｰﾘｰ支持ﾚﾊﾞｰ（GFT0038M)",
     "qty": 9,
     "tray": 1,
-    "note": "M"
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100017",
-    "itemCode": "10-30113-120",
-    "itemName": "GEAR CASE ｷﾞﾔｰｹｰｽ",
-    "qty": 9,
+    "boxNo": "S26090200645",
+    "itemCode": "10-27619-100",
+    "itemName": "SUPPRESSION METAL 押え金 (AMS-6TB)",
+    "qty": 834,
     "tray": 1,
-    "note": "M"
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100018",
-    "itemCode": "10-30113-120",
-    "itemName": "GEAR CASE ｷﾞﾔｰｹｰｽ",
-    "qty": 9,
+    "boxNo": "S26090200646",
+    "itemCode": "10-27619-100",
+    "itemName": "SUPPRESSION METAL 押え金 (AMS-6TB)",
+    "qty": 1000,
     "tray": 1,
-    "note": "M"
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100019",
-    "itemCode": "10-30113-120",
-    "itemName": "GEAR CASE ｷﾞﾔｰｹｰｽ",
-    "qty": 7,
-    "tray": 1,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100021",
-    "itemCode": "10-25031-100",
-    "itemName": "T30x12N COPRING BOSS T30×12Nｶｯﾌﾟﾘﾝｸﾞﾎﾞｽ(P)",
+    "boxNo": "S26090200647",
+    "itemCode": "10-25727-100",
+    "itemName": "LEVER ﾚﾊﾞｰ (F1000701-MMR010-02-Z)",
     "qty": 5,
     "tray": 1,
-    "note": "35pcs,Tray#35,1+1pcs"
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100092",
-    "itemCode": "10-04420-000",
-    "itemName": "GEAR 2.3 G 減速2.3G組立(S302950)(TS3501",
+    "boxNo": "S26090200648",
+    "itemCode": "10-25727-100",
+    "itemName": "LEVER ﾚﾊﾞｰ (F1000701-MMR010-02-Z)",
+    "qty": 5,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200649",
+    "itemCode": "10-25727-100",
+    "itemName": "LEVER ﾚﾊﾞｰ (F1000701-MMR010-02-Z)",
+    "qty": 5,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200650",
+    "itemCode": "10-25727-100",
+    "itemName": "LEVER ﾚﾊﾞｰ (F1000701-MMR010-02-Z)",
+    "qty": 4,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200651",
+    "itemCode": "10-25729-100",
+    "itemName": "LEVER ﾚﾊﾞｰ (F1000701-MFR009-02-Z)",
+    "qty": 5,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200652",
+    "itemCode": "10-25729-100",
+    "itemName": "LEVER ﾚﾊﾞｰ (F1000701-MFR009-02-Z)",
+    "qty": 5,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200653",
+    "itemCode": "10-25729-100",
+    "itemName": "LEVER ﾚﾊﾞｰ (F1000701-MFR009-02-Z)",
+    "qty": 5,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200682",
+    "itemCode": "10-27031-000",
+    "itemName": "RB-515-B2C FOOK RB-515-B2C ﾌｯｸ (RB11816)",
+    "qty": 25,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090200683",
+    "itemCode": "10-30111-000",
+    "itemName": "1.5S 1.5S 15A 3HEAD 1.5S×1.5S×15A 3ﾍｯﾄﾞ",
+    "qty": 4,
+    "tray": 1,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26090300001",
+    "itemCode": "10-26379-200",
+    "itemName": "AD-15A STUFFING AD-15Aｽﾀﾌｨﾝｸﾞ",
     "qty": 35,
     "tray": 1,
-    "note": "35,Tray#35,2 pcs."
+    "note": "20,CKD,Tray#20, 2 pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100093",
-    "itemCode": "10-04420-000",
-    "itemName": "GEAR 2.3 G 減速2.3G組立(S302950)(TS3501",
-    "qty": 35,
+    "boxNo": "S26090300002",
+    "itemCode": "10-26379-200",
+    "itemName": "AD-15A STUFFING AD-15Aｽﾀﾌｨﾝｸﾞ",
+    "qty": 15,
     "tray": 1,
-    "note": "35,Tray#35,2 pcs."
+    "note": "20,CKD,Tray#20, 2 pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100094",
-    "itemCode": "10-04420-000",
-    "itemName": "GEAR 2.3 G 減速2.3G組立(S302950)(TS3501",
-    "qty": 35,
-    "tray": 1,
-    "note": "35,Tray#35,2 pcs."
+    "boxNo": "S26090200630",
+    "itemCode": "10-11614-100",
+    "itemName": "ACP3S HOLDER 押え金 ACP3S (X-71517B)",
+    "qty": 1000,
+    "tray": 2,
+    "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100095",
-    "itemCode": "10-04420-000",
-    "itemName": "GEAR 2.3 G 減速2.3G組立(S302950)(TS3501",
-    "qty": 6,
-    "tray": 1,
-    "note": "35,Tray#35,2 pcs."
+    "boxNo": "S26090200631",
+    "itemCode": "10-11614-100",
+    "itemName": "ACP3S HOLDER 押え金 ACP3S (X-71517B)",
+    "qty": 1000,
+    "tray": 2,
+    "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100116",
-    "itemCode": "10-26187-130",
-    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
-    "qty": 18,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
+    "boxNo": "S26090200632",
+    "itemCode": "10-11614-100",
+    "itemName": "ACP3S HOLDER 押え金 ACP3S (X-71517B)",
+    "qty": 1000,
+    "tray": 2,
+    "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100117",
-    "itemCode": "10-26187-130",
-    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
-    "qty": 18,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
+    "boxNo": "S26090200633",
+    "itemCode": "10-11614-100",
+    "itemName": "ACP3S HOLDER 押え金 ACP3S (X-71517B)",
+    "qty": 869,
+    "tray": 2,
+    "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100118",
-    "itemCode": "10-26187-130",
-    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
-    "qty": 18,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
+    "boxNo": "S26090200657",
+    "itemCode": "10-30210-120",
+    "itemName": "BLOCK ﾌﾞﾛｯｸ",
+    "qty": 3,
+    "tray": 2,
+    "note": "#N/A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100119",
-    "itemCode": "10-26187-130",
-    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
-    "qty": 2,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
+    "boxNo": "S26090200659",
+    "itemCode": "10-28288-000",
+    "itemName": "SPEX KNEE COUPLING IMPROVEMENT MAIN BODY 1130L継手本体(左）",
+    "qty": 81,
+    "tray": 2,
+    "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100120",
-    "itemCode": "10-26188-130",
-    "itemName": "ARM(R-Z) ARM(R-Z)",
-    "qty": 18,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100121",
-    "itemCode": "10-26188-130",
-    "itemName": "ARM(R-Z) ARM(R-Z)",
-    "qty": 18,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100122",
-    "itemCode": "10-26188-130",
-    "itemName": "ARM(R-Z) ARM(R-Z)",
-    "qty": 18,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100123",
-    "itemCode": "10-26188-130",
-    "itemName": "ARM(R-Z) ARM(R-Z)",
-    "qty": 18,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100124",
-    "itemCode": "10-26188-130",
-    "itemName": "ARM(R-Z) ARM(R-Z)",
-    "qty": 18,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100125",
-    "itemCode": "10-26188-130",
-    "itemName": "ARM(R-Z) ARM(R-Z)",
+    "boxNo": "S26090200660",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
     "qty": 10,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26090100002",
-    "itemCode": "10-26187-130",
-    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
-    "qty": 18,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26090100003",
-    "itemCode": "10-26187-130",
-    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
-    "qty": 18,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26090100004",
-    "itemCode": "10-26187-130",
-    "itemName": "ARM(L1-Z) (5003-500921-11) ARM(L1-Z) (5003-500921-11)",
-    "qty": 8,
-    "tray": 1,
-    "note": "18,Tray#9,4 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100126",
-    "itemCode": "10-20619-110",
-    "itemName": "PARABOLOID HOLDER 放物面鏡ﾎﾙﾀﾞ",
-    "qty": 40,
-    "tray": 1,
-    "note": "40,Tray#20,2 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100127",
-    "itemCode": "10-20619-110",
-    "itemName": "PARABOLOID HOLDER 放物面鏡ﾎﾙﾀﾞ",
-    "qty": 40,
-    "tray": 1,
-    "note": "40,Tray#20,2 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100128",
-    "itemCode": "10-20619-110",
-    "itemName": "PARABOLOID HOLDER 放物面鏡ﾎﾙﾀﾞ",
-    "qty": 40,
-    "tray": 1,
-    "note": "40,Tray#20,2 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100129",
-    "itemCode": "10-20619-110",
-    "itemName": "PARABOLOID HOLDER 放物面鏡ﾎﾙﾀﾞ",
-    "qty": 40,
-    "tray": 1,
-    "note": "40,Tray#20,2 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100130",
-    "itemCode": "10-29481-110",
-    "itemName": "TURBO ROLL(TOP) ﾀｰﾎﾞﾛｰﾙ(上)",
-    "qty": 9,
-    "tray": 1,
-    "note": "9,Tray#9,2pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100131",
-    "itemCode": "10-29481-110",
-    "itemName": "TURBO ROLL(TOP) ﾀｰﾎﾞﾛｰﾙ(上)",
-    "qty": 9,
-    "tray": 1,
-    "note": "9,Tray#9,2pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100132",
-    "itemCode": "10-29481-110",
-    "itemName": "TURBO ROLL(TOP) ﾀｰﾎﾞﾛｰﾙ(上)",
-    "qty": 9,
-    "tray": 1,
-    "note": "9,Tray#9,2pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100133",
-    "itemCode": "10-29481-110",
-    "itemName": "TURBO ROLL(TOP) ﾀｰﾎﾞﾛｰﾙ(上)",
-    "qty": 9,
-    "tray": 1,
-    "note": "9,Tray#9,2pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100134",
-    "itemCode": "10-29481-110",
-    "itemName": "TURBO ROLL(TOP) ﾀｰﾎﾞﾛｰﾙ(上)",
-    "qty": 9,
-    "tray": 1,
-    "note": "9,Tray#9,2pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26090100005",
-    "itemCode": "10-29481-110",
-    "itemName": "TURBO ROLL(TOP) ﾀｰﾎﾞﾛｰﾙ(上)",
-    "qty": 1,
-    "tray": 1,
-    "note": "9,Tray#9,2pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100142",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100143",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100144",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100145",
-    "itemCode": "10-28034-210",
-    "itemName": "JOINT B 隔壁ﾎｰｽ継手BΦ8改1",
-    "qty": 65,
-    "tray": 1,
-    "note": "144,Tray#48,3 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100146",
-    "itemCode": "10-27013-120",
-    "itemName": "CLAMP ARM ｸﾗﾝﾌﾟｱｰﾑ (AMWD16-WS-06)",
-    "qty": 62,
-    "tray": 1,
-    "note": "176,Tray#88,4pcs"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100148",
-    "itemCode": "10-25022-120",
-    "itemName": "ADJUSTMENT METAL FITTINGS 調整金具",
-    "qty": 3,
-    "tray": 1,
-    "note": "#N/A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100010",
-    "itemCode": "10-30354-000",
-    "itemName": "DEGREE DIFFERENCE PRESSER SR 度違ｲﾌﾟﾚｯｻｰ(SR)",
-    "qty": 50,
-    "tray": 1,
-    "note": "#N/A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100135",
-    "itemCode": "10-29482-110",
-    "itemName": "TURBO ROLL(BOTTOM) ﾀｰﾎﾞﾛｰﾙ(下)",
-    "qty": 6,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100136",
-    "itemCode": "10-29482-110",
-    "itemName": "TURBO ROLL(BOTTOM) ﾀｰﾎﾞﾛｰﾙ(下)",
-    "qty": 6,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100137",
-    "itemCode": "10-29482-110",
-    "itemName": "TURBO ROLL(BOTTOM) ﾀｰﾎﾞﾛｰﾙ(下)",
-    "qty": 6,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100138",
-    "itemCode": "10-29482-110",
-    "itemName": "TURBO ROLL(BOTTOM) ﾀｰﾎﾞﾛｰﾙ(下)",
-    "qty": 6,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100139",
-    "itemCode": "10-29482-110",
-    "itemName": "TURBO ROLL(BOTTOM) ﾀｰﾎﾞﾛｰﾙ(下)",
-    "qty": 6,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100140",
-    "itemCode": "10-29482-110",
-    "itemName": "TURBO ROLL(BOTTOM) ﾀｰﾎﾞﾛｰﾙ(下)",
-    "qty": 2,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100005",
-    "itemCode": "10-29532-000",
-    "itemName": "HN-90N7D-G FEED A HN-90N7(D)-G ﾌｨｰﾄﾞA",
-    "qty": 90,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100006",
-    "itemCode": "10-29532-000",
-    "itemName": "HN-90N7D-G FEED A HN-90N7(D)-G ﾌｨｰﾄﾞA",
-    "qty": 60,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100007",
-    "itemCode": "10-23359-000",
-    "itemName": "HOLDER HOLDER (8143406600)",
-    "qty": 50,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100008",
-    "itemCode": "10-11297-000",
-    "itemName": "CYLINDER COLLAR ｼﾘﾝﾀﾞｰｶﾗ (6873548)",
-    "qty": 168,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100009",
-    "itemCode": "10-25598-000",
-    "itemName": "CN-565CG NOSE CN-565CG ﾉｰｽﾞ (CN35962)",
-    "qty": 7,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100011",
-    "itemCode": "10-25230-000",
-    "itemName": "CLINDER BASE MATERIAL ｼﾘﾝﾀﾞｰﾍﾞｰｽｿｻﾞｲ",
-    "qty": 5,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100012",
-    "itemCode": "10-25230-000",
-    "itemName": "CLINDER BASE MATERIAL ｼﾘﾝﾀﾞｰﾍﾞｰｽｿｻﾞｲ",
-    "qty": 5,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100020",
-    "itemCode": "10-25562-110",
-    "itemName": "CN-650M NOSE CN-650Mﾉｰｽﾞ (CN36361)",
-    "qty": 8,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100105",
-    "itemCode": "10-25523-000",
-    "itemName": "YK BALANCER S2-60SR2-60 HINGE PIN YKﾊﾞﾗﾝｻｰS2-60型,SR2-60型ﾋﾝｼﾞﾋﾟﾝ (YK-60S2-05-02-△2）",
-    "qty": 3,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100115",
-    "itemCode": "10-28932-110",
-    "itemName": "GRIPPER ARM ｸﾞﾘｯﾊﾟｰｱｰﾑ (TEP396-5501-02)",
-    "qty": 23,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100097",
-    "itemCode": "10-27036-000",
-    "itemName": "CN80 SEND NAIL CN80 ｵｸﾘﾂﾞﾒ (CN34448)",
-    "qty": 300,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100098",
-    "itemCode": "10-27036-000",
-    "itemName": "CN80 SEND NAIL CN80 ｵｸﾘﾂﾞﾒ (CN34448)",
-    "qty": 300,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100099",
-    "itemCode": "10-27036-000",
-    "itemName": "CN80 SEND NAIL CN80 ｵｸﾘﾂﾞﾒ (CN34448)",
-    "qty": 300,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100100",
-    "itemCode": "10-27036-000",
-    "itemName": "CN80 SEND NAIL CN80 ｵｸﾘﾂﾞﾒ (CN34448)",
-    "qty": 100,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100101",
-    "itemCode": "10-27036-000",
-    "itemName": "CN80 SEND NAIL CN80 ｵｸﾘﾂﾞﾒ (CN34448)",
-    "qty": 300,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100102",
-    "itemCode": "10-27036-000",
-    "itemName": "CN80 SEND NAIL CN80 ｵｸﾘﾂﾞﾒ (CN34448)",
-    "qty": 300,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100103",
-    "itemCode": "10-27036-000",
-    "itemName": "CN80 SEND NAIL CN80 ｵｸﾘﾂﾞﾒ (CN34448)",
-    "qty": 300,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100104",
-    "itemCode": "10-27036-000",
-    "itemName": "CN80 SEND NAIL CN80 ｵｸﾘﾂﾞﾒ (CN34448)",
-    "qty": 100,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100147",
-    "itemCode": "10-28932-110",
-    "itemName": "GRIPPER ARM ｸﾞﾘｯﾊﾟｰｱｰﾑ (TEP396-5501-02)",
-    "qty": 2,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100022",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100023",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100024",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100025",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100026",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100027",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100028",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100029",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100030",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100031",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100032",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100033",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100034",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100035",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100036",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100037",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100038",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100039",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100040",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100041",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100042",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100043",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100044",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100045",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100046",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100047",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100048",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100049",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100050",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100051",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100052",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100053",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100054",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100055",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100056",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100057",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100058",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100059",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100060",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100061",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100062",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100063",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100064",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100065",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100066",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100067",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100068",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100069",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100070",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100071",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100072",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100073",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200661",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100074",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200662",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100075",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200663",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100076",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200664",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100077",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200665",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100078",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200666",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100079",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200667",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100080",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200668",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100081",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200669",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100082",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200670",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100083",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200671",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100084",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200672",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100085",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200673",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100086",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200674",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100087",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200675",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100088",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200676",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100089",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200677",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100090",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200678",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26083100091",
-    "itemCode": "10-29763-000",
-    "itemName": "J5 HOUJING J5ﾊｳｼﾞﾝｸﾞ",
-    "qty": 1,
+    "boxNo": "S26090200679",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100096",
-    "itemCode": "10-29154-000",
-    "itemName": "1.0S DIAPHRAGM CONNECTION ROTARY MEASURE 1.0s、ﾀﾞｲｱﾌﾗﾑ連結ﾎﾞﾙﾄ、210、回転対策、ﾛｽﾄ",
-    "qty": 83,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100106",
-    "itemCode": "10-06022-000",
-    "itemName": "CAP EXｷｬｯﾌﾟ",
-    "qty": 56,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100107",
-    "itemCode": "10-06022-000",
-    "itemName": "CAP EXｷｬｯﾌﾟ",
-    "qty": 56,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100108",
-    "itemCode": "10-06022-000",
-    "itemName": "CAP EXｷｬｯﾌﾟ",
-    "qty": 56,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100109",
-    "itemCode": "10-06022-000",
-    "itemName": "CAP EXｷｬｯﾌﾟ",
-    "qty": 56,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100110",
-    "itemCode": "10-06022-000",
-    "itemName": "CAP EXｷｬｯﾌﾟ",
-    "qty": 56,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100111",
-    "itemCode": "10-06022-000",
-    "itemName": "CAP EXｷｬｯﾌﾟ",
-    "qty": 56,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100112",
-    "itemCode": "10-06022-000",
-    "itemName": "CAP EXｷｬｯﾌﾟ",
-    "qty": 56,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100113",
-    "itemCode": "10-06022-000",
-    "itemName": "CAP EXｷｬｯﾌﾟ",
-    "qty": 8,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26083100114",
-    "itemCode": "10-30126-000",
-    "itemName": "SHEAR FRAMES COMMON ｼｬｰﾌﾚｰﾑ共通",
-    "qty": 50,
-    "tray": 2,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26090100006",
-    "itemCode": "10-24121-100",
-    "itemName": "CLAMP ｸﾗﾝﾊﾟ (CP134-04007-01)",
-    "qty": 100,
-    "tray": 2,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26090100007",
-    "itemCode": "10-24121-100",
-    "itemName": "CLAMP ｸﾗﾝﾊﾟ (CP134-04007-01)",
-    "qty": 35,
-    "tray": 2,
-    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26090100008",
-    "itemCode": "10-22505-130",
-    "itemName": "CAM CASE カムケース",
-    "qty": 283,
+    "boxNo": "S26090200680",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S202600083",
-    "itemCode": "10-30087-000",
-    "itemName": "-",
-    "qty": 5,
+    "boxNo": "S26090200681",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
     "tray": 2,
     "note": "M"
   },
