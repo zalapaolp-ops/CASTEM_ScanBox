@@ -1507,7 +1507,7 @@
     "boxNo": "S26091600167",
     "itemCode": "10-26994-000",
     "itemName": "CONTACT NOZE FW(HN12746) ｺﾝﾀｸﾄﾉｰｽﾞFW(HN12746)",
-    "qty": 90,
+    "qty": 300,
     "tray": 1,
     "note": "105,Tray#35,3 pcs."
   },
@@ -1516,7 +1516,7 @@
     "boxNo": "S26091600202",
     "itemCode": "10-26525-000",
     "itemName": "FRAME ﾌﾚｰﾑ (4304206)",
-    "qty": 40,
+    "qty": 10,
     "tray": 1,
     "note": "C Tray#20 =4pcs."
   },
@@ -1528,42 +1528,6 @@
     "qty": 5,
     "tray": 1,
     "note": "70,Tray#35 = 4 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600224",
-    "itemCode": "10-29255-100",
-    "itemName": "STAY L ｽﾃｲ(L)",
-    "qty": 12,
-    "tray": 1,
-    "note": "12,Tray6,4pcs"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600225",
-    "itemCode": "10-29255-100",
-    "itemName": "STAY L ｽﾃｲ(L)",
-    "qty": 12,
-    "tray": 1,
-    "note": "12,Tray6,4pcs"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600226",
-    "itemCode": "10-29255-100",
-    "itemName": "STAY L ｽﾃｲ(L)",
-    "qty": 12,
-    "tray": 1,
-    "note": "12,Tray6,4pcs"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600227",
-    "itemCode": "10-29255-100",
-    "itemName": "STAY L ｽﾃｲ(L)",
-    "qty": 1,
-    "tray": 1,
-    "note": "12,Tray6,4pcs"
   },
   {
     "type": "SEA",
@@ -1654,6 +1618,42 @@
     "qty": 20,
     "tray": 1,
     "note": "40,Tray#20,4pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700654",
+    "itemCode": "10-28233-000",
+    "itemName": "METAL KNOB D30 金属ﾉﾌﾞD30 (K2012-001-007)",
+    "qty": 264,
+    "tray": 1,
+    "note": "264,Tray#88,6 pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700655",
+    "itemCode": "10-28233-000",
+    "itemName": "METAL KNOB D30 金属ﾉﾌﾞD30 (K2012-001-007)",
+    "qty": 236,
+    "tray": 1,
+    "note": "264,Tray#88,6 pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700697",
+    "itemCode": "10-29466-120",
+    "itemName": "POINTER 指針",
+    "qty": 70,
+    "tray": 1,
+    "note": "70,Tray#35,4pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700698",
+    "itemCode": "10-29466-120",
+    "itemName": "POINTER 指針",
+    "qty": 35,
+    "tray": 1,
+    "note": "70,Tray#35,4pcs."
   },
   {
     "type": "SEA",
@@ -2044,150 +2044,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600037",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600038",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600039",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600040",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600041",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600042",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600043",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600044",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600045",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600046",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600047",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600048",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600049",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600050",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600051",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600052",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 50,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26091600059",
     "itemCode": "10-23204-000",
     "itemName": "HN-90N2 DOOR HN-90N2 ﾄﾞｱ (HN11774)",
@@ -2363,6 +2219,141 @@
     "itemCode": "10-26804-000",
     "itemName": "RB441T(CE)HOOK R RB441T(CE)ﾌｯｸR",
     "qty": 80,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700612",
+    "itemCode": "10-23170-000",
+    "itemName": "HOLDER ﾎﾙﾀﾞｰ(0G0063000001)",
+    "qty": 19,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700613",
+    "itemCode": "10-27638-000",
+    "itemName": "HAIR CUTTING SCISSORS 理容鋏把手 (TA-6-1)",
+    "qty": 15,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700614",
+    "itemCode": "10-27639-000",
+    "itemName": "HAIR CUTTING SCISSORS 理容鋏把手 (TA-6-2)",
+    "qty": 25,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700615",
+    "itemCode": "10-05695-000",
+    "itemName": "BLADE ﾑｹﾙ R刃",
+    "qty": 111,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700616",
+    "itemCode": "10-23242-000",
+    "itemName": "RATCHET A HN-65N1 ﾗﾁｪｯﾄA (HN11463)",
+    "qty": 400,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700617",
+    "itemCode": "10-23200-000",
+    "itemName": "CN-238 NOSE CN-238 ﾉｰｽﾞ(CN36249)",
+    "qty": 30,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700618",
+    "itemCode": "10-23200-000",
+    "itemName": "CN-238 NOSE CN-238 ﾉｰｽﾞ(CN36249)",
+    "qty": 18,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700619",
+    "itemCode": "10-25717-000",
+    "itemName": "HN-50S1(D)DOOR HN-50S1(D)ﾄﾞｱ (HN12439)",
+    "qty": 20,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700620",
+    "itemCode": "10-27248-000",
+    "itemName": "HN-25C DOOR HN-25Cﾄﾞｱ(HN10716)",
+    "qty": 100,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700624",
+    "itemCode": "10-08467-000",
+    "itemName": "DOOR DRIVING PLATE ﾄﾞｱ駆動板(SP447966)",
+    "qty": 6,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700625",
+    "itemCode": "10-23242-000",
+    "itemName": "RATCHET A HN-65N1 ﾗﾁｪｯﾄA (HN11463)",
+    "qty": 752,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700626",
+    "itemCode": "10-23920-000",
+    "itemName": "CONTACT NOSE A ｺﾝﾀｸﾄﾉｰｽﾞA",
+    "qty": 450,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700627",
+    "itemCode": "10-24226-000",
+    "itemName": "CONTACT NOSE HN-90N3コンタクトノーズ(HN11967)",
+    "qty": 100,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700629",
+    "itemCode": "10-06777-000",
+    "itemName": "SPRING SUPPORT ﾊﾞﾈｼｼﾞｶﾅｸﾞM(D5-457271)",
+    "qty": 400,
+    "tray": 4,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700630",
+    "itemCode": "10-06777-000",
+    "itemName": "SPRING SUPPORT ﾊﾞﾈｼｼﾞｶﾅｸﾞM(D5-457271)",
+    "qty": 237,
     "tray": 4,
     "note": "A"
   },
@@ -2719,15 +2710,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600159",
-    "itemCode": "10-23919-000",
-    "itemName": "DRIVER GUIDE ﾄﾞﾗｲﾊﾞｶﾞｲﾄﾞ",
-    "qty": 9,
-    "tray": 5,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26091600160",
     "itemCode": "10-23920-000",
     "itemName": "CONTACT NOSE A ｺﾝﾀｸﾄﾉｰｽﾞA",
@@ -2741,15 +2723,6 @@
     "itemCode": "10-23920-000",
     "itemName": "CONTACT NOSE A ｺﾝﾀｸﾄﾉｰｽﾞA",
     "qty": 450,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600162",
-    "itemCode": "10-25605-000",
-    "itemName": "CN890S(USA)CONTACT GUIDE CN890S(USA)ｺﾝﾀｸﾄｶﾞｲﾄﾞ(CN35404)",
-    "qty": 200,
     "tray": 6,
     "note": "A"
   },
@@ -2794,7 +2767,7 @@
     "boxNo": "S26091600201",
     "itemCode": "10-24379-000",
     "itemName": "SINKER STOP CONTROL STAND ｼﾝｶｰ休止制御台(L)(HGC1630MB)",
-    "qty": 98,
+    "qty": 90,
     "tray": 6,
     "note": "A"
   },
@@ -2804,15 +2777,6 @@
     "itemCode": "10-20674-000",
     "itemName": "LINK LINK（ﾁｮｯｺｳﾘﾝｸ）4652244-B",
     "qty": 5,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600209",
-    "itemCode": "10-23536-100",
-    "itemName": "JYOINT1 ｼﾞｮｲﾝﾄ1(T-4-15101-0-D00-0)",
-    "qty": 46,
     "tray": 6,
     "note": "A"
   },
@@ -2857,43 +2821,7 @@
     "boxNo": "S26091600214",
     "itemCode": "10-20374-100",
     "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
-    "qty": 20,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600215",
-    "itemCode": "10-20374-100",
-    "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
-    "qty": 20,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600216",
-    "itemCode": "10-20374-100",
-    "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
-    "qty": 20,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600217",
-    "itemCode": "10-20374-100",
-    "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
-    "qty": 20,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600218",
-    "itemCode": "10-20374-100",
-    "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
-    "qty": 10,
+    "qty": 2,
     "tray": 6,
     "note": "A"
   },
@@ -3088,65 +3016,56 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600300",
-    "itemCode": "10-26922-100",
-    "itemName": "HOLDER ﾎﾙﾀﾞｰ",
+    "boxNo": "S26091700648",
+    "itemCode": "10-11108-000",
+    "itemName": "CL12N4X8D HEAD CL12N4X8Dﾍｯﾄﾞｿｻﾞｲ (T-850719)",
+    "qty": 600,
+    "tray": 6,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700649",
+    "itemCode": "10-11108-000",
+    "itemName": "CL12N4X8D HEAD CL12N4X8Dﾍｯﾄﾞｿｻﾞｲ (T-850719)",
+    "qty": 600,
+    "tray": 6,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700650",
+    "itemCode": "10-11108-000",
+    "itemName": "CL12N4X8D HEAD CL12N4X8Dﾍｯﾄﾞｿｻﾞｲ (T-850719)",
     "qty": 39,
-    "tray": 7,
+    "tray": 6,
     "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600301",
-    "itemCode": "10-27584-100",
-    "itemName": "HANDLE ﾊﾝﾄﾞﾙ (VA-01-23C0)",
-    "qty": 160,
-    "tray": 7,
+    "boxNo": "S26091700651",
+    "itemCode": "10-08202-000",
+    "itemName": "LIMITED CASE ﾘﾐﾃｯﾄﾞｹｰｽ",
+    "qty": 15,
+    "tray": 6,
     "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600302",
-    "itemCode": "10-27584-100",
-    "itemName": "HANDLE ﾊﾝﾄﾞﾙ (VA-01-23C0)",
-    "qty": 160,
-    "tray": 7,
+    "boxNo": "S26091700652",
+    "itemCode": "10-06777-000",
+    "itemName": "SPRING SUPPORT ﾊﾞﾈｼｼﾞｶﾅｸﾞM(D5-457271)",
+    "qty": 400,
+    "tray": 6,
     "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600303",
-    "itemCode": "10-27584-100",
-    "itemName": "HANDLE ﾊﾝﾄﾞﾙ (VA-01-23C0)",
-    "qty": 160,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600304",
-    "itemCode": "10-27584-100",
-    "itemName": "HANDLE ﾊﾝﾄﾞﾙ (VA-01-23C0)",
-    "qty": 160,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600305",
-    "itemCode": "10-27584-100",
-    "itemName": "HANDLE ﾊﾝﾄﾞﾙ (VA-01-23C0)",
-    "qty": 160,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600306",
-    "itemCode": "10-27584-100",
-    "itemName": "HANDLE ﾊﾝﾄﾞﾙ (VA-01-23C0)",
-    "qty": 36,
-    "tray": 7,
+    "boxNo": "S26091700653",
+    "itemCode": "10-06777-000",
+    "itemName": "SPRING SUPPORT ﾊﾞﾈｼｼﾞｶﾅｸﾞM(D5-457271)",
+    "qty": 240,
+    "tray": 6,
     "note": "A"
   },
   {
@@ -3443,6 +3362,69 @@
     "itemCode": "10-10672-000",
     "itemName": "SHIFT FORK ｼﾌﾄﾌｫｰｸ 0251-00300-00",
     "qty": 10,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700665",
+    "itemCode": "10-24698-000",
+    "itemName": "SUPPORT SUPPORT",
+    "qty": 50,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700671",
+    "itemCode": "10-21458-100",
+    "itemName": "HOOK HOLDER フック受け",
+    "qty": 45,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700672",
+    "itemCode": "10-21458-100",
+    "itemName": "HOOK HOLDER フック受け",
+    "qty": 45,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700673",
+    "itemCode": "10-21458-100",
+    "itemName": "HOOK HOLDER フック受け",
+    "qty": 42,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700674",
+    "itemCode": "10-24465-100",
+    "itemName": "PLATE PLATE (9545100501)",
+    "qty": 222,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700693",
+    "itemCode": "10-23717-100",
+    "itemName": "BASE (SLIDE Z2) ﾍﾞｰｽ(ｽﾗｲﾄﾞZ2) (LPUW-010107-00)",
+    "qty": 1,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700694",
+    "itemCode": "10-05928-000",
+    "itemName": "SIDE CLUTCH FORK (AM-60) AM60ｻｲﾄﾞｸﾗｯﾁﾌｫｰｸ(YP-9571)",
+    "qty": 200,
     "tray": 7,
     "note": "A"
   },
@@ -3991,16 +3973,7 @@
     "boxNo": "S26091600389",
     "itemCode": "10-20377-000",
     "itemName": "LEVER ﾚﾊﾞｰ (U1T009-4010)",
-    "qty": 60,
-    "tray": 9,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600390",
-    "itemCode": "10-20377-000",
-    "itemName": "LEVER ﾚﾊﾞｰ (U1T009-4010)",
-    "qty": 40,
+    "qty": 15,
     "tray": 9,
     "note": "A"
   },
@@ -4528,186 +4501,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600090",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600091",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600092",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600093",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600094",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600095",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600096",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600097",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600098",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600099",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600100",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600101",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600102",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600103",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600104",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600105",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600106",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600107",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600108",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 100,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600109",
-    "itemCode": "10-23387-000",
-    "itemName": "MH-38 DIE (L) MH-38 ﾀﾞｲｽ (L)",
-    "qty": 89,
-    "tray": 11,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26091600110",
     "itemCode": "10-23388-000",
     "itemName": "MH-38 DIE(R) MH-38 ﾀﾞｲｽ(R)",
@@ -5023,6 +4816,96 @@
   },
   {
     "type": "SEA",
+    "boxNo": "S26091700666",
+    "itemCode": "10-25627-000",
+    "itemName": "HN-120 DOOR CLOSING MOTION PLATE HN-120ﾄﾞｱ開閉ﾌﾟﾚｰﾄ",
+    "qty": 162,
+    "tray": 11,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700668",
+    "itemCode": "10-21069-100",
+    "itemName": "LEVER ARM ﾚﾊﾞｰｱｰﾑ素材図 (CKZ40-46-AB376-C)",
+    "qty": 70,
+    "tray": 11,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700669",
+    "itemCode": "10-21069-100",
+    "itemName": "LEVER ARM ﾚﾊﾞｰｱｰﾑ素材図 (CKZ40-46-AB376-C)",
+    "qty": 70,
+    "tray": 11,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700670",
+    "itemCode": "10-21069-100",
+    "itemName": "LEVER ARM ﾚﾊﾞｰｱｰﾑ素材図 (CKZ40-46-AB376-C)",
+    "qty": 9,
+    "tray": 11,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700667",
+    "itemCode": "10-30325-000",
+    "itemName": "APG-KKY3 INSPECTION PANEL RECEIVE BLOCK APG-KKY3 ﾃﾝｹﾝﾊﾟﾈﾙｳｹﾌﾞﾛｯｸ",
+    "qty": 140,
+    "tray": 11,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S202600095",
+    "itemCode": "MOLD",
+    "itemName": "-",
+    "qty": 1,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S202600096",
+    "itemCode": "MOLD",
+    "itemName": "-",
+    "qty": 1,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S202600097",
+    "itemCode": "MOLD",
+    "itemName": "-",
+    "qty": 1,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S202600098",
+    "itemCode": "MOLD",
+    "itemName": "-",
+    "qty": 1,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S202600099",
+    "itemCode": "MOLD",
+    "itemName": "-",
+    "qty": 1,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
     "boxNo": "S26091600182",
     "itemCode": "10-23385-000",
     "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
@@ -5053,43 +4936,7 @@
     "boxNo": "S26091600185",
     "itemCode": "10-23385-000",
     "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 12,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600186",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 12,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600187",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 12,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600188",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 12,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600189",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 140,
+    "qty": 110,
     "tray": 12,
     "note": "M"
   },
@@ -5737,43 +5584,7 @@
     "boxNo": "S26091600499",
     "itemCode": "10-29031-110",
     "itemName": "BRACKET ﾌﾞﾗｹｯﾄ(B-IB-08-R-B)",
-    "qty": 450,
-    "tray": 13,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600500",
-    "itemCode": "10-29031-110",
-    "itemName": "BRACKET ﾌﾞﾗｹｯﾄ(B-IB-08-R-B)",
-    "qty": 450,
-    "tray": 13,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600501",
-    "itemCode": "10-29031-110",
-    "itemName": "BRACKET ﾌﾞﾗｹｯﾄ(B-IB-08-R-B)",
-    "qty": 450,
-    "tray": 13,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600502",
-    "itemCode": "10-29031-110",
-    "itemName": "BRACKET ﾌﾞﾗｹｯﾄ(B-IB-08-R-B)",
-    "qty": 450,
-    "tray": 13,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600503",
-    "itemCode": "10-29031-110",
-    "itemName": "BRACKET ﾌﾞﾗｹｯﾄ(B-IB-08-R-B)",
-    "qty": 450,
+    "qty": 350,
     "tray": 13,
     "note": "M"
   },
@@ -5791,7 +5602,7 @@
     "boxNo": "S26091700607",
     "itemCode": "10-29206-000",
     "itemName": "HLRES7(S45C) HLRES7(S45C)",
-    "qty": 15,
+    "qty": 10,
     "tray": 13,
     "note": "M"
   },
@@ -5866,5 +5677,455 @@
     "qty": 2,
     "tray": 13,
     "note": "6,Tray#6,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700675",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700676",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700677",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 2,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700678",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700679",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700680",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 2,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700681",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700682",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700683",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 2,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700684",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700685",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700686",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 2,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700687",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700688",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700689",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 2,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700690",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700691",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 9,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700692",
+    "itemCode": "10-06940-100",
+    "itemName": "STAINLESS STUFFING AP21-32A,F-ｽﾃﾝﾚｽｽﾀﾌｨﾝｸﾞ",
+    "qty": 2,
+    "tray": 14,
+    "note": "CKD,tray 9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700621",
+    "itemCode": "10-28044-000",
+    "itemName": "NOSE TOP ﾉｰｽﾞﾄｯﾌﾟN(HN12886)",
+    "qty": 264,
+    "tray": 14,
+    "note": "264,Tray#88,3 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700622",
+    "itemCode": "10-28044-000",
+    "itemName": "NOSE TOP ﾉｰｽﾞﾄｯﾌﾟN(HN12886)",
+    "qty": 264,
+    "tray": 14,
+    "note": "264,Tray#88,3 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700623",
+    "itemCode": "10-28044-000",
+    "itemName": "NOSE TOP ﾉｰｽﾞﾄｯﾌﾟN(HN12886)",
+    "qty": 172,
+    "tray": 15,
+    "note": "264,Tray#88,3 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700656",
+    "itemCode": "10-20551-000",
+    "itemName": "SUPPORT FIVAI-45 ｻﾎﾟｰﾄFIVAI-45 (74761268-01)",
+    "qty": 90,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700657",
+    "itemCode": "10-20551-000",
+    "itemName": "SUPPORT FIVAI-45 ｻﾎﾟｰﾄFIVAI-45 (74761268-01)",
+    "qty": 90,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700658",
+    "itemCode": "10-20551-000",
+    "itemName": "SUPPORT FIVAI-45 ｻﾎﾟｰﾄFIVAI-45 (74761268-01)",
+    "qty": 90,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700659",
+    "itemCode": "10-20551-000",
+    "itemName": "SUPPORT FIVAI-45 ｻﾎﾟｰﾄFIVAI-45 (74761268-01)",
+    "qty": 90,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700660",
+    "itemCode": "10-20551-000",
+    "itemName": "SUPPORT FIVAI-45 ｻﾎﾟｰﾄFIVAI-45 (74761268-01)",
+    "qty": 90,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700661",
+    "itemCode": "10-20551-000",
+    "itemName": "SUPPORT FIVAI-45 ｻﾎﾟｰﾄFIVAI-45 (74761268-01)",
+    "qty": 90,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700662",
+    "itemCode": "10-20551-000",
+    "itemName": "SUPPORT FIVAI-45 ｻﾎﾟｰﾄFIVAI-45 (74761268-01)",
+    "qty": 90,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700663",
+    "itemCode": "10-20551-000",
+    "itemName": "SUPPORT FIVAI-45 ｻﾎﾟｰﾄFIVAI-45 (74761268-01)",
+    "qty": 90,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700664",
+    "itemCode": "10-20551-000",
+    "itemName": "SUPPORT FIVAI-45 ｻﾎﾟｰﾄFIVAI-45 (74761268-01)",
+    "qty": 80,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700695",
+    "itemCode": "10-23646-000",
+    "itemName": "LEVER LEVER (H159202783)",
+    "qty": 800,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700696",
+    "itemCode": "10-23646-000",
+    "itemName": "LEVER LEVER (H159202783)",
+    "qty": 645,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700628",
+    "itemCode": "10-25632-000",
+    "itemName": "HR-AV/TS PIPE HOLDER HR-AV/TSﾊﾟｲﾌﾟﾎﾙﾀﾞｰ (HR10824)",
+    "qty": 8,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700631",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700632",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700633",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700634",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700635",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700636",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700637",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700638",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700639",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700640",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700641",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700642",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700643",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700644",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700645",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700646",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 30,
+    "tray": 15,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091700647",
+    "itemCode": "10-29253-000",
+    "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
+    "qty": 20,
+    "tray": 15,
+    "note": "M"
   }
 ]
