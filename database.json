@@ -1504,15 +1504,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600167",
-    "itemCode": "10-26994-000",
-    "itemName": "CONTACT NOZE FW(HN12746) ｺﾝﾀｸﾄﾉｰｽﾞFW(HN12746)",
-    "qty": 300,
-    "tray": 1,
-    "note": "105,Tray#35,3 pcs."
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26091600202",
     "itemCode": "10-26525-000",
     "itemName": "FRAME ﾌﾚｰﾑ (4304206)",
@@ -1824,7 +1815,7 @@
     "itemName": "SWITCH MOUNTING BASE ｽｲｯﾁ取付台",
     "qty": 4,
     "tray": 2,
-    "note": "#N/A"
+    "note": "144,Tray#48,3+3 pcs."
   },
   {
     "type": "SEA",
@@ -1833,7 +1824,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1842,7 +1833,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1851,7 +1842,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1860,7 +1851,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1869,7 +1860,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1878,7 +1869,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1887,7 +1878,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1896,7 +1887,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1905,7 +1896,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1914,7 +1905,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1923,7 +1914,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1932,7 +1923,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1941,7 +1932,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1950,7 +1941,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1959,7 +1950,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1968,7 +1959,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1977,7 +1968,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1986,7 +1977,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -1995,7 +1986,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -2004,43 +1995,52 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 3,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600032",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
     "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600033",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
+    "boxNo": "S26091800001",
+    "itemCode": "10-25662-000",
+    "itemName": "HN-120 SENDING NAIL SUPPRESSION HN-120ｵｸﾘﾂﾞﾒｵｻｴ (HN10213)",
+    "qty": 180,
+    "tray": 3,
     "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600034",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 4,
+    "boxNo": "S26091800002",
+    "itemCode": "10-25662-000",
+    "itemName": "HN-120 SENDING NAIL SUPPRESSION HN-120ｵｸﾘﾂﾞﾒｵｻｴ (HN10213)",
+    "qty": 20,
+    "tray": 3,
     "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600035",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 110,
-    "tray": 4,
-    "note": "A"
+    "boxNo": "S26091800003",
+    "itemCode": "10-26994-000",
+    "itemName": "CONTACT NOZE FW(HN12746) ｺﾝﾀｸﾄﾉｰｽﾞFW(HN12746)",
+    "qty": 105,
+    "tray": 3,
+    "note": "105,Tray#35,3 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091800004",
+    "itemCode": "10-26994-000",
+    "itemName": "CONTACT NOZE FW(HN12746) ｺﾝﾀｸﾄﾉｰｽﾞFW(HN12746)",
+    "qty": 105,
+    "tray": 3,
+    "note": "105,Tray#35,3 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091800005",
+    "itemCode": "10-26994-000",
+    "itemName": "CONTACT NOZE FW(HN12746) ｺﾝﾀｸﾄﾉｰｽﾞFW(HN12746)",
+    "qty": 90,
+    "tray": 3,
+    "note": "105,Tray#35,3 pcs."
   },
   {
     "type": "SEA",
@@ -2470,7 +2470,7 @@
     "boxNo": "S26091600125",
     "itemCode": "10-11298-000",
     "itemName": "CYLINDER COLLAR ｼﾘﾝﾀﾞｰｶﾗ (6882487)",
-    "qty": 200,
+    "qty": 196,
     "tray": 5,
     "note": "A"
   },
@@ -4330,51 +4330,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26091600489",
-    "itemCode": "10-25226-130",
-    "itemName": "COOLING WATER LEAD ENTRANCE 冷却水導入口(1) (HS5192-123-23A)",
-    "qty": 6,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600490",
-    "itemCode": "10-25226-130",
-    "itemName": "COOLING WATER LEAD ENTRANCE 冷却水導入口(1) (HS5192-123-23A)",
-    "qty": 6,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600491",
-    "itemCode": "10-25226-130",
-    "itemName": "COOLING WATER LEAD ENTRANCE 冷却水導入口(1) (HS5192-123-23A)",
-    "qty": 6,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600492",
-    "itemCode": "10-25226-130",
-    "itemName": "COOLING WATER LEAD ENTRANCE 冷却水導入口(1) (HS5192-123-23A)",
-    "qty": 6,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26091600493",
-    "itemCode": "10-25226-130",
-    "itemName": "COOLING WATER LEAD ENTRANCE 冷却水導入口(1) (HS5192-123-23A)",
-    "qty": 4,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26091600494",
     "itemCode": "10-20850-110",
     "itemName": "PLATE プレート (HWO416082-1)",
@@ -4489,6 +4444,15 @@
     "qty": 110,
     "tray": 10,
     "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091800006",
+    "itemCode": "10-25226-130",
+    "itemName": "COOLING WATER LEAD ENTRANCE 冷却水導入口(1) (HS5192-123-23A)",
+    "qty": 3,
+    "tray": 10,
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -5152,7 +5116,7 @@
     "boxNo": "S26091600280",
     "itemCode": "10-29296-140",
     "itemName": "CAM FAB DRAWING ｶﾑ(加工図)",
-    "qty": 60,
+    "qty": 15,
     "tray": 12,
     "note": "M"
   },
@@ -5539,7 +5503,7 @@
     "boxNo": "S26091600388",
     "itemCode": "10-27289-000",
     "itemName": "TRIP HOOK ﾄﾘｯﾌﾟﾌｯｸ (3B62897)",
-    "qty": 4,
+    "qty": 2,
     "tray": 13,
     "note": "M"
   },
@@ -5613,7 +5577,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 13,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -5622,7 +5586,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 13,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -5631,7 +5595,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 6,
     "tray": 13,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -5640,7 +5604,7 @@
     "itemName": "PHI SET TYPE (BOLT TIGHTEN TYPE) ADAPTER ﾌｧｲｾｯﾄﾀｲﾌﾟ(ﾎﾞﾙﾄ締め式)ｱﾀﾞﾌﾟﾀ詳細図",
     "qty": 4,
     "tray": 13,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -6127,5 +6091,140 @@
     "qty": 20,
     "tray": 15,
     "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600037",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600038",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600039",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600040",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600041",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600042",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600043",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600044",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600045",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600046",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600047",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600048",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600049",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600050",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26091600051",
+    "itemCode": "10-08605-000",
+    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
+    "qty": 130,
+    "tray": 15,
+    "note": "A"
   }
 ]
