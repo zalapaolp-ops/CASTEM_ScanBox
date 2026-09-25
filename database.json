@@ -1480,7 +1480,7 @@
     "boxNo": "S26092300131",
     "itemCode": "10-23263-000",
     "itemName": "HN-65(USA) CONTACT NOSE S HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞS (HN11468)",
-    "qty": 100,
+    "qty": 105,
     "tray": 1,
     "note": "105pcs.,Tray#35,3+1pcs."
   },
@@ -1489,7 +1489,7 @@
     "boxNo": "S26092300132",
     "itemCode": "10-23263-000",
     "itemName": "HN-65(USA) CONTACT NOSE S HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞS (HN11468)",
-    "qty": 100,
+    "qty": 95,
     "tray": 1,
     "note": "105pcs.,Tray#35,3+1pcs."
   },
@@ -1546,15 +1546,6 @@
     "qty": 5,
     "tray": 1,
     "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300310",
-    "itemCode": "10-10323-100",
-    "itemName": "SHAFT G2 (MARK4) 軸種別G2(刻印4) SS317002",
-    "qty": 15,
-    "tray": 1,
-    "note": "40pcs,Tray#20,4pcs."
   },
   {
     "type": "SEA",
@@ -1621,42 +1612,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26092300348",
-    "itemCode": "10-11153-100",
-    "itemName": "HOLDER HOLDER(8148301005)ﾅﾁ東北",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,4pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300349",
-    "itemCode": "10-11153-100",
-    "itemName": "HOLDER HOLDER(8148301005)ﾅﾁ東北",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,4pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300350",
-    "itemCode": "10-11153-100",
-    "itemName": "HOLDER HOLDER(8148301005)ﾅﾁ東北",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,4pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300351",
-    "itemCode": "10-11153-100",
-    "itemName": "HOLDER HOLDER(8148301005)ﾅﾁ東北",
-    "qty": 135,
-    "tray": 1,
-    "note": "144,Tray#48,4pcs."
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26092300364",
     "itemCode": "10-27161-100",
     "itemName": "CONTACTBASE ｾｯﾃﾝﾍﾞｰｽ (K-3353132)",
@@ -1696,7 +1651,7 @@
     "boxNo": "S26092300612",
     "itemCode": "10-21852-110",
     "itemName": "BRACKET BRACKET（4144500800）",
-    "qty": 100,
+    "qty": 85,
     "tray": 2,
     "note": "105,Tray#35= 3 pcs."
   },
@@ -1720,15 +1675,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26092300650",
-    "itemCode": "10-26815-120",
-    "itemName": "TOOL-SHAFT(4FQ9811A01) TOOL-SHAFT(4FQ9811A01)",
-    "qty": 7,
-    "tray": 2,
-    "note": "40,Tray#20,4pcs."
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26092300654",
     "itemCode": "10-27317-110",
     "itemName": "IOZ402-32R-1225-SF(31042072) IOZ402-32R-1225-SF(31042072)",
@@ -1741,25 +1687,7 @@
     "boxNo": "S26092300655",
     "itemCode": "10-27317-110",
     "itemName": "IOZ402-32R-1225-SF(31042072) IOZ402-32R-1225-SF(31042072)",
-    "qty": 264,
-    "tray": 2,
-    "note": "264,Tray#88,6 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300656",
-    "itemCode": "10-27317-110",
-    "itemName": "IOZ402-32R-1225-SF(31042072) IOZ402-32R-1225-SF(31042072)",
-    "qty": 264,
-    "tray": 2,
-    "note": "264,Tray#88,6 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300657",
-    "itemCode": "10-27317-110",
-    "itemName": "IOZ402-32R-1225-SF(31042072) IOZ402-32R-1225-SF(31042072)",
-    "qty": 153,
+    "qty": 196,
     "tray": 2,
     "note": "264,Tray#88,6 pcs."
   },
@@ -1807,150 +1735,6 @@
     "qty": 5,
     "tray": 2,
     "note": "6,Tray#6,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300060",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300061",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300062",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300063",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300064",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300065",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300066",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300067",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300068",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300069",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300070",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300071",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300072",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300073",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300074",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300075",
-    "itemCode": "10-08605-000",
-    "itemName": "450QL HEAD 450QLﾍｯﾄﾞｿｻﾞｲ (01T837571）",
-    "qty": 130,
-    "tray": 3,
-    "note": "A"
   },
   {
     "type": "SEA",
@@ -2164,7 +1948,7 @@
     "boxNo": "S26092300124",
     "itemCode": "10-23106-000",
     "itemName": "DOOR ﾄﾞｱ (HN12151)",
-    "qty": 120,
+    "qty": 110,
     "tray": 3,
     "note": "A"
   },
@@ -2327,15 +2111,6 @@
     "itemCode": "10-25478-000",
     "itemName": "GUIDE GUIDE",
     "qty": 20,
-    "tray": 4,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300121",
-    "itemCode": "10-24208-000",
-    "itemName": "DRIVE METAL FITTINGS 駆動金具400A (24704-8-7)",
-    "qty": 15,
     "tray": 4,
     "note": "A"
   },
@@ -2515,7 +2290,7 @@
     "boxNo": "S26092300179",
     "itemCode": "10-25598-000",
     "itemName": "CN-565CG NOSE CN-565CG ﾉｰｽﾞ (CN35962)",
-    "qty": 15,
+    "qty": 6,
     "tray": 4,
     "note": "A"
   },
@@ -2911,25 +2686,7 @@
     "boxNo": "S26092300185",
     "itemCode": "10-23204-000",
     "itemName": "HN-90N2 DOOR HN-90N2 ﾄﾞｱ (HN11774)",
-    "qty": 50,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300186",
-    "itemCode": "10-23204-000",
-    "itemName": "HN-90N2 DOOR HN-90N2 ﾄﾞｱ (HN11774)",
-    "qty": 50,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300187",
-    "itemCode": "10-23204-000",
-    "itemName": "HN-90N2 DOOR HN-90N2 ﾄﾞｱ (HN11774)",
-    "qty": 10,
+    "qty": 6,
     "tray": 6,
     "note": "A"
   },
@@ -3214,42 +2971,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26092300320",
-    "itemCode": "10-21459-100",
-    "itemName": "HOOK HOLDER フック受け",
-    "qty": 50,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300321",
-    "itemCode": "10-21459-100",
-    "itemName": "HOOK HOLDER フック受け",
-    "qty": 50,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300322",
-    "itemCode": "10-21459-100",
-    "itemName": "HOOK HOLDER フック受け",
-    "qty": 50,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300323",
-    "itemCode": "10-21459-100",
-    "itemName": "HOOK HOLDER フック受け",
-    "qty": 50,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26092300249",
     "itemCode": "10-22923-000",
     "itemName": "GUIDE ROLLER CONTROL LEVER L ｶﾞｲﾄﾞﾛｰﾗｰ調節ﾚﾊﾞｰL(JET0003M)",
@@ -3370,7 +3091,7 @@
     "boxNo": "S26092300335",
     "itemCode": "10-06279-200",
     "itemName": "HOLDER ﾎﾙﾀﾞｰ（7646002303/CA10337P00)",
-    "qty": 40,
+    "qty": 20,
     "tray": 7,
     "note": "A"
   },
@@ -3397,25 +3118,7 @@
     "boxNo": "S26092300345",
     "itemCode": "10-11089-100",
     "itemName": "LEVER LEVER(8148300602)ﾅﾁ東北",
-    "qty": 150,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300346",
-    "itemCode": "10-11089-100",
-    "itemName": "LEVER LEVER(8148300602)ﾅﾁ東北",
-    "qty": 150,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300347",
-    "itemCode": "10-11089-100",
-    "itemName": "LEVER LEVER(8148300602)ﾅﾁ東北",
-    "qty": 82,
+    "qty": 120,
     "tray": 7,
     "note": "A"
   },
@@ -3452,87 +3155,6 @@
     "itemCode": "10-25359-100",
     "itemName": "STOPPER BLOCK ｽﾄｯﾊﾟｰﾌﾞﾛｯｸ (MA02406--B)",
     "qty": 48,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300370",
-    "itemCode": "10-05928-000",
-    "itemName": "SIDE CLUTCH FORK (AM-60) AM60ｻｲﾄﾞｸﾗｯﾁﾌｫｰｸ(YP-9571)",
-    "qty": 210,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300371",
-    "itemCode": "10-05928-000",
-    "itemName": "SIDE CLUTCH FORK (AM-60) AM60ｻｲﾄﾞｸﾗｯﾁﾌｫｰｸ(YP-9571)",
-    "qty": 210,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300372",
-    "itemCode": "10-05928-000",
-    "itemName": "SIDE CLUTCH FORK (AM-60) AM60ｻｲﾄﾞｸﾗｯﾁﾌｫｰｸ(YP-9571)",
-    "qty": 210,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300373",
-    "itemCode": "10-05928-000",
-    "itemName": "SIDE CLUTCH FORK (AM-60) AM60ｻｲﾄﾞｸﾗｯﾁﾌｫｰｸ(YP-9571)",
-    "qty": 210,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300374",
-    "itemCode": "10-05928-000",
-    "itemName": "SIDE CLUTCH FORK (AM-60) AM60ｻｲﾄﾞｸﾗｯﾁﾌｫｰｸ(YP-9571)",
-    "qty": 210,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300375",
-    "itemCode": "10-05928-000",
-    "itemName": "SIDE CLUTCH FORK (AM-60) AM60ｻｲﾄﾞｸﾗｯﾁﾌｫｰｸ(YP-9571)",
-    "qty": 210,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300376",
-    "itemCode": "10-05928-000",
-    "itemName": "SIDE CLUTCH FORK (AM-60) AM60ｻｲﾄﾞｸﾗｯﾁﾌｫｰｸ(YP-9571)",
-    "qty": 210,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300377",
-    "itemCode": "10-05928-000",
-    "itemName": "SIDE CLUTCH FORK (AM-60) AM60ｻｲﾄﾞｸﾗｯﾁﾌｫｰｸ(YP-9571)",
-    "qty": 210,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300378",
-    "itemCode": "10-05928-000",
-    "itemName": "SIDE CLUTCH FORK (AM-60) AM60ｻｲﾄﾞｸﾗｯﾁﾌｫｰｸ(YP-9571)",
-    "qty": 120,
     "tray": 7,
     "note": "A"
   },
@@ -3592,19 +3214,136 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26092300413",
-    "itemCode": "10-20377-000",
-    "itemName": "LEVER ﾚﾊﾞｰ (U1T009-4010)",
-    "qty": 60,
+    "boxNo": "S26092500001",
+    "itemCode": "10-10280-000",
+    "itemName": "ADJUSTING SCREW 調節ﾈｼﾞUAN-700R-40C/US-LT40B-08",
+    "qty": 108,
     "tray": 7,
     "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26092300414",
-    "itemCode": "10-20377-000",
-    "itemName": "LEVER ﾚﾊﾞｰ (U1T009-4010)",
-    "qty": 12,
+    "boxNo": "S26092500002",
+    "itemCode": "10-25679-000",
+    "itemName": "HR-AV1TS NEEDLE FEED BLOCK HR-AV1TSﾊﾘｵｸﾘﾌﾞﾛｯｸ",
+    "qty": 30,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500003",
+    "itemCode": "10-20752-000",
+    "itemName": "MAIN THREAD HOLDER 主糸ホルダー(GT1718M)",
+    "qty": 200,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500004",
+    "itemCode": "10-11272-100",
+    "itemName": "HOLDER HOLDER (8147001903)",
+    "qty": 45,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500005",
+    "itemCode": "10-11272-100",
+    "itemName": "HOLDER HOLDER (8147001903)",
+    "qty": 45,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500006",
+    "itemCode": "10-11272-100",
+    "itemName": "HOLDER HOLDER (8147001903)",
+    "qty": 45,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500007",
+    "itemCode": "10-11272-100",
+    "itemName": "HOLDER HOLDER (8147001903)",
+    "qty": 45,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500008",
+    "itemCode": "10-11272-100",
+    "itemName": "HOLDER HOLDER (8147001903)",
+    "qty": 45,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500009",
+    "itemCode": "10-11272-100",
+    "itemName": "HOLDER HOLDER (8147001903)",
+    "qty": 8,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500010",
+    "itemCode": "10-29456-000",
+    "itemName": "HN 40SP1 SEND NAIL HN-40SP1 ｵｸﾘﾂﾞﾒ",
+    "qty": 33,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500011",
+    "itemCode": "10-27035-000",
+    "itemName": "HN65N2D NAIL LEG GUIDE HN65N2D NAIL LEG GUIDE",
+    "qty": 400,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500012",
+    "itemCode": "10-27035-000",
+    "itemName": "HN65N2D NAIL LEG GUIDE HN65N2D NAIL LEG GUIDE",
+    "qty": 350,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500016",
+    "itemCode": "10-10700-000",
+    "itemName": "BODY 本体",
+    "qty": 10,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500017",
+    "itemCode": "10-10700-000",
+    "itemName": "BODY 本体",
+    "qty": 10,
+    "tray": 7,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092500018",
+    "itemCode": "10-10700-000",
+    "itemName": "BODY 本体",
+    "qty": 10,
     "tray": 7,
     "note": "A"
   },
@@ -3704,15 +3443,6 @@
     "itemCode": "10-10672-000",
     "itemName": "SHIFT FORK ｼﾌﾄﾌｫｰｸ 0251-00300-00",
     "qty": 10,
-    "tray": 8,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300416",
-    "itemCode": "10-10700-000",
-    "itemName": "BODY 本体",
-    "qty": 60,
     "tray": 8,
     "note": "A"
   },
@@ -4451,96 +4181,6 @@
     "itemCode": "10-08597-000",
     "itemName": "CASE ケ-ス(WQ-679-3000E)",
     "qty": 10,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300489",
-    "itemCode": "10-08597-000",
-    "itemName": "CASE ケ-ス(WQ-679-3000E)",
-    "qty": 10,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300490",
-    "itemCode": "10-08597-000",
-    "itemName": "CASE ケ-ス(WQ-679-3000E)",
-    "qty": 10,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300491",
-    "itemCode": "10-08597-000",
-    "itemName": "CASE ケ-ス(WQ-679-3000E)",
-    "qty": 10,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300492",
-    "itemCode": "10-08597-000",
-    "itemName": "CASE ケ-ス(WQ-679-3000E)",
-    "qty": 10,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300493",
-    "itemCode": "10-08597-000",
-    "itemName": "CASE ケ-ス(WQ-679-3000E)",
-    "qty": 10,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300494",
-    "itemCode": "10-08597-000",
-    "itemName": "CASE ケ-ス(WQ-679-3000E)",
-    "qty": 10,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300495",
-    "itemCode": "10-08597-000",
-    "itemName": "CASE ケ-ス(WQ-679-3000E)",
-    "qty": 10,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300496",
-    "itemCode": "10-08597-000",
-    "itemName": "CASE ケ-ス(WQ-679-3000E)",
-    "qty": 10,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300597",
-    "itemCode": "10-25226-130",
-    "itemName": "COOLING WATER LEAD ENTRANCE 冷却水導入口(1) (HS5192-123-23A)",
-    "qty": 6,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300598",
-    "itemCode": "10-25226-130",
-    "itemName": "COOLING WATER LEAD ENTRANCE 冷却水導入口(1) (HS5192-123-23A)",
-    "qty": 2,
     "tray": 10,
     "note": "A"
   },
@@ -5629,133 +5269,7 @@
     "boxNo": "S26092300088",
     "itemCode": "10-26368-000",
     "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
-    "qty": 12,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300189",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300190",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300191",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300192",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300193",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300194",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300195",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300196",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300197",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300198",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300199",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300200",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300201",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 180,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300202",
-    "itemCode": "10-23385-000",
-    "itemName": "MH-17S DIE (R) MH-17S ﾀﾞｲｽ(R)",
-    "qty": 10,
+    "qty": 9,
     "tray": 14,
     "note": "M"
   },
@@ -5851,42 +5365,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26092300242",
-    "itemCode": "10-27380-000",
-    "itemName": "MH-032 DICE R MATERIAL MH-032 ﾀﾞｲｽR素材",
-    "qty": 300,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300243",
-    "itemCode": "10-27380-000",
-    "itemName": "MH-032 DICE R MATERIAL MH-032 ﾀﾞｲｽR素材",
-    "qty": 300,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300244",
-    "itemCode": "10-27380-000",
-    "itemName": "MH-032 DICE R MATERIAL MH-032 ﾀﾞｲｽR素材",
-    "qty": 300,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300245",
-    "itemCode": "10-27380-000",
-    "itemName": "MH-032 DICE R MATERIAL MH-032 ﾀﾞｲｽR素材",
-    "qty": 83,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26092300248",
     "itemCode": "10-22022-000",
     "itemName": "STROKE CONTROLLED CAM ｽﾄﾛｰｸ制御ｶﾑ（KOC0605MA）",
@@ -5909,42 +5387,6 @@
     "itemCode": "10-29296-140",
     "itemName": "CAM FAB DRAWING ｶﾑ(加工図)",
     "qty": 45,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300360",
-    "itemCode": "10-10754-100",
-    "itemName": "BOTTOM COVER ﾎﾞﾄﾑｶﾊﾞｰ150A～300A (G92-04248-14",
-    "qty": 10,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300361",
-    "itemCode": "10-10754-100",
-    "itemName": "BOTTOM COVER ﾎﾞﾄﾑｶﾊﾞｰ150A～300A (G92-04248-14",
-    "qty": 10,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300362",
-    "itemCode": "10-10754-100",
-    "itemName": "BOTTOM COVER ﾎﾞﾄﾑｶﾊﾞｰ150A～300A (G92-04248-14",
-    "qty": 10,
-    "tray": 14,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300363",
-    "itemCode": "10-10754-100",
-    "itemName": "BOTTOM COVER ﾎﾞﾄﾑｶﾊﾞｰ150A～300A (G92-04248-14",
-    "qty": 3,
     "tray": 14,
     "note": "M"
   },
@@ -6206,24 +5648,6 @@
     "itemCode": "10-23485-110",
     "itemName": "SPIRING BLOCK A ｽﾌﾟﾘﾝｸﾞﾌﾞﾛｯｸ(A)(1E000047924)",
     "qty": 5,
-    "tray": 15,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300648",
-    "itemCode": "10-29031-110",
-    "itemName": "BRACKET ﾌﾞﾗｹｯﾄ(B-IB-08-R-B)",
-    "qty": 450,
-    "tray": 15,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092300649",
-    "itemCode": "10-29031-110",
-    "itemName": "BRACKET ﾌﾞﾗｹｯﾄ(B-IB-08-R-B)",
-    "qty": 100,
     "tray": 15,
     "note": "M"
   },
@@ -7219,51 +6643,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26092400060",
-    "itemCode": "10-21458-100",
-    "itemName": "HOOK HOLDER フック受け",
-    "qty": 45,
-    "tray": 19,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092400061",
-    "itemCode": "10-21458-100",
-    "itemName": "HOOK HOLDER フック受け",
-    "qty": 45,
-    "tray": 19,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092400062",
-    "itemCode": "10-21458-100",
-    "itemName": "HOOK HOLDER フック受け",
-    "qty": 45,
-    "tray": 19,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092400063",
-    "itemCode": "10-21458-100",
-    "itemName": "HOOK HOLDER フック受け",
-    "qty": 45,
-    "tray": 19,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26092400064",
-    "itemCode": "10-21458-100",
-    "itemName": "HOOK HOLDER フック受け",
-    "qty": 20,
-    "tray": 19,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26092400095",
     "itemCode": "10-29533-100",
     "itemName": "HN90N7DG SENDING NAIL ｵｸﾘﾂﾞﾒ",
@@ -7313,6 +6692,51 @@
     "itemCode": "10-20637-000",
     "itemName": "Deposit 40 single hole type 敷金40 一穴ﾀｲﾌﾟ",
     "qty": 180,
+    "tray": 19,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092400060",
+    "itemCode": "10-21458-100",
+    "itemName": "HOOK HOLDER フック受け",
+    "qty": 45,
+    "tray": 19,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092400061",
+    "itemCode": "10-21458-100",
+    "itemName": "HOOK HOLDER フック受け",
+    "qty": 45,
+    "tray": 19,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092400062",
+    "itemCode": "10-21458-100",
+    "itemName": "HOOK HOLDER フック受け",
+    "qty": 45,
+    "tray": 19,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092400063",
+    "itemCode": "10-21458-100",
+    "itemName": "HOOK HOLDER フック受け",
+    "qty": 45,
+    "tray": 19,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26092400064",
+    "itemCode": "10-21458-100",
+    "itemName": "HOOK HOLDER フック受け",
+    "qty": 20,
     "tray": 19,
     "note": "A"
   },
