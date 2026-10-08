@@ -2137,16 +2137,7 @@
     "boxNo": "S26100700377",
     "itemCode": "10-23569-100",
     "itemName": "ARM ｱｰﾑ (6909-4269B)",
-    "qty": 70,
-    "tray": 4,
-    "note": "70,Tray#35,4pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700378",
-    "itemCode": "10-23569-100",
-    "itemName": "ARM ｱｰﾑ (6909-4269B)",
-    "qty": 12,
+    "qty": 50,
     "tray": 4,
     "note": "70,Tray#35,4pcs."
   },
@@ -2197,42 +2188,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700383",
-    "itemCode": "10-06951-100",
-    "itemName": "STAINLESS STUFFING ADK21-50A,Fｽﾀﾌｨﾝｸﾞ",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700384",
-    "itemCode": "10-06951-100",
-    "itemName": "STAINLESS STUFFING ADK21-50A,Fｽﾀﾌｨﾝｸﾞ",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700385",
-    "itemCode": "10-06951-100",
-    "itemName": "STAINLESS STUFFING ADK21-50A,Fｽﾀﾌｨﾝｸﾞ",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700386",
-    "itemCode": "10-06951-100",
-    "itemName": "STAINLESS STUFFING ADK21-50A,Fｽﾀﾌｨﾝｸﾞ",
-    "qty": 2,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26100700391",
     "itemCode": "10-10774-100",
     "itemName": "PIN ﾋﾟﾝ 7643801901 (RES 3804 501)",
@@ -2257,42 +2212,6 @@
     "qty": 48,
     "tray": 5,
     "note": "176,tray#88,4pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700397",
-    "itemCode": "10-06951-100",
-    "itemName": "STAINLESS STUFFING ADK21-50A,Fｽﾀﾌｨﾝｸﾞ",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700398",
-    "itemCode": "10-06951-100",
-    "itemName": "STAINLESS STUFFING ADK21-50A,Fｽﾀﾌｨﾝｸﾞ",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700399",
-    "itemCode": "10-06951-100",
-    "itemName": "STAINLESS STUFFING ADK21-50A,Fｽﾀﾌｨﾝｸﾞ",
-    "qty": 6,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700400",
-    "itemCode": "10-06951-100",
-    "itemName": "STAINLESS STUFFING ADK21-50A,Fｽﾀﾌｨﾝｸﾞ",
-    "qty": 2,
-    "tray": 5,
-    "note": "6,Tray#6,2pcs."
   },
   {
     "type": "SEA",
@@ -2372,7 +2291,7 @@
     "itemCode": "10-26314-130",
     "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
     "qty": 9,
-    "tray": 6,
+    "tray": 5,
     "note": "9,CKD,Tray9=2pcs."
   },
   {
@@ -2381,152 +2300,251 @@
     "itemCode": "10-26314-130",
     "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
     "qty": 9,
-    "tray": 6,
+    "tray": 5,
     "note": "9,CKD,Tray9=2pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700518",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "boxNo": "S26100700558",
+    "itemCode": "10-20848-120",
+    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
+    "qty": 13,
+    "tray": 5,
+    "note": "35,CKD Tray#35,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700562",
+    "itemCode": "10-20848-120",
+    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
+    "qty": 35,
+    "tray": 5,
+    "note": "35,CKD Tray#35,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700563",
+    "itemCode": "10-20848-120",
+    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
+    "qty": 35,
+    "tray": 5,
+    "note": "35,CKD Tray#35,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700582",
+    "itemCode": "10-08603-110",
+    "itemName": "S BEARING HOLDER Sﾍﾞｱﾘﾝｸﾞ押え (10700150）",
+    "qty": 360,
+    "tray": 5,
+    "note": "880,Tray#88,11 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800002",
+    "itemCode": "10-26375-130",
+    "itemName": "AP11-8A10A STUFFING AP11-8A、10Aｽﾀﾌｨﾝｸﾞ(F3-116001)",
+    "qty": 35,
+    "tray": 6,
+    "note": "CKD,Tray35=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800003",
+    "itemCode": "10-26375-130",
+    "itemName": "AP11-8A10A STUFFING AP11-8A、10Aｽﾀﾌｨﾝｸﾞ(F3-116001)",
+    "qty": 15,
+    "tray": 6,
+    "note": "CKD,Tray35=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800004",
+    "itemCode": "10-26375-130",
+    "itemName": "AP11-8A10A STUFFING AP11-8A、10Aｽﾀﾌｨﾝｸﾞ(F3-116001)",
+    "qty": 35,
+    "tray": 6,
+    "note": "CKD,Tray35=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800005",
+    "itemCode": "10-26375-130",
+    "itemName": "AP11-8A10A STUFFING AP11-8A、10Aｽﾀﾌｨﾝｸﾞ(F3-116001)",
+    "qty": 15,
+    "tray": 6,
+    "note": "CKD,Tray35=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800006",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 600,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800007",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 600,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800008",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 600,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800009",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 200,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800010",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 600,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800011",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 600,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800012",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 600,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800013",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 600,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800014",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 600,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800015",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 600,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800016",
+    "itemCode": "10-23860-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 420,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800049",
+    "itemCode": "11-07715-000",
+    "itemName": "HOOK ﾌｯｸ(株今尾製作所)",
+    "qty": 110,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800050",
+    "itemCode": "11-07715-000",
+    "itemName": "HOOK ﾌｯｸ(株今尾製作所)",
+    "qty": 90,
+    "tray": 6,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100800051",
+    "itemCode": "10-26381-130",
+    "itemName": "AD-25A STUFFING AD-25Aｽﾀﾌｨﾝｸﾞ(D3-263339)",
     "qty": 9,
     "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "9,CKD,Tray#9=2pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700519",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "boxNo": "S26100800052",
+    "itemCode": "10-26381-130",
+    "itemName": "AD-25A STUFFING AD-25Aｽﾀﾌｨﾝｸﾞ(D3-263339)",
     "qty": 9,
     "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "9,CKD,Tray#9=2pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700520",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "boxNo": "S26100800053",
+    "itemCode": "10-26381-130",
+    "itemName": "AD-25A STUFFING AD-25Aｽﾀﾌｨﾝｸﾞ(D3-263339)",
     "qty": 9,
     "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "9,CKD,Tray#9=2pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700521",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "boxNo": "S26100800054",
+    "itemCode": "10-26381-130",
+    "itemName": "AD-25A STUFFING AD-25Aｽﾀﾌｨﾝｸﾞ(D3-263339)",
     "qty": 9,
     "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "9,CKD,Tray#9=2pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700522",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "boxNo": "S26100800055",
+    "itemCode": "10-26381-130",
+    "itemName": "AD-25A STUFFING AD-25Aｽﾀﾌｨﾝｸﾞ(D3-263339)",
     "qty": 9,
     "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "9,CKD,Tray#9=2pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700523",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 9,
+    "boxNo": "S26100800056",
+    "itemCode": "10-26381-130",
+    "itemName": "AD-25A STUFFING AD-25Aｽﾀﾌｨﾝｸﾞ(D3-263339)",
+    "qty": 5,
     "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700524",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 9,
-    "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700525",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 9,
-    "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700526",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 9,
-    "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700527",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 9,
-    "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700528",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 9,
-    "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700529",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 9,
-    "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700530",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 9,
-    "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700531",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 9,
-    "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700532",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 9,
-    "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700533",
-    "itemCode": "10-26314-130",
-    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
-    "qty": 8,
-    "tray": 6,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "9,CKD,Tray#9=2pcs."
   },
   {
     "type": "SEA",
@@ -2710,309 +2728,615 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700543",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700639",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700544",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700640",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700545",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700641",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700546",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700642",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700547",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700643",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700548",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700644",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700549",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700645",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700550",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700646",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700551",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700647",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700552",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700648",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700553",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700649",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700554",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700650",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700555",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26100700651",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700556",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 1,
+    "boxNo": "S26100700652",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "18 Tray#9,2 pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700557",
-    "itemCode": "10-11073-110",
-    "itemName": "PIN PIN (RES3805101)",
-    "qty": 6,
+    "boxNo": "S26100700653",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "528,C Tray#88,7 Pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700558",
-    "itemCode": "10-20848-120",
-    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
-    "qty": 13,
+    "boxNo": "S26100700654",
+    "itemCode": "10-29046-120",
+    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
+    "qty": 15,
     "tray": 8,
-    "note": "35,CKD Tray#35,2pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700562",
-    "itemCode": "10-20848-120",
-    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
-    "qty": 35,
-    "tray": 8,
-    "note": "35,CKD Tray#35,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700563",
-    "itemCode": "10-20848-120",
-    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
-    "qty": 35,
-    "tray": 8,
-    "note": "35,CKD Tray#35,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700575",
-    "itemCode": "10-20848-120",
-    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
-    "qty": 35,
+    "boxNo": "S26100700046",
+    "itemCode": "10-20892-000",
+    "itemName": "KEY 1 ｷｰ1",
+    "qty": 84,
     "tray": 9,
-    "note": "35,CKD Tray#35,2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700576",
-    "itemCode": "10-20848-120",
-    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
-    "qty": 35,
+    "boxNo": "S26100700047",
+    "itemCode": "10-20892-000",
+    "itemName": "KEY 1 ｷｰ1",
+    "qty": 84,
     "tray": 9,
-    "note": "35,CKD Tray#35,2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700577",
-    "itemCode": "10-20848-120",
-    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
-    "qty": 10,
+    "boxNo": "S26100700048",
+    "itemCode": "10-20892-000",
+    "itemName": "KEY 1 ｷｰ1",
+    "qty": 84,
     "tray": 9,
-    "note": "35,CKD Tray#35,2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700582",
-    "itemCode": "10-08603-110",
-    "itemName": "S BEARING HOLDER Sﾍﾞｱﾘﾝｸﾞ押え (10700150）",
-    "qty": 360,
+    "boxNo": "S26100700049",
+    "itemCode": "10-20892-000",
+    "itemName": "KEY 1 ｷｰ1",
+    "qty": 84,
     "tray": 9,
-    "note": "880,Tray#88,11 pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700589",
-    "itemCode": "10-26314-230",
-    "itemName": "AP-20A BODY STEAM AP-20Aﾎﾞﾃﾞｨ(蒸気用)(D3-276738)",
-    "qty": 9,
+    "boxNo": "S26100700050",
+    "itemCode": "10-20892-000",
+    "itemName": "KEY 1 ｷｰ1",
+    "qty": 26,
     "tray": 9,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700590",
-    "itemCode": "10-26314-230",
-    "itemName": "AP-20A BODY STEAM AP-20Aﾎﾞﾃﾞｨ(蒸気用)(D3-276738)",
-    "qty": 9,
+    "boxNo": "S26100700051",
+    "itemCode": "10-20564-000",
+    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
+    "qty": 132,
     "tray": 9,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700591",
-    "itemCode": "10-26314-230",
-    "itemName": "AP-20A BODY STEAM AP-20Aﾎﾞﾃﾞｨ(蒸気用)(D3-276738)",
-    "qty": 9,
+    "boxNo": "S26100700052",
+    "itemCode": "10-20564-000",
+    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
+    "qty": 132,
     "tray": 9,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700592",
-    "itemCode": "10-26314-230",
-    "itemName": "AP-20A BODY STEAM AP-20Aﾎﾞﾃﾞｨ(蒸気用)(D3-276738)",
-    "qty": 9,
+    "boxNo": "S26100700053",
+    "itemCode": "10-20564-000",
+    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
+    "qty": 132,
     "tray": 9,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700593",
-    "itemCode": "10-26314-230",
-    "itemName": "AP-20A BODY STEAM AP-20Aﾎﾞﾃﾞｨ(蒸気用)(D3-276738)",
-    "qty": 9,
+    "boxNo": "S26100700054",
+    "itemCode": "10-20564-000",
+    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
+    "qty": 132,
     "tray": 9,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700594",
-    "itemCode": "10-26314-230",
-    "itemName": "AP-20A BODY STEAM AP-20Aﾎﾞﾃﾞｨ(蒸気用)(D3-276738)",
-    "qty": 5,
+    "boxNo": "S26100700055",
+    "itemCode": "10-20564-000",
+    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
+    "qty": 132,
     "tray": 9,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700595",
-    "itemCode": "10-20848-220",
-    "itemName": "AXD-8A-D, E BODY AXD-10A-D,E (D3-231736)",
-    "qty": 35,
+    "boxNo": "S26100700056",
+    "itemCode": "10-20564-000",
+    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
+    "qty": 132,
     "tray": 9,
-    "note": "35,CKD Tray#35,2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700596",
-    "itemCode": "10-20848-220",
-    "itemName": "AXD-8A-D, E BODY AXD-10A-D,E (D3-231736)",
-    "qty": 25,
+    "boxNo": "S26100700057",
+    "itemCode": "10-20564-000",
+    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
+    "qty": 132,
     "tray": 9,
-    "note": "35,CKD Tray#35,2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700597",
-    "itemCode": "10-20848-120",
-    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
-    "qty": 35,
+    "boxNo": "S26100700058",
+    "itemCode": "10-20564-000",
+    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
+    "qty": 76,
     "tray": 9,
-    "note": "35,CKD Tray#35,2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700598",
-    "itemCode": "10-20848-120",
-    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
-    "qty": 35,
+    "boxNo": "S26100700076",
+    "itemCode": "10-26368-000",
+    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
+    "qty": 14,
     "tray": 9,
-    "note": "35,CKD Tray#35,2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700655",
-    "itemCode": "10-20848-120",
-    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
-    "qty": 35,
+    "boxNo": "S26100700077",
+    "itemCode": "10-26368-000",
+    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
+    "qty": 14,
     "tray": 9,
-    "note": "35,CKD Tray#35,2pcs."
+    "note": "M"
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700656",
-    "itemCode": "10-20848-120",
-    "itemName": "AXD-8A-D, E BODY AXD-8A-D,E ﾎﾞﾃﾞｨ (D3-231735)",
-    "qty": 5,
+    "boxNo": "S26100700078",
+    "itemCode": "10-26368-000",
+    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
+    "qty": 14,
     "tray": 9,
-    "note": "35,CKD Tray#35,2pcs."
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700079",
+    "itemCode": "10-26368-000",
+    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
+    "qty": 14,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700080",
+    "itemCode": "10-26368-000",
+    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
+    "qty": 14,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700121",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700122",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700123",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700124",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700125",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700126",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700127",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700128",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 66,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700129",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700130",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700131",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700132",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 60,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700133",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700134",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700135",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700136",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700137",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700138",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700139",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700140",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 14,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700141",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700142",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700143",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700144",
+    "itemCode": "10-20240-000",
+    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
+    "qty": 120,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700172",
+    "itemCode": "11-07715-000",
+    "itemName": "HOOK ﾌｯｸ(株今尾製作所)",
+    "qty": 110,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700173",
+    "itemCode": "11-07715-000",
+    "itemName": "HOOK ﾌｯｸ(株今尾製作所)",
+    "qty": 90,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700185",
+    "itemCode": "10-26349-000",
+    "itemName": "N-64-2-H DAICE MATERIAL N-64-2-Hﾀﾞｲｽ素材 (Z002030)",
+    "qty": 300,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700186",
+    "itemCode": "10-26349-000",
+    "itemName": "N-64-2-H DAICE MATERIAL N-64-2-Hﾀﾞｲｽ素材 (Z002030)",
+    "qty": 50,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700269",
+    "itemCode": "10-29207-000",
+    "itemName": "HLRES7(SCS13) HLRES7(SCS13)",
+    "qty": 272,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700270",
+    "itemCode": "10-29208-000",
+    "itemName": "HLRES8(S45C) HLRES8(S45C)",
+    "qty": 4,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700271",
+    "itemCode": "10-29212-000",
+    "itemName": "HLRES13(S45C) HLRES13(S45C)",
+    "qty": 100,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700272",
+    "itemCode": "10-29212-000",
+    "itemName": "HLRES13(S45C) HLRES13(S45C)",
+    "qty": 100,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700273",
+    "itemCode": "10-29212-000",
+    "itemName": "HLRES13(S45C) HLRES13(S45C)",
+    "qty": 80,
+    "tray": 9,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700304",
+    "itemCode": "10-29803-000",
+    "itemName": "SEGMENT GEAR ｾｸﾞﾒﾝﾄｷﾞｱ",
+    "qty": 300,
+    "tray": 9,
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -3031,15 +3355,6 @@
     "qty": 200,
     "tray": 10,
     "note": ""
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700059",
-    "itemCode": "10-29705-000",
-    "itemName": "NOZE ﾉｰｽﾞ",
-    "qty": 9,
-    "tray": 10,
-    "note": "A"
   },
   {
     "type": "SEA",
@@ -4798,1316 +5113,11 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26100700639",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700640",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700641",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700642",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700643",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700644",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700645",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700646",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700647",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700648",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700649",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700650",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700651",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700652",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700653",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700654",
-    "itemCode": "10-29046-120",
-    "itemName": "BLOCK,ARM WATER(5003-500268-13) BLOCK,ARM WATER(5003-500268-13)",
-    "qty": 15,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700325",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700326",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700327",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700328",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700329",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700330",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700331",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700332",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700333",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700334",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700335",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700336",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 15,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700337",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700338",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700339",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700340",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700341",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700342",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700343",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700344",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700345",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700346",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700347",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700348",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700349",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700350",
-    "itemCode": "10-06937-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-32Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700401",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700402",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700403",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700404",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700405",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700406",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700407",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700408",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700409",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700410",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700411",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700412",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700413",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700414",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700415",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700416",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700417",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700418",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 16,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700419",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700420",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700421",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700422",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700423",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700424",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700425",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700426",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700427",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700428",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700429",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700430",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700431",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700432",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700433",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700434",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700435",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700436",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700437",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700438",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700439",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700440",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700441",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700442",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700443",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700444",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700445",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700446",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700447",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700448",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700449",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700450",
-    "itemCode": "10-06645-100",
-    "itemName": "STAINLESS BODY AD･AP ADK･APK 21-40Fｽﾃﾝﾚｽﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 17,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700046",
-    "itemCode": "10-20892-000",
-    "itemName": "KEY 1 ｷｰ1",
-    "qty": 84,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700047",
-    "itemCode": "10-20892-000",
-    "itemName": "KEY 1 ｷｰ1",
-    "qty": 84,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700048",
-    "itemCode": "10-20892-000",
-    "itemName": "KEY 1 ｷｰ1",
-    "qty": 84,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700049",
-    "itemCode": "10-20892-000",
-    "itemName": "KEY 1 ｷｰ1",
-    "qty": 84,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700050",
-    "itemCode": "10-20892-000",
-    "itemName": "KEY 1 ｷｰ1",
-    "qty": 26,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700051",
-    "itemCode": "10-20564-000",
-    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
-    "qty": 132,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700052",
-    "itemCode": "10-20564-000",
-    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
-    "qty": 132,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700053",
-    "itemCode": "10-20564-000",
-    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
-    "qty": 132,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700054",
-    "itemCode": "10-20564-000",
-    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
-    "qty": 132,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700055",
-    "itemCode": "10-20564-000",
-    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
-    "qty": 132,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700056",
-    "itemCode": "10-20564-000",
-    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
-    "qty": 132,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700057",
-    "itemCode": "10-20564-000",
-    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
-    "qty": 132,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700058",
-    "itemCode": "10-20564-000",
-    "itemName": "KEY 2 キー ２ 4M18727 4M18728",
-    "qty": 76,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700076",
-    "itemCode": "10-26368-000",
-    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
-    "qty": 14,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700077",
-    "itemCode": "10-26368-000",
-    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
-    "qty": 14,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700078",
-    "itemCode": "10-26368-000",
-    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
-    "qty": 14,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700079",
-    "itemCode": "10-26368-000",
-    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
-    "qty": 14,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700080",
-    "itemCode": "10-26368-000",
-    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
-    "qty": 14,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700121",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700122",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700123",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700124",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700125",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700126",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700127",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700128",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 66,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700129",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700130",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700131",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700132",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 111,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700133",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700134",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700135",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700136",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700137",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700138",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700139",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700140",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 14,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700141",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700142",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700143",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700144",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 120,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700145",
-    "itemCode": "10-20240-000",
-    "itemName": "NAIL R 植付爪(R) (LPRH6-24213(2)",
-    "qty": 20,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700172",
-    "itemCode": "11-07715-000",
-    "itemName": "HOOK ﾌｯｸ(株今尾製作所)",
-    "qty": 110,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700173",
-    "itemCode": "11-07715-000",
-    "itemName": "HOOK ﾌｯｸ(株今尾製作所)",
-    "qty": 90,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700185",
-    "itemCode": "10-26349-000",
-    "itemName": "N-64-2-H DAICE MATERIAL N-64-2-Hﾀﾞｲｽ素材 (Z002030)",
-    "qty": 300,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700186",
-    "itemCode": "10-26349-000",
-    "itemName": "N-64-2-H DAICE MATERIAL N-64-2-Hﾀﾞｲｽ素材 (Z002030)",
-    "qty": 50,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700269",
-    "itemCode": "10-29207-000",
-    "itemName": "HLRES7(SCS13) HLRES7(SCS13)",
-    "qty": 272,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700270",
-    "itemCode": "10-29208-000",
-    "itemName": "HLRES8(S45C) HLRES8(S45C)",
-    "qty": 4,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700271",
-    "itemCode": "10-29212-000",
-    "itemName": "HLRES13(S45C) HLRES13(S45C)",
-    "qty": 100,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700272",
-    "itemCode": "10-29212-000",
-    "itemName": "HLRES13(S45C) HLRES13(S45C)",
-    "qty": 100,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700273",
-    "itemCode": "10-29212-000",
-    "itemName": "HLRES13(S45C) HLRES13(S45C)",
-    "qty": 80,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26100700304",
-    "itemCode": "10-29803-000",
-    "itemName": "SEGMENT GEAR ｾｸﾞﾒﾝﾄｷﾞｱ",
-    "qty": 300,
-    "tray": 18,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26100700192",
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6116,7 +5126,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6125,7 +5135,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6134,7 +5144,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6143,7 +5153,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6152,7 +5162,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6161,7 +5171,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6170,7 +5180,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6179,7 +5189,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6188,7 +5198,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6197,7 +5207,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6206,7 +5216,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6215,7 +5225,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6224,7 +5234,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6233,7 +5243,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6242,7 +5252,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6251,7 +5261,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6260,7 +5270,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6269,7 +5279,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6278,7 +5288,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6287,7 +5297,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6296,7 +5306,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6305,7 +5315,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6314,7 +5324,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6323,7 +5333,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6332,7 +5342,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6341,7 +5351,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6350,7 +5360,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6359,7 +5369,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6368,7 +5378,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6377,7 +5387,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6386,7 +5396,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6395,7 +5405,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6404,7 +5414,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6413,7 +5423,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6422,7 +5432,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6431,7 +5441,7 @@
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
     "qty": 180,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6440,7 +5450,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6449,7 +5459,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6458,7 +5468,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6467,7 +5477,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6476,7 +5486,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6485,7 +5495,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6494,7 +5504,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6503,7 +5513,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6512,7 +5522,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6521,7 +5531,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6530,7 +5540,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6539,7 +5549,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 24,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6548,7 +5558,7 @@
     "itemCode": "10-29021-000",
     "itemName": "VIBRATION BASE STAND 振動ﾍﾞｰｽ台 (AC-102002-A5)",
     "qty": 12,
-    "tray": 19,
+    "tray": 15,
     "note": "M"
   },
   {
@@ -6557,7 +5567,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6566,7 +5576,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6575,7 +5585,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6584,7 +5594,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6593,7 +5603,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6602,7 +5612,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6611,7 +5621,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6620,7 +5630,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6629,7 +5639,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6638,7 +5648,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6647,7 +5657,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6656,7 +5666,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6665,7 +5675,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6674,7 +5684,7 @@
     "itemCode": "10-29253-000",
     "itemName": "SHAFT BRAKE CAM ｼｬﾌﾄ(ﾌﾞﾚｰｷｶﾑ)",
     "qty": 11,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6683,7 +5693,7 @@
     "itemCode": "10-27407-000",
     "itemName": "VALVE 弁",
     "qty": 27,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6692,7 +5702,7 @@
     "itemCode": "10-02609-100",
     "itemName": "DAMPER ARM ダンパーアーム",
     "qty": 100,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6701,7 +5711,7 @@
     "itemCode": "10-02609-100",
     "itemName": "DAMPER ARM ダンパーアーム",
     "qty": 100,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6710,7 +5720,7 @@
     "itemCode": "10-02609-100",
     "itemName": "DAMPER ARM ダンパーアーム",
     "qty": 100,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6719,7 +5729,7 @@
     "itemCode": "10-02609-100",
     "itemName": "DAMPER ARM ダンパーアーム",
     "qty": 24,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6728,7 +5738,7 @@
     "itemCode": "10-02609-100",
     "itemName": "DAMPER ARM ダンパーアーム",
     "qty": 100,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6737,7 +5747,7 @@
     "itemCode": "10-02609-100",
     "itemName": "DAMPER ARM ダンパーアーム",
     "qty": 100,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6746,7 +5756,7 @@
     "itemCode": "10-02609-100",
     "itemName": "DAMPER ARM ダンパーアーム",
     "qty": 100,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6755,7 +5765,7 @@
     "itemCode": "10-26144-000",
     "itemName": "JOINT,TURN BUCKLE JOINT,TURN BUCKLE",
     "qty": 60,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6764,7 +5774,7 @@
     "itemCode": "10-26144-000",
     "itemName": "JOINT,TURN BUCKLE JOINT,TURN BUCKLE",
     "qty": 60,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6773,7 +5783,7 @@
     "itemCode": "10-26144-000",
     "itemName": "JOINT,TURN BUCKLE JOINT,TURN BUCKLE",
     "qty": 60,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6782,7 +5792,7 @@
     "itemCode": "10-26144-000",
     "itemName": "JOINT,TURN BUCKLE JOINT,TURN BUCKLE",
     "qty": 60,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6791,7 +5801,7 @@
     "itemCode": "10-26144-000",
     "itemName": "JOINT,TURN BUCKLE JOINT,TURN BUCKLE",
     "qty": 60,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6800,7 +5810,7 @@
     "itemCode": "10-26144-000",
     "itemName": "JOINT,TURN BUCKLE JOINT,TURN BUCKLE",
     "qty": 60,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6809,7 +5819,7 @@
     "itemCode": "10-26144-000",
     "itemName": "JOINT,TURN BUCKLE JOINT,TURN BUCKLE",
     "qty": 60,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6818,7 +5828,7 @@
     "itemCode": "10-26144-000",
     "itemName": "JOINT,TURN BUCKLE JOINT,TURN BUCKLE",
     "qty": 60,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6827,7 +5837,7 @@
     "itemCode": "10-26144-000",
     "itemName": "JOINT,TURN BUCKLE JOINT,TURN BUCKLE",
     "qty": 30,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6836,7 +5846,7 @@
     "itemCode": "10-08417-000",
     "itemName": "YORK ﾖｰｸ (687-0703GC)",
     "qty": 70,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6845,7 +5855,7 @@
     "itemCode": "10-28995-000",
     "itemName": "BLOCK 50080 ﾌﾞﾛｯｸ#50080 (87609114)",
     "qty": 55,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6854,7 +5864,7 @@
     "itemCode": "10-28995-000",
     "itemName": "BLOCK 50080 ﾌﾞﾛｯｸ#50080 (87609114)",
     "qty": 55,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6863,7 +5873,7 @@
     "itemCode": "10-28995-000",
     "itemName": "BLOCK 50080 ﾌﾞﾛｯｸ#50080 (87609114)",
     "qty": 55,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6872,7 +5882,7 @@
     "itemCode": "10-28995-000",
     "itemName": "BLOCK 50080 ﾌﾞﾛｯｸ#50080 (87609114)",
     "qty": 55,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6881,7 +5891,7 @@
     "itemCode": "10-28995-000",
     "itemName": "BLOCK 50080 ﾌﾞﾛｯｸ#50080 (87609114)",
     "qty": 55,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6890,7 +5900,7 @@
     "itemCode": "10-28995-000",
     "itemName": "BLOCK 50080 ﾌﾞﾛｯｸ#50080 (87609114)",
     "qty": 55,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6899,7 +5909,7 @@
     "itemCode": "10-28995-000",
     "itemName": "BLOCK 50080 ﾌﾞﾛｯｸ#50080 (87609114)",
     "qty": 55,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6908,7 +5918,7 @@
     "itemCode": "10-28995-000",
     "itemName": "BLOCK 50080 ﾌﾞﾛｯｸ#50080 (87609114)",
     "qty": 19,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6917,7 +5927,7 @@
     "itemCode": "10-23485-110",
     "itemName": "SPIRING BLOCK A ｽﾌﾟﾘﾝｸﾞﾌﾞﾛｯｸ(A)(1E000047924)",
     "qty": 20,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6926,7 +5936,7 @@
     "itemCode": "10-23485-110",
     "itemName": "SPIRING BLOCK A ｽﾌﾟﾘﾝｸﾞﾌﾞﾛｯｸ(A)(1E000047924)",
     "qty": 20,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6935,7 +5945,7 @@
     "itemCode": "10-23485-110",
     "itemName": "SPIRING BLOCK A ｽﾌﾟﾘﾝｸﾞﾌﾞﾛｯｸ(A)(1E000047924)",
     "qty": 12,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6944,7 +5954,7 @@
     "itemCode": "10-10978-110",
     "itemName": "CLAMP BLOCK ｸﾗﾝﾌﾟﾌﾞﾛｯｸ (6670158)",
     "qty": 110,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6953,7 +5963,7 @@
     "itemCode": "10-10978-110",
     "itemName": "CLAMP BLOCK ｸﾗﾝﾌﾟﾌﾞﾛｯｸ (6670158)",
     "qty": 110,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6962,7 +5972,7 @@
     "itemCode": "10-10978-110",
     "itemName": "CLAMP BLOCK ｸﾗﾝﾌﾟﾌﾞﾛｯｸ (6670158)",
     "qty": 110,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
   },
   {
@@ -6971,7 +5981,151 @@
     "itemCode": "10-10978-110",
     "itemName": "CLAMP BLOCK ｸﾗﾝﾌﾟﾌﾞﾛｯｸ (6670158)",
     "qty": 92,
-    "tray": 20,
+    "tray": 16,
     "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700518",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700519",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700520",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700521",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700522",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700523",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700524",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700525",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700526",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700527",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700528",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700529",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700530",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700531",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700532",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 9,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26100700533",
+    "itemCode": "10-26314-130",
+    "itemName": "AP-20A BODY AP-20Aﾎﾞﾃﾞｨ(D2-263332)",
+    "qty": 8,
+    "tray": 17,
+    "note": "9,CKD,Tray9=2pcs."
   }
 ]
