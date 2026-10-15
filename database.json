@@ -1504,15 +1504,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400080",
-    "itemCode": "10-29248-000",
-    "itemName": "LEVER ﾚﾊﾞｰ",
-    "qty": 412,
-    "tray": 1,
-    "note": "440pcs,Tray#88,5+1pcs"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26101400155",
     "itemCode": "10-29647-000",
     "itemName": "2 HOLE FIRST AIR NOZZLE LEFT TYPE 2 2孔1次空気ﾉｽﾞﾙ(左型2)",
@@ -2152,111 +2143,75 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400336",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 9,
+    "boxNo": "S26101500011",
+    "itemCode": "10-27309-000",
+    "itemName": "COVER ｶﾊﾞｰ (F-0421-403C)",
+    "qty": 50,
     "tray": 4,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400337",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 9,
+    "boxNo": "S26101500012",
+    "itemCode": "10-27309-000",
+    "itemName": "COVER ｶﾊﾞｰ (F-0421-403C)",
+    "qty": 50,
     "tray": 4,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400338",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 9,
+    "boxNo": "S26101500013",
+    "itemCode": "10-27309-000",
+    "itemName": "COVER ｶﾊﾞｰ (F-0421-403C)",
+    "qty": 50,
     "tray": 4,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400339",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 9,
+    "boxNo": "S26101500014",
+    "itemCode": "10-27309-000",
+    "itemName": "COVER ｶﾊﾞｰ (F-0421-403C)",
+    "qty": 50,
     "tray": 4,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400340",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 9,
+    "boxNo": "S26101500015",
+    "itemCode": "10-27309-000",
+    "itemName": "COVER ｶﾊﾞｰ (F-0421-403C)",
+    "qty": 50,
     "tray": 4,
-    "note": "9,CKD,Tray9=2pcs."
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400341",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 5,
-    "tray": 5,
-    "note": "9,CKD,Tray9=2pcs."
+    "boxNo": "S26101500016",
+    "itemCode": "10-27309-000",
+    "itemName": "COVER ｶﾊﾞｰ (F-0421-403C)",
+    "qty": 50,
+    "tray": 4,
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400342",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 9,
-    "tray": 5,
-    "note": "9,CKD,Tray9=2pcs."
+    "boxNo": "S26101500017",
+    "itemCode": "10-27309-000",
+    "itemName": "COVER ｶﾊﾞｰ (F-0421-403C)",
+    "qty": 50,
+    "tray": 4,
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400343",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 9,
-    "tray": 5,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400344",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 9,
-    "tray": 5,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400345",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 9,
-    "tray": 5,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400346",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 9,
-    "tray": 5,
-    "note": "9,CKD,Tray9=2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400347",
-    "itemCode": "10-26313-100",
-    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
-    "qty": 5,
-    "tray": 5,
-    "note": "9,CKD,Tray9=2pcs."
+    "boxNo": "S26101500018",
+    "itemCode": "10-27309-000",
+    "itemName": "COVER ｶﾊﾞｰ (F-0421-403C)",
+    "qty": 50,
+    "tray": 4,
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -2356,6 +2311,69 @@
     "qty": 40,
     "tray": 5,
     "note": "480,tray 48, 11 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500061",
+    "itemCode": "10-29801-300",
+    "itemName": "MAIN LINE DOLLY BLOCK COMPARISON1 幹線用 ｱﾃｶﾞﾈ(照合1)",
+    "qty": 12,
+    "tray": 5,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500062",
+    "itemCode": "10-29801-400",
+    "itemName": "MAIN LINE DOLLY BLOCK COMPARISON 2 幹線用 ｱﾃｶﾞﾈ(照合2)",
+    "qty": 15,
+    "tray": 5,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500063",
+    "itemCode": "10-29801-400",
+    "itemName": "MAIN LINE DOLLY BLOCK COMPARISON 2 幹線用 ｱﾃｶﾞﾈ(照合2)",
+    "qty": 15,
+    "tray": 5,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500064",
+    "itemCode": "10-29801-400",
+    "itemName": "MAIN LINE DOLLY BLOCK COMPARISON 2 幹線用 ｱﾃｶﾞﾈ(照合2)",
+    "qty": 15,
+    "tray": 5,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500065",
+    "itemCode": "10-29801-400",
+    "itemName": "MAIN LINE DOLLY BLOCK COMPARISON 2 幹線用 ｱﾃｶﾞﾈ(照合2)",
+    "qty": 15,
+    "tray": 5,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500066",
+    "itemCode": "10-29801-400",
+    "itemName": "MAIN LINE DOLLY BLOCK COMPARISON 2 幹線用 ｱﾃｶﾞﾈ(照合2)",
+    "qty": 15,
+    "tray": 5,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500067",
+    "itemCode": "10-29801-400",
+    "itemName": "MAIN LINE DOLLY BLOCK COMPARISON 2 幹線用 ｱﾃｶﾞﾈ(照合2)",
+    "qty": 9,
+    "tray": 5,
+    "note": "#N/A"
   },
   {
     "type": "SEA",
@@ -2812,7 +2830,7 @@
     "boxNo": "S26101400351",
     "itemCode": "10-28905-100",
     "itemName": "FILTER HOLDER R ﾌｨﾙﾀｰﾎﾙﾀﾞｰ(R)(MB10MCS020052)",
-    "qty": 17,
+    "qty": 18,
     "tray": 8,
     "note": "#N/A"
   },
@@ -2821,7 +2839,7 @@
     "boxNo": "S26101400352",
     "itemCode": "10-28905-100",
     "itemName": "FILTER HOLDER R ﾌｨﾙﾀｰﾎﾙﾀﾞｰ(R)(MB10MCS020052)",
-    "qty": 3,
+    "qty": 2,
     "tray": 8,
     "note": "#N/A"
   },
@@ -2840,42 +2858,6 @@
     "itemCode": "10-28906-100",
     "itemName": "FILTER HOLDER L ﾌｨﾙﾀｰﾎﾙﾀﾞｰ(L)(MB10MCS020062)",
     "qty": 2,
-    "tray": 8,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400598",
-    "itemCode": "10-26345-100",
-    "itemName": "AP11-8A 10A BODY AP11-8A、10Aﾎﾞﾃﾞｨ",
-    "qty": 35,
-    "tray": 8,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400599",
-    "itemCode": "10-26345-100",
-    "itemName": "AP11-8A 10A BODY AP11-8A、10Aﾎﾞﾃﾞｨ",
-    "qty": 15,
-    "tray": 8,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400674",
-    "itemCode": "10-26345-100",
-    "itemName": "AP11-8A 10A BODY AP11-8A、10Aﾎﾞﾃﾞｨ",
-    "qty": 35,
-    "tray": 8,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400675",
-    "itemCode": "10-26345-100",
-    "itemName": "AP11-8A 10A BODY AP11-8A、10Aﾎﾞﾃﾞｨ",
-    "qty": 15,
     "tray": 8,
     "note": "#N/A"
   },
@@ -3484,60 +3466,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400023",
-    "itemCode": "10-29705-000",
-    "itemName": "NOZE ﾉｰｽﾞ",
-    "qty": 50,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400024",
-    "itemCode": "10-29705-000",
-    "itemName": "NOZE ﾉｰｽﾞ",
-    "qty": 50,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400025",
-    "itemCode": "10-29705-000",
-    "itemName": "NOZE ﾉｰｽﾞ",
-    "qty": 50,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400026",
-    "itemCode": "10-29705-000",
-    "itemName": "NOZE ﾉｰｽﾞ",
-    "qty": 50,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400027",
-    "itemCode": "10-29705-000",
-    "itemName": "NOZE ﾉｰｽﾞ",
-    "qty": 50,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400028",
-    "itemCode": "10-29705-000",
-    "itemName": "NOZE ﾉｰｽﾞ",
-    "qty": 50,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26101400029",
     "itemCode": "10-21314-000",
     "itemName": "ELECTRODE HOLDER 相間電極 (SA018B014-02)",
@@ -3592,33 +3520,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400035",
-    "itemCode": "10-08912-000",
-    "itemName": "6D.430 Head shank 6D.430ﾍｯﾄﾞｼｬﾝｸ (31011459-PA01)",
-    "qty": 120,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400036",
-    "itemCode": "10-08912-000",
-    "itemName": "6D.430 Head shank 6D.430ﾍｯﾄﾞｼｬﾝｸ (31011459-PA01)",
-    "qty": 120,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400037",
-    "itemCode": "10-08912-000",
-    "itemName": "6D.430 Head shank 6D.430ﾍｯﾄﾞｼｬﾝｸ (31011459-PA01)",
-    "qty": 80,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26101400081",
     "itemCode": "10-23246-000",
     "itemName": "CN-652M/FAP50V9 DOOR LATCH (CN33679) CN-652M/FAP50V9 ﾄﾞｱﾗｯﾁ (CN33679)",
@@ -3650,15 +3551,6 @@
     "itemCode": "10-29532-000",
     "itemName": "HN-90N7D-G FEED A HN-90N7(D)-G ﾌｨｰﾄﾞA",
     "qty": 60,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400088",
-    "itemCode": "10-26452-000",
-    "itemName": "N-3637-2-H MATERIAL N-3637-2-H素材",
-    "qty": 40,
     "tray": 12,
     "note": "A"
   },
@@ -3758,6 +3650,78 @@
     "itemCode": "10-29431-000",
     "itemName": "ASSISTANCE TIMES MOUNTAIN CONTROL STAND 補助度山制御台",
     "qty": 100,
+    "tray": 12,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500055",
+    "itemCode": "10-20752-000",
+    "itemName": "MAIN THREAD HOLDER 主糸ホルダー(GT1718M)",
+    "qty": 100,
+    "tray": 12,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500056",
+    "itemCode": "10-22036-000",
+    "itemName": "YG CAM CONTROLLED LEVER A 5G YGｶﾑ制御ﾚﾊﾞｰ A 5G(KLC0037M)",
+    "qty": 100,
+    "tray": 12,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500057",
+    "itemCode": "10-26005-000",
+    "itemName": "TIMES MOUNTAIN DABO SUPPRESSION R 度山ﾀﾞﾎﾞ押ｴ金(R)(JEC0939M)",
+    "qty": 20,
+    "tray": 12,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500058",
+    "itemCode": "10-26006-000",
+    "itemName": "TIMES MOUNTAIN DABO SUPPRESSION L 度山ﾀﾞﾎﾞ押ｴ金(L)(JEC0940M)",
+    "qty": 20,
+    "tray": 12,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500069",
+    "itemCode": "10-10890-110",
+    "itemName": "CAMSHAFT ｶﾑｼｬﾌﾄ (QLSWC150L-02)",
+    "qty": 100,
+    "tray": 12,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500070",
+    "itemCode": "10-10890-110",
+    "itemName": "CAM SHAFT ｶﾑｼｬﾌﾄ (QLSWC150L-02)",
+    "qty": 110,
+    "tray": 12,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500071",
+    "itemCode": "10-10890-110",
+    "itemName": "CAM SHAFT ｶﾑｼｬﾌﾄ (QLSWC150L-02)",
+    "qty": 105,
+    "tray": 12,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500073",
+    "itemCode": "10-20078-000",
+    "itemName": "HOPPER PELLER SHAFT ﾎｯﾊﾟｰﾍﾟﾗｱｰﾑ",
+    "qty": 37,
     "tray": 12,
     "note": "A"
   },
@@ -4564,33 +4528,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26101400478",
-    "itemCode": "10-26320-000",
-    "itemName": "HOUJING ﾊｳｼﾞﾝｸﾞ (164-355034)",
-    "qty": 18,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400479",
-    "itemCode": "10-26320-000",
-    "itemName": "HOUJING ﾊｳｼﾞﾝｸﾞ (164-355034)",
-    "qty": 18,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26101400480",
-    "itemCode": "10-26320-000",
-    "itemName": "HOUJING ﾊｳｼﾞﾝｸﾞ (164-355034)",
-    "qty": 9,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26101400481",
     "itemCode": "10-26322-000",
     "itemName": "HOUJING ﾊｳｼﾞﾝｸﾞ (164-358539)",
@@ -4774,7 +4711,7 @@
     "boxNo": "S26101400534",
     "itemCode": "10-08034-000",
     "itemName": "HOLDER G2 受金種別Ｇ２（SS214005）",
-    "qty": 10,
+    "qty": 5,
     "tray": 15,
     "note": "A"
   },
@@ -5917,7 +5854,7 @@
     "boxNo": "S26101400192",
     "itemCode": "10-08911-000",
     "itemName": "6D.547 Head shank 6D.547ﾍｯﾄﾞｼｬﾝｸ (31011451-PA01)",
-    "qty": 48,
+    "qty": 38,
     "tray": 19,
     "note": "A"
   },
@@ -7585,5 +7522,356 @@
     "qty": 12,
     "tray": 23,
     "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500019",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500020",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500021",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500022",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500023",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500024",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500025",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500026",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500027",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500028",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500029",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500030",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500031",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500032",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500033",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500034",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500035",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500036",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500037",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500038",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500039",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500040",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500041",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500042",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500043",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500044",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500045",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500046",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500047",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500048",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500049",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500050",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500051",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500052",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500053",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 45,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500054",
+    "itemCode": "10-28752-000",
+    "itemName": "CASE ｹｰｽ",
+    "qty": 9,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500059",
+    "itemCode": "10-24125-100",
+    "itemName": "STOPPER ｽﾄｯﾊﾟ(CP133-04007-02)",
+    "qty": 300,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500060",
+    "itemCode": "10-24125-100",
+    "itemName": "STOPPER ｽﾄｯﾊﾟ(CP133-04007-02)",
+    "qty": 400,
+    "tray": 24,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26101500068",
+    "itemCode": "10-27031-000",
+    "itemName": "RB-515-B2C FOOK RB-515-B2C ﾌｯｸ (RB11816)",
+    "qty": 800,
+    "tray": 24,
+    "note": "A"
   }
 ]
