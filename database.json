@@ -3277,6 +3277,24 @@
   },
   {
     "type": "SEA",
+    "boxNo": "S26102900150",
+    "itemCode": "10-27022-120",
+    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
+    "qty": 40,
+    "tray": 10,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26102900151",
+    "itemCode": "10-27022-120",
+    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
+    "qty": 10,
+    "tray": 10,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
     "boxNo": "S26102800177",
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
