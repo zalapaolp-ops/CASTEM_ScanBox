@@ -757,57 +757,66 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26102900048",
-    "itemCode": "10-27017-000",
-    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
-    "qty": 28,
+    "boxNo": "S26102800399",
+    "itemCode": "10-27022-120",
+    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
+    "qty": 40,
     "tray": 2,
-    "note": "35,Tray#35,2pcs"
+    "note": "40,Tray#20,2 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26102900049",
-    "itemCode": "10-27017-000",
-    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
-    "qty": 28,
+    "boxNo": "S26102800400",
+    "itemCode": "10-27022-120",
+    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
+    "qty": 40,
     "tray": 2,
-    "note": "35,Tray#35,2pcs"
+    "note": "40,Tray#20,2 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26102900050",
-    "itemCode": "10-27017-000",
-    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
-    "qty": 28,
+    "boxNo": "S26102800401",
+    "itemCode": "10-27022-120",
+    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
+    "qty": 40,
     "tray": 2,
-    "note": "35,Tray#35,2pcs"
+    "note": "40,Tray#20,2 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26102900051",
-    "itemCode": "10-27017-000",
-    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
-    "qty": 28,
+    "boxNo": "S26102800402",
+    "itemCode": "10-27022-120",
+    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
+    "qty": 40,
     "tray": 2,
-    "note": "35,Tray#35,2pcs"
+    "note": "40,Tray#20,2 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26102900052",
-    "itemCode": "10-27017-000",
-    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
-    "qty": 28,
+    "boxNo": "S26102800403",
+    "itemCode": "10-27022-120",
+    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
+    "qty": 30,
     "tray": 2,
-    "note": "35,Tray#35,2pcs"
+    "note": "40,Tray#20,2 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26102900053",
-    "itemCode": "10-27017-000",
-    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
-    "qty": 4,
+    "boxNo": "S26102900150",
+    "itemCode": "10-27022-120",
+    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
+    "qty": 40,
     "tray": 2,
-    "note": "35,Tray#35,2pcs"
+    "note": "40,Tray#20,2 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26102900151",
+    "itemCode": "10-27022-120",
+    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
+    "qty": 10,
+    "tray": 2,
+    "note": "40,Tray#20,2 pcs."
   },
   {
     "type": "SEA",
@@ -3232,66 +3241,57 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26102800399",
-    "itemCode": "10-27022-120",
-    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
-    "qty": 40,
+    "boxNo": "S26102900048",
+    "itemCode": "10-27017-000",
+    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
+    "qty": 28,
     "tray": 10,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26102800400",
-    "itemCode": "10-27022-120",
-    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
-    "qty": 40,
+    "boxNo": "S26102900049",
+    "itemCode": "10-27017-000",
+    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
+    "qty": 28,
     "tray": 10,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26102800401",
-    "itemCode": "10-27022-120",
-    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
-    "qty": 40,
+    "boxNo": "S26102900050",
+    "itemCode": "10-27017-000",
+    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
+    "qty": 28,
     "tray": 10,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26102800402",
-    "itemCode": "10-27022-120",
-    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
-    "qty": 40,
+    "boxNo": "S26102900051",
+    "itemCode": "10-27017-000",
+    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
+    "qty": 28,
     "tray": 10,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26102800403",
-    "itemCode": "10-27022-120",
-    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
-    "qty": 30,
+    "boxNo": "S26102900052",
+    "itemCode": "10-27017-000",
+    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
+    "qty": 28,
     "tray": 10,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
-    "boxNo": "S26102900150",
-    "itemCode": "10-27022-120",
-    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
-    "qty": 40,
+    "boxNo": "S26102900053",
+    "itemCode": "10-27017-000",
+    "itemName": "BODY ﾎﾞﾃﾞｨ(TSS-88-25-1LOS)",
+    "qty": 4,
     "tray": 10,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26102900151",
-    "itemCode": "10-27022-120",
-    "itemName": "SUB ZIPPER ANGLE ｻﾌﾞﾁｬｯｸｱﾝｸﾞﾙ(IE000109475) (2A000138977)",
-    "qty": 10,
-    "tray": 10,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -5244,7 +5244,7 @@
     "itemName": "UV INSTALLATION JIG M12 16 UV取付治具M12・16用",
     "qty": 500,
     "tray": 15,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -5253,7 +5253,7 @@
     "itemName": "UV INSTALLATION JIG M12 16 UV取付治具M12・16用",
     "qty": 500,
     "tray": 15,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -5262,7 +5262,7 @@
     "itemName": "UV INSTALLATION JIG M12 16 UV取付治具M12・16用",
     "qty": 500,
     "tray": 15,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -5271,7 +5271,7 @@
     "itemName": "UV INSTALLATION JIG M12 16 UV取付治具M12・16用",
     "qty": 5,
     "tray": 15,
-    "note": "#N/A"
+    "note": "A"
   },
   {
     "type": "SEA",
