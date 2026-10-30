@@ -1444,7 +1444,7 @@
     "boxNo": "S26102800246",
     "itemCode": "10-24699-000",
     "itemName": "PENDULUM ﾍﾟﾝﾃﾞｭﾗﾑA",
-    "qty": 600,
+    "qty": 350,
     "tray": 5,
     "note": "A"
   },
@@ -1507,7 +1507,7 @@
     "boxNo": "S26102800299",
     "itemCode": "11-07571-000",
     "itemName": "CAP ｷｬｯﾌﾟ(日本電子)",
-    "qty": 50,
+    "qty": 46,
     "tray": 5,
     "note": "A"
   },
@@ -2291,33 +2291,6 @@
     "itemCode": "10-22506-000",
     "itemName": "CAM CASE ｶﾑｹｰｽ",
     "qty": 2,
-    "tray": 8,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26102800424",
-    "itemCode": "10-04866-000",
-    "itemName": "CHANGE SHIFT ﾁｪﾝｼﾞｼﾌﾀ(B)(04071100161A)",
-    "qty": 165,
-    "tray": 8,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26102800425",
-    "itemCode": "10-04866-000",
-    "itemName": "CHANGE SHIFT ﾁｪﾝｼﾞｼﾌﾀ(B)(04071100161A)",
-    "qty": 165,
-    "tray": 8,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26102800426",
-    "itemCode": "10-04866-000",
-    "itemName": "CHANGE SHIFT ﾁｪﾝｼﾞｼﾌﾀ(B)(04071100161A)",
-    "qty": 90,
     "tray": 8,
     "note": "A"
   },
@@ -4117,7 +4090,7 @@
     "boxNo": "S26102800473",
     "itemCode": "10-28288-000",
     "itemName": "SPEX KNEE COUPLING IMPROVEMENT MAIN BODY 1130L継手本体(左）",
-    "qty": 30,
+    "qty": 28,
     "tray": 12,
     "note": "M"
   },
@@ -5290,5 +5263,266 @@
     "qty": 265,
     "tray": 15,
     "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000001",
+    "itemCode": "10-04866-000",
+    "itemName": "CHANGE SHIFT ﾁｪﾝｼﾞｼﾌﾀ(B)(04071100161A)",
+    "qty": 100,
+    "tray": 16,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000002",
+    "itemCode": "10-04866-000",
+    "itemName": "CHANGE SHIFT ﾁｪﾝｼﾞｼﾌﾀ(B)(04071100161A)",
+    "qty": 100,
+    "tray": 16,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000003",
+    "itemCode": "10-04866-000",
+    "itemName": "CHANGE SHIFT ﾁｪﾝｼﾞｼﾌﾀ(B)(04071100161A)",
+    "qty": 100,
+    "tray": 16,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000004",
+    "itemCode": "10-04866-000",
+    "itemName": "CHANGE SHIFT ﾁｪﾝｼﾞｼﾌﾀ(B)(04071100161A)",
+    "qty": 100,
+    "tray": 16,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000005",
+    "itemCode": "10-04866-000",
+    "itemName": "CHANGE SHIFT ﾁｪﾝｼﾞｼﾌﾀ(B)(04071100161A)",
+    "qty": 20,
+    "tray": 16,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000006",
+    "itemCode": "10-22345-000",
+    "itemName": "CLIP MOUNTING 連結取付台(KOT0537ME)",
+    "qty": 100,
+    "tray": 16,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000007",
+    "itemCode": "10-22345-000",
+    "itemName": "CLIP MOUNTING 連結取付台(KOT0537ME)",
+    "qty": 75,
+    "tray": 16,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000008",
+    "itemCode": "10-25601-000",
+    "itemName": "RB397(CE)CUTTER RB397(CE)ｶｯﾀ (RB12000)",
+    "qty": 211,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000009",
+    "itemCode": "10-26519-000",
+    "itemName": "FRAME ﾌﾚｰﾑ (4304214)",
+    "qty": 30,
+    "tray": 16,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000010",
+    "itemCode": "10-29108-000",
+    "itemName": "SHAFT CUTTER ｼｬﾌﾄｶｯﾀｰ(J1305-03010-00)",
+    "qty": 240,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000011",
+    "itemCode": "10-29108-000",
+    "itemName": "SHAFT CUTTER ｼｬﾌﾄｶｯﾀｰ(J1305-03010-00)",
+    "qty": 60,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000012",
+    "itemCode": "10-22345-000",
+    "itemName": "CLIP MOUNTING 連結取付台(KOT0537ME)",
+    "qty": 100,
+    "tray": 16,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000013",
+    "itemCode": "10-05842-000",
+    "itemName": "NUT PISTON 調整ﾅｯﾄﾋﾟｽﾄﾝ",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000014",
+    "itemCode": "10-22345-000",
+    "itemName": "CLIP MOUNTING 連結取付台(KOT0537ME)",
+    "qty": 100,
+    "tray": 16,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000015",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000016",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000017",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000018",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000019",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000020",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 80,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000021",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000022",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000023",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000024",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000025",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000026",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000027",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000028",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 120,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000029",
+    "itemCode": "10-27283-000",
+    "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
+    "qty": 70,
+    "tray": 16,
+    "note": "M"
   }
 ]
