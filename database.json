@@ -4252,7 +4252,7 @@
     "boxNo": "S26102800256",
     "itemCode": "10-29569-000",
     "itemName": "HOLDER STAND 押エ台",
-    "qty": 100,
+    "qty": 99,
     "tray": 12,
     "note": "#N/A"
   },
@@ -5522,6 +5522,42 @@
     "itemCode": "10-27283-000",
     "itemName": "BOLTIN75100 ﾎﾞﾙﾄ(IN75,100用)",
     "qty": 70,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000030",
+    "itemCode": "10-24518-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 500,
+    "tray": 16,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000031",
+    "itemCode": "10-24518-130",
+    "itemName": "CAM CASE ｶﾑｹｰｽ",
+    "qty": 20,
+    "tray": 16,
+    "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000032",
+    "itemCode": "10-21501-000",
+    "itemName": "WEDGE CLAMPER ｳｴｯｼﾞｸﾗﾝﾊﾟWC1N",
+    "qty": 1000,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26103000033",
+    "itemCode": "10-21501-000",
+    "itemName": "WEDGE CLAMPER ｳｴｯｼﾞｸﾗﾝﾊﾟWC1N",
+    "qty": 510,
     "tray": 16,
     "note": "M"
   }
