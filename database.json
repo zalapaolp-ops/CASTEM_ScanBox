@@ -1984,16 +1984,7 @@
     "boxNo": "S26110400151",
     "itemCode": "10-22008-000",
     "itemName": "TR CAM CONTROLLED MOUNTING TRｶﾑ制御台(HHC0040MA)",
-    "qty": 60,
-    "tray": 6,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400152",
-    "itemCode": "10-22008-000",
-    "itemName": "TR CAM CONTROLLED MOUNTING TRｶﾑ制御台(HHC0040MA)",
-    "qty": 40,
+    "qty": 59,
     "tray": 6,
     "note": "A"
   },
@@ -2200,70 +2191,7 @@
     "boxNo": "S26110400168",
     "itemCode": "10-26803-000",
     "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400169",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400170",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400171",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400172",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400173",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400174",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 7,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400175",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
+    "qty": 546,
     "tray": 7,
     "note": "A"
   },
@@ -3970,33 +3898,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26110400416",
-    "itemCode": "10-28449-000",
-    "itemName": "OIL ADJUSTMENT SCALE BOARD 油量調整目盛板(F1000-D06)",
-    "qty": 26,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400417",
-    "itemCode": "10-28449-000",
-    "itemName": "OIL ADJUSTMENT SCALE BOARD 油量調整目盛板(F1000-D06)",
-    "qty": 25,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400418",
-    "itemCode": "10-28449-000",
-    "itemName": "OIL ADJUSTMENT SCALE BOARD 油量調整目盛板(F1000-D06)",
-    "qty": 39,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26110400432",
     "itemCode": "10-05268-100",
     "itemName": "ELEMENT SUPPORTER ELEMENT,SUPPORTER(J2725-59010-00",
@@ -4163,33 +4064,6 @@
     "itemCode": "10-20374-100",
     "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
     "qty": 13,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400454",
-    "itemCode": "10-23717-100",
-    "itemName": "BASE (SLIDE Z2) ﾍﾞｰｽ(ｽﾗｲﾄﾞZ2) (LPUW-010107-00)",
-    "qty": 40,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400455",
-    "itemCode": "10-23717-100",
-    "itemName": "BASE (SLIDE Z2) ﾍﾞｰｽ(ｽﾗｲﾄﾞZ2) (LPUW-010107-00)",
-    "qty": 40,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400456",
-    "itemCode": "10-23717-100",
-    "itemName": "BASE (SLIDE Z2) ﾍﾞｰｽ(ｽﾗｲﾄﾞZ2) (LPUW-010107-00)",
-    "qty": 20,
     "tray": 12,
     "note": "A"
   },
@@ -5314,7 +5188,7 @@
     "boxNo": "S26110400553",
     "itemCode": "10-27037-000",
     "itemName": "N55 SEND NAIL N55 ｵｸﾘﾂﾞﾒ (CN31875)",
-    "qty": 100,
+    "qty": 81,
     "tray": 15,
     "note": "A"
   },
@@ -5323,7 +5197,7 @@
     "boxNo": "S26110400616",
     "itemCode": "10-27046-000",
     "itemName": "HN-90 SEND NAIL HN-90 ｵｸﾘﾂﾞﾒ (HN10476)",
-    "qty": 167,
+    "qty": 154,
     "tray": 15,
     "note": "A"
   },
@@ -6496,5 +6370,383 @@
     "qty": 1,
     "tray": 18,
     "note": ""
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500023",
+    "itemCode": "10-06949-100",
+    "itemName": "AD21-50AF STAINLESS STUFFING AD21-50A.Fｽﾀﾌｨﾝｸﾞ",
+    "qty": 6,
+    "tray": 19,
+    "note": "6,Tray#6,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500024",
+    "itemCode": "10-06949-100",
+    "itemName": "AD21-50AF STAINLESS STUFFING AD21-50A.Fｽﾀﾌｨﾝｸﾞ",
+    "qty": 6,
+    "tray": 19,
+    "note": "6,Tray#6,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500025",
+    "itemCode": "10-06949-100",
+    "itemName": "AD21-50AF STAINLESS STUFFING AD21-50A.Fｽﾀﾌｨﾝｸﾞ",
+    "qty": 6,
+    "tray": 19,
+    "note": "6,Tray#6,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500026",
+    "itemCode": "10-06949-100",
+    "itemName": "AD21-50AF STAINLESS STUFFING AD21-50A.Fｽﾀﾌｨﾝｸﾞ",
+    "qty": 2,
+    "tray": 19,
+    "note": "6,Tray#6,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500030",
+    "itemCode": "10-29191-100",
+    "itemName": "LABOR GRIP FIXATION RIGHT 怒責ｸﾞﾘｯﾌﾟ固定部_右",
+    "qty": 9,
+    "tray": 19,
+    "note": "9,Tray#9,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500031",
+    "itemCode": "10-29191-100",
+    "itemName": "LABOR GRIP FIXATION RIGHT 怒責ｸﾞﾘｯﾌﾟ固定部_右",
+    "qty": 9,
+    "tray": 19,
+    "note": "9,Tray#9,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500032",
+    "itemCode": "10-29191-100",
+    "itemName": "LABOR GRIP FIXATION RIGHT 怒責ｸﾞﾘｯﾌﾟ固定部_右",
+    "qty": 2,
+    "tray": 19,
+    "note": "9,Tray#9,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500033",
+    "itemCode": "10-29192-100",
+    "itemName": "LABOR GRIP FIXATION LEFT 怒責ｸﾞﾘｯﾌﾟ固定部_左",
+    "qty": 9,
+    "tray": 19,
+    "note": "9,Tray#9,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500034",
+    "itemCode": "10-29192-100",
+    "itemName": "LABOR GRIP FIXATION LEFT 怒責ｸﾞﾘｯﾌﾟ固定部_左",
+    "qty": 4,
+    "tray": 19,
+    "note": "9,Tray#9,2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500035",
+    "itemCode": "10-24278-100",
+    "itemName": "LINK LINK (H 154 235 483)",
+    "qty": 528,
+    "tray": 19,
+    "note": "528,C Tray#88,7 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500036",
+    "itemCode": "10-24278-100",
+    "itemName": "LINK LINK (H 154 235 483)",
+    "qty": 528,
+    "tray": 19,
+    "note": "528,C Tray#88,7 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500037",
+    "itemCode": "10-24278-100",
+    "itemName": "LINK LINK (H 154 235 483)",
+    "qty": 528,
+    "tray": 19,
+    "note": "528,C Tray#88,7 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500038",
+    "itemCode": "10-24278-100",
+    "itemName": "LINK LINK (H 154 235 483)",
+    "qty": 416,
+    "tray": 19,
+    "note": "528,C Tray#88,7 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500006",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500007",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500008",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500009",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500010",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500011",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500012",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500013",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500014",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500015",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500016",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500017",
+    "itemCode": "10-29705-000",
+    "itemName": "NOZE ﾉｰｽﾞ",
+    "qty": 36,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500018",
+    "itemCode": "10-20374-100",
+    "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
+    "qty": 20,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500019",
+    "itemCode": "10-20374-100",
+    "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
+    "qty": 20,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500020",
+    "itemCode": "10-20374-100",
+    "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
+    "qty": 20,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500021",
+    "itemCode": "10-20374-100",
+    "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
+    "qty": 20,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500022",
+    "itemCode": "10-20374-100",
+    "itemName": "END HANGER 2 ｴﾝﾄﾞﾊﾝｶﾞｰ2(ﾊﾈ上げ)",
+    "qty": 10,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500027",
+    "itemCode": "10-10748-100",
+    "itemName": "CAM CAM",
+    "qty": 100,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500028",
+    "itemCode": "10-10748-100",
+    "itemName": "CAM CAM",
+    "qty": 100,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500029",
+    "itemCode": "10-10748-100",
+    "itemName": "CAM CAM",
+    "qty": 50,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500039",
+    "itemCode": "10-27038-000",
+    "itemName": "HA-50F1/4MA FLOOR INSIDE GUIDE HA-50F1/4MA ﾌﾛｱ ｲﾝｻｲﾄﾞｶﾞｲﾄﾞ(HA11002)",
+    "qty": 300,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500040",
+    "itemCode": "10-27894-120",
+    "itemName": "CAM HOLDER ｶﾑﾎﾙﾀﾞ (L5SA016-94001)",
+    "qty": 200,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500041",
+    "itemCode": "10-27894-120",
+    "itemName": "CAM HOLDER ｶﾑﾎﾙﾀﾞ (L5SA016-94001)",
+    "qty": 200,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500042",
+    "itemCode": "10-27894-120",
+    "itemName": "CAM HOLDER ｶﾑﾎﾙﾀﾞ (L5SA016-94001)",
+    "qty": 200,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500043",
+    "itemCode": "10-27894-120",
+    "itemName": "CAM HOLDER ｶﾑﾎﾙﾀﾞ (L5SA016-94001)",
+    "qty": 200,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500044",
+    "itemCode": "10-27894-120",
+    "itemName": "CAM HOLDER ｶﾑﾎﾙﾀﾞ (L5SA016-94001)",
+    "qty": 120,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500045",
+    "itemCode": "10-28449-000",
+    "itemName": "OIL ADJUSTMENT SCALE BOARD 油量調整目盛板(F1000-D06)",
+    "qty": 5,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500046",
+    "itemCode": "10-28449-000",
+    "itemName": "OIL ADJUSTMENT SCALE BOARD 油量調整目盛板(F1000-D06)",
+    "qty": 20,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110500047",
+    "itemCode": "10-28449-000",
+    "itemName": "OIL ADJUSTMENT SCALE BOARD 油量調整目盛板(F1000-D06)",
+    "qty": 30,
+    "tray": 20,
+    "note": "A"
   }
 ]
