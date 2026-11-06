@@ -4024,15 +4024,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26110400446",
-    "itemCode": "10-27216-100",
-    "itemName": "MACHINE STOPPER INSTALLATION BLOCK MC2 ﾒｶｽﾄｯﾊﾟ取付ﾌﾞﾛｯｸMC2",
-    "qty": 200,
-    "tray": 12,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26110400450",
     "itemCode": "10-20373-100",
     "itemName": "END HANGER 1 ｴﾝﾄﾞﾊﾝｶﾞｰ1(ﾊﾈ上げ)",
@@ -5239,15 +5230,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26110400086",
-    "itemCode": "10-20239-000",
-    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
-    "qty": 80,
-    "tray": 16,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26110400137",
     "itemCode": "10-29910-000",
     "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
@@ -5546,15 +5528,6 @@
   {
     "type": "SEA",
     "boxNo": "S26110400389",
-    "itemCode": "10-26810-000",
-    "itemName": "RB441T(CE)CUTTER RB441T(CE)ｶｯﾀ (RB12643),10-26810-000,",
-    "qty": 500,
-    "tray": 16,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400390",
     "itemCode": "10-26810-000",
     "itemName": "RB441T(CE)CUTTER RB441T(CE)ｶｯﾀ (RB12643),10-26810-000,",
     "qty": 500,
@@ -6279,7 +6252,7 @@
     "itemName": "CHUCK PIECE 40.5 ﾁｬｯｸﾋﾟｰｽ40.5",
     "qty": 40,
     "tray": 18,
-    "note": "#N/A"
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -6288,7 +6261,7 @@
     "itemName": "CHUCK PIECE 40.5 ﾁｬｯｸﾋﾟｰｽ40.5",
     "qty": 40,
     "tray": 18,
-    "note": "#N/A"
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -6297,7 +6270,7 @@
     "itemName": "CHUCK PIECE 40.5 ﾁｬｯｸﾋﾟｰｽ40.5",
     "qty": 40,
     "tray": 18,
-    "note": "#N/A"
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -6306,7 +6279,7 @@
     "itemName": "CHUCK PIECE 40.5 ﾁｬｯｸﾋﾟｰｽ40.5",
     "qty": 40,
     "tray": 18,
-    "note": "#N/A"
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -6315,7 +6288,7 @@
     "itemName": "CHUCK PIECE 40.5 ﾁｬｯｸﾋﾟｰｽ40.5",
     "qty": 40,
     "tray": 18,
-    "note": "#N/A"
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -6324,7 +6297,7 @@
     "itemName": "CHUCK PIECE 40.5 ﾁｬｯｸﾋﾟｰｽ40.5",
     "qty": 40,
     "tray": 18,
-    "note": "#N/A"
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -6333,7 +6306,7 @@
     "itemName": "CHUCK PIECE 40.5 ﾁｬｯｸﾋﾟｰｽ40.5",
     "qty": 40,
     "tray": 18,
-    "note": "#N/A"
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -6342,7 +6315,7 @@
     "itemName": "CHUCK PIECE 40.5 ﾁｬｯｸﾋﾟｰｽ40.5",
     "qty": 40,
     "tray": 18,
-    "note": "#N/A"
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -6351,7 +6324,7 @@
     "itemName": "CHUCK PIECE 40.5 ﾁｬｯｸﾋﾟｰｽ40.5",
     "qty": 40,
     "tray": 18,
-    "note": "#N/A"
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -6360,7 +6333,7 @@
     "itemName": "CHUCK PIECE 40.5 ﾁｬｯｸﾋﾟｰｽ40.5",
     "qty": 40,
     "tray": 18,
-    "note": "#N/A"
+    "note": "M"
   },
   {
     "type": "SEA",
@@ -6487,6 +6460,51 @@
     "qty": 416,
     "tray": 19,
     "note": "528,C Tray#88,7 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600007",
+    "itemCode": "10-27216-100",
+    "itemName": "MACHINE STOPPER INSTALLATION BLOCK MC2 ﾒｶｽﾄｯﾊﾟ取付ﾌﾞﾛｯｸMC2",
+    "qty": 40,
+    "tray": 19,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600008",
+    "itemCode": "10-27216-100",
+    "itemName": "MACHINE STOPPER INSTALLATION BLOCK MC2 ﾒｶｽﾄｯﾊﾟ取付ﾌﾞﾛｯｸMC2",
+    "qty": 40,
+    "tray": 19,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600009",
+    "itemCode": "10-27216-100",
+    "itemName": "MACHINE STOPPER INSTALLATION BLOCK MC2 ﾒｶｽﾄｯﾊﾟ取付ﾌﾞﾛｯｸMC2",
+    "qty": 40,
+    "tray": 19,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600010",
+    "itemCode": "10-27216-100",
+    "itemName": "MACHINE STOPPER INSTALLATION BLOCK MC2 ﾒｶｽﾄｯﾊﾟ取付ﾌﾞﾛｯｸMC2",
+    "qty": 40,
+    "tray": 19,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600011",
+    "itemCode": "10-27216-100",
+    "itemName": "MACHINE STOPPER INSTALLATION BLOCK MC2 ﾒｶｽﾄｯﾊﾟ取付ﾌﾞﾛｯｸMC2",
+    "qty": 40,
+    "tray": 19,
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -6746,6 +6764,78 @@
     "itemCode": "10-28449-000",
     "itemName": "OIL ADJUSTMENT SCALE BOARD 油量調整目盛板(F1000-D06)",
     "qty": 30,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600001",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 41,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600002",
+    "itemCode": "10-20239-000",
+    "itemName": "NAIL L 植付爪(L) (LPRH6-24213(2)L+A",
+    "qty": 39,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600003",
+    "itemCode": "10-22002-000",
+    "itemName": "SJP CONTROL BASE SJP制御台（HHC0054M）",
+    "qty": 80,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600004",
+    "itemCode": "10-22002-000",
+    "itemName": "SJP CONTROL BASE SJP制御台（HHC0054M）",
+    "qty": 20,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600005",
+    "itemCode": "10-26810-000",
+    "itemName": "RB441T(CE)CUTTER RB441T(CE)ｶｯﾀ (RB12643),10-26810-000,",
+    "qty": 267,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600006",
+    "itemCode": "10-26810-000",
+    "itemName": "RB441T(CE)CUTTER RB441T(CE)ｶｯﾀ (RB12643),10-26810-000,",
+    "qty": 233,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600012",
+    "itemCode": "10-27849-110",
+    "itemName": "CAM LOCK ARM ｶﾑﾛｯｸｱｰﾑ (D4807-296-04)",
+    "qty": 46,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26110600013",
+    "itemCode": "10-24137-000",
+    "itemName": "KOTO559ME CONNECTION BOARD INSTALLATION KOT0559ME 連結板取り付け台",
+    "qty": 100,
     "tray": 20,
     "note": "A"
   }
