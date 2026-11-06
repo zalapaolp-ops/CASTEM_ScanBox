@@ -976,16 +976,7 @@
     "boxNo": "S26110400430",
     "itemCode": "10-06943-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-40Aﾎﾞﾃﾞｨ",
-    "qty": 6,
-    "tray": 2,
-    "note": "6,Tray#6,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400431",
-    "itemCode": "10-06943-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-40Aﾎﾞﾃﾞｨ",
-    "qty": 4,
+    "qty": 5,
     "tray": 2,
     "note": "6,Tray#6,2 pcs."
   },
@@ -3088,24 +3079,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26110400298",
-    "itemCode": "10-26854-000",
-    "itemName": "VENTURE CLEVIS FLANGE 一山ｸﾚﾋﾞｽ形ﾌﾗﾝｼﾞ(L18-137544)",
-    "qty": 20,
-    "tray": 9,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400299",
-    "itemCode": "10-26854-000",
-    "itemName": "VENTURE CLEVIS FLANGE 一山ｸﾚﾋﾞｽ形ﾌﾗﾝｼﾞ(L18-137544)",
-    "qty": 20,
-    "tray": 9,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26110400300",
     "itemCode": "10-26854-000",
     "itemName": "VENTURE CLEVIS FLANGE 一山ｸﾚﾋﾞｽ形ﾌﾗﾝｼﾞ(L18-137544)",
@@ -5060,33 +5033,6 @@
   {
     "type": "SEA",
     "boxNo": "S26110400715",
-    "itemCode": "10-29602-140",
-    "itemName": "FRAME ﾌﾚｰﾑ(G12-2C-0115)",
-    "qty": 5,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400716",
-    "itemCode": "10-29602-140",
-    "itemName": "FRAME ﾌﾚｰﾑ(G12-2C-0115)",
-    "qty": 5,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400717",
-    "itemCode": "10-29602-140",
-    "itemName": "FRAME ﾌﾚｰﾑ(G12-2C-0115)",
-    "qty": 5,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26110400718",
     "itemCode": "10-29602-140",
     "itemName": "FRAME ﾌﾚｰﾑ(G12-2C-0115)",
     "qty": 5,
