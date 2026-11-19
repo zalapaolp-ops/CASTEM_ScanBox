@@ -811,24 +811,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800160",
-    "itemCode": "10-05761-000",
-    "itemName": "HOOK-HOLDER DR HOOK(OFS4700A03M01)",
-    "qty": 400,
-    "tray": 1,
-    "note": "C"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800161",
-    "itemCode": "10-05761-000",
-    "itemName": "HOOK-HOLDER DR HOOK(OFS4700A03M01)",
-    "qty": 100,
-    "tray": 1,
-    "note": "C"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26111800164",
     "itemCode": "10-28515-000",
     "itemName": "KNOB ﾉﾌﾞ(QCWES1634-20S-04)",
@@ -1096,24 +1078,6 @@
     "qty": 40,
     "tray": 2,
     "note": "40,Tray#20,4pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800391",
-    "itemCode": "10-21488-100",
-    "itemName": "GRIPPER GRIPPER(8146002504)",
-    "qty": 880,
-    "tray": 2,
-    "note": "880pcs,Tray#88,11pcs"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800392",
-    "itemCode": "10-21488-100",
-    "itemName": "GRIPPER GRIPPER(8146002504)",
-    "qty": 120,
-    "tray": 2,
-    "note": "880pcs,Tray#88,11pcs"
   },
   {
     "type": "SEA",
@@ -1444,7 +1408,7 @@
     "boxNo": "S26111800377",
     "itemCode": "10-29968-100",
     "itemName": "PLATE PLATE",
-    "qty": 144,
+    "qty": 109,
     "tray": 4,
     "note": "144pcs,Tray#48,6pcs"
   },
@@ -1642,16 +1606,7 @@
     "boxNo": "S26111800497",
     "itemCode": "10-23163-000",
     "itemName": "AIR TUBE GUIDE UNDER ARM 1 ｴｱﾁｭｰﾌﾞｶﾞｲﾄﾞ",
-    "qty": 40,
-    "tray": 5,
-    "note": "40,Tray#20,4pcs"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800498",
-    "itemCode": "10-23163-000",
-    "itemName": "AIR TUBE GUIDE UNDER ARM 1 ｴｱﾁｭｰﾌﾞｶﾞｲﾄﾞ",
-    "qty": 20,
+    "qty": 10,
     "tray": 5,
     "note": "40,Tray#20,4pcs"
   },
@@ -1792,138 +1747,39 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800628",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26111900003",
+    "itemCode": "10-05761-000",
+    "itemName": "HOOK-HOLDER DR HOOK(OFS4700A03M01)",
+    "qty": 144,
     "tray": 6,
-    "note": "18 Tray#9,2 pcs."
+    "note": "144pcs,Tray#48,6pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800629",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26111900004",
+    "itemCode": "10-05761-000",
+    "itemName": "HOOK-HOLDER DR HOOK(OFS4700A03M01)",
+    "qty": 144,
     "tray": 6,
-    "note": "18 Tray#9,2 pcs."
+    "note": "144pcs,Tray#48,6pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800630",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26111900005",
+    "itemCode": "10-05761-000",
+    "itemName": "HOOK-HOLDER DR HOOK(OFS4700A03M01)",
+    "qty": 144,
     "tray": 6,
-    "note": "18 Tray#9,2 pcs."
+    "note": "144pcs,Tray#48,6pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800631",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
+    "boxNo": "S26111900006",
+    "itemCode": "10-05761-000",
+    "itemName": "HOOK-HOLDER DR HOOK(OFS4700A03M01)",
+    "qty": 68,
     "tray": 6,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800632",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
-    "tray": 6,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800633",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
-    "tray": 7,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800634",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
-    "tray": 7,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800635",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
-    "tray": 7,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800636",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
-    "tray": 7,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800637",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
-    "tray": 7,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800638",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
-    "tray": 7,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800639",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
-    "tray": 7,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800640",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
-    "tray": 7,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800641",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 18,
-    "tray": 7,
-    "note": "18 Tray#9,2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800642",
-    "itemCode": "10-25737-120",
-    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
-    "qty": 3,
-    "tray": 7,
-    "note": "18 Tray#9,2 pcs."
+    "note": "144pcs,Tray#48,6pcs."
   },
   {
     "type": "SEA",
@@ -2005,6 +1861,87 @@
     "qty": 10,
     "tray": 7,
     "note": "20,CKD,Tray#20, 2 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900024",
+    "itemCode": "10-23353-000",
+    "itemName": "F LOCK ARM Fﾛｯｸｱｰﾑ",
+    "qty": 144,
+    "tray": 7,
+    "note": "144,Tray#48,3pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900025",
+    "itemCode": "10-23353-000",
+    "itemName": "F LOCK ARM Fﾛｯｸｱｰﾑ",
+    "qty": 144,
+    "tray": 7,
+    "note": "144,Tray#48,3pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900026",
+    "itemCode": "10-23353-000",
+    "itemName": "F LOCK ARM Fﾛｯｸｱｰﾑ",
+    "qty": 32,
+    "tray": 7,
+    "note": "144,Tray#48,3pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900027",
+    "itemCode": "10-26377-130",
+    "itemName": "AP-20A STUFFING AP-20Aｽﾀﾌｨﾝｸﾞ(D3-263335)",
+    "qty": 9,
+    "tray": 7,
+    "note": "9,CKD,Tray#9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900028",
+    "itemCode": "10-26377-130",
+    "itemName": "AP-20A STUFFING AP-20Aｽﾀﾌｨﾝｸﾞ(D3-263335)",
+    "qty": 9,
+    "tray": 7,
+    "note": "9,CKD,Tray#9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900029",
+    "itemCode": "10-26377-130",
+    "itemName": "AP-20A STUFFING AP-20Aｽﾀﾌｨﾝｸﾞ(D3-263335)",
+    "qty": 9,
+    "tray": 7,
+    "note": "9,CKD,Tray#9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900030",
+    "itemCode": "10-26377-130",
+    "itemName": "AP-20A STUFFING AP-20Aｽﾀﾌｨﾝｸﾞ(D3-263335)",
+    "qty": 9,
+    "tray": 7,
+    "note": "9,CKD,Tray#9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900031",
+    "itemCode": "10-26377-130",
+    "itemName": "AP-20A STUFFING AP-20Aｽﾀﾌｨﾝｸﾞ(D3-263335)",
+    "qty": 9,
+    "tray": 7,
+    "note": "9,CKD,Tray#9=2pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900032",
+    "itemCode": "10-26377-130",
+    "itemName": "AP-20A STUFFING AP-20Aｽﾀﾌｨﾝｸﾞ(D3-263335)",
+    "qty": 5,
+    "tray": 7,
+    "note": "9,CKD,Tray#9=2pcs."
   },
   {
     "type": "SEA",
@@ -2155,7 +2092,7 @@
     "boxNo": "S26111800781",
     "itemCode": "10-11006-110",
     "itemName": "CLAMP ARM ｸﾗﾝﾌﾟｱｰﾑ （SBX10-408668-12）",
-    "qty": 35,
+    "qty": 25,
     "tray": 8,
     "note": "40,Tray#20,4pcs."
   },
@@ -2506,7 +2443,7 @@
     "boxNo": "S26111800249",
     "itemCode": "10-22942-000",
     "itemName": "STITCH CAM LEVER ( R ) 05S 補助度山制御ｶﾑ押ｴﾚﾊﾞｰ(R)05S",
-    "qty": 8,
+    "qty": 50,
     "tray": 9,
     "note": "A"
   },
@@ -4267,15 +4204,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800362",
-    "itemCode": "10-08398-100",
-    "itemName": "EM-U DEAD HUB EM-Uﾃﾞｯﾄﾞﾊﾌﾞ",
-    "qty": 164,
-    "tray": 14,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26111800364",
     "itemCode": "10-24760-100",
     "itemName": "BEARING NUT AN08 ﾍﾞｱﾘﾝｸﾞﾅｯﾄAN08(BHXSAN08T)",
@@ -4396,7 +4324,7 @@
     "boxNo": "S26111800395",
     "itemCode": "10-23121-100",
     "itemName": "LEVER LCL6 ﾚﾊﾞｰLCL6",
-    "qty": 992,
+    "qty": 1000,
     "tray": 15,
     "note": "A"
   },
@@ -4528,24 +4456,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800440",
-    "itemCode": "10-20310-000",
-    "itemName": "36 KV FOR VEHICLE BUSHING 36kv車両用ﾌﾞｯｼﾝｸﾞ遮へい金具(M3A , SHOWA CABLE SYSTEM , 昭和電線ケーブルシステム（株）",
-    "qty": 24,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800441",
-    "itemCode": "10-20310-000",
-    "itemName": "36 KV FOR VEHICLE BUSHING 36kv車両用ﾌﾞｯｼﾝｸﾞ遮へい金具(M3A , SHOWA CABLE SYSTEM , 昭和電線ケーブルシステム（株）",
-    "qty": 21,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26111800442",
     "itemCode": "10-01772-000",
     "itemName": "HOLDER ﾎﾙﾀﾞ-(大) 姫島ﾒｯｷ",
@@ -4618,15 +4528,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800483",
-    "itemCode": "10-27049-000",
-    "itemName": "CN-665S SEND NAIL CN-665S ｵｸﾘﾂﾞﾒ (CN36316)",
-    "qty": 100,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26111800484",
     "itemCode": "10-08149-000",
     "itemName": "SEAT 弁座(3U-7676)",
@@ -4649,6 +4550,60 @@
     "itemCode": "10-08149-000",
     "itemName": "SEAT 弁座(3U-7676)",
     "qty": 5,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900007",
+    "itemCode": "10-24271-100",
+    "itemName": "LINK LINK (F01G1070SB)",
+    "qty": 300,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900008",
+    "itemCode": "10-23106-000",
+    "itemName": "DOOR ﾄﾞｱ (HN12151)",
+    "qty": 120,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900009",
+    "itemCode": "10-23106-000",
+    "itemName": "DOOR ﾄﾞｱ (HN12151)",
+    "qty": 120,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900010",
+    "itemCode": "10-23106-000",
+    "itemName": "DOOR ﾄﾞｱ (HN12151)",
+    "qty": 120,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900011",
+    "itemCode": "10-23106-000",
+    "itemName": "DOOR ﾄﾞｱ (HN12151)",
+    "qty": 10,
+    "tray": 15,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900012",
+    "itemCode": "10-30250-000",
+    "itemName": "MOVABLE SIDE CLAMP 可動側ｸﾗﾝﾌﾟ",
+    "qty": 43,
     "tray": 15,
     "note": "A"
   },
@@ -5296,7 +5251,7 @@
     "boxNo": "S26111800677",
     "itemCode": "10-03885-110",
     "itemName": "SRG-20 ADAPTER RG ｱﾀﾞﾌﾟﾀ(RG)(SRG-20)",
-    "qty": 55,
+    "qty": 23,
     "tray": 17,
     "note": "A"
   },
@@ -6289,6 +6244,123 @@
     "qty": 200,
     "tray": 20,
     "note": "#N/A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900013",
+    "itemCode": "10-25659-000",
+    "itemName": "GS-638C DRIVER GUIDE A GS-638CﾄﾞﾗｲﾊﾞｶﾞｲﾄﾞA",
+    "qty": 50,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900014",
+    "itemCode": "10-28736-000",
+    "itemName": "BODY YL15MATERIAL ﾎﾞﾃﾞｨ(YL15素材)(Y-1115-01-M1)",
+    "qty": 18,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900015",
+    "itemCode": "10-28736-000",
+    "itemName": "BODY YL15MATERIAL ﾎﾞﾃﾞｨ(YL15素材)(Y-1115-01-M1)",
+    "qty": 1,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900016",
+    "itemCode": "10-05268-100",
+    "itemName": "ELEMENT SUPPORTER ELEMENT,SUPPORTER(J2725-59010-00",
+    "qty": 150,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900017",
+    "itemCode": "10-05268-100",
+    "itemName": "ELEMENT SUPPORTER ELEMENT,SUPPORTER(J2725-59010-00",
+    "qty": 150,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900018",
+    "itemCode": "10-05268-100",
+    "itemName": "ELEMENT SUPPORTER ELEMENT,SUPPORTER(J2725-59010-00",
+    "qty": 150,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900019",
+    "itemCode": "10-05268-100",
+    "itemName": "ELEMENT SUPPORTER ELEMENT,SUPPORTER(J2725-59010-00",
+    "qty": 150,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900020",
+    "itemCode": "10-05268-100",
+    "itemName": "ELEMENT SUPPORTER ELEMENT,SUPPORTER(J2725-59010-00",
+    "qty": 150,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900021",
+    "itemCode": "10-05268-100",
+    "itemName": "ELEMENT SUPPORTER ELEMENT,SUPPORTER(J2725-59010-00",
+    "qty": 150,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900022",
+    "itemCode": "10-05268-100",
+    "itemName": "ELEMENT SUPPORTER ELEMENT,SUPPORTER(J2725-59010-00",
+    "qty": 100,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900023",
+    "itemCode": "10-27906-100",
+    "itemName": "AS SPINDLE CAP ASｽﾋﾟﾝﾄﾞﾙｷｬｯﾌﾟ",
+    "qty": 73,
+    "tray": 20,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900033",
+    "itemCode": "10-29910-000",
+    "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
+    "qty": 180,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111900034",
+    "itemCode": "10-29910-000",
+    "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
+    "qty": 64,
+    "tray": 20,
+    "note": "M"
   },
   {
     "type": "SEA",
