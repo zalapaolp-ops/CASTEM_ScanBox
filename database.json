@@ -4609,60 +4609,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800500",
-    "itemCode": "10-20464-000",
-    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
-    "qty": 120,
-    "tray": 16,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800501",
-    "itemCode": "10-20464-000",
-    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
-    "qty": 120,
-    "tray": 16,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800502",
-    "itemCode": "10-20464-000",
-    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
-    "qty": 60,
-    "tray": 16,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800503",
-    "itemCode": "10-20464-000",
-    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
-    "qty": 120,
-    "tray": 16,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800504",
-    "itemCode": "10-20464-000",
-    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
-    "qty": 120,
-    "tray": 16,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800505",
-    "itemCode": "10-20464-000",
-    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
-    "qty": 80,
-    "tray": 16,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26111800507",
     "itemCode": "10-29427-000",
     "itemName": "MAIN BODY ﾎﾝﾀｲ",
