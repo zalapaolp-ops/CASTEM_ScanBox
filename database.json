@@ -895,16 +895,7 @@
     "boxNo": "S26111800173",
     "itemCode": "10-29082-000",
     "itemName": "LEVER ﾚﾊﾞｰ(QCPSS2245-6-04）",
-    "qty": 40,
-    "tray": 1,
-    "note": "Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800174",
-    "itemCode": "10-29082-000",
-    "itemName": "LEVER ﾚﾊﾞｰ(QCPSS2245-6-04）",
-    "qty": 20,
+    "qty": 39,
     "tray": 1,
     "note": "Tray#20,2pcs."
   },
@@ -967,7 +958,7 @@
     "boxNo": "S26111800315",
     "itemCode": "10-30104-000",
     "itemName": "BODY LOSTWAX ﾎﾞﾃﾞｨ(ﾛｽﾄﾜｯｸｽ)",
-    "qty": 10,
+    "qty": 6,
     "tray": 2,
     "note": "70pcs,Tray#35,4pcs"
   },
@@ -1399,16 +1390,7 @@
     "boxNo": "S26111800376",
     "itemCode": "10-29968-100",
     "itemName": "PLATE PLATE",
-    "qty": 144,
-    "tray": 4,
-    "note": "144pcs,Tray#48,6pcs"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800377",
-    "itemCode": "10-29968-100",
-    "itemName": "PLATE PLATE",
-    "qty": 109,
+    "qty": 117,
     "tray": 4,
     "note": "144pcs,Tray#48,6pcs"
   },
@@ -1849,16 +1831,7 @@
     "boxNo": "S26111800674",
     "itemCode": "10-26379-100",
     "itemName": "AD-15A STUFFING AD-15Aｽﾀﾌｨﾝｸﾞ",
-    "qty": 20,
-    "tray": 7,
-    "note": "20,CKD,Tray#20, 2 pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800675",
-    "itemCode": "10-26379-100",
-    "itemName": "AD-15A STUFFING AD-15Aｽﾀﾌｨﾝｸﾞ",
-    "qty": 10,
+    "qty": 18,
     "tray": 7,
     "note": "20,CKD,Tray#20, 2 pcs."
   },
@@ -2092,7 +2065,7 @@
     "boxNo": "S26111800781",
     "itemCode": "10-11006-110",
     "itemName": "CLAMP ARM ｸﾗﾝﾌﾟｱｰﾑ （SBX10-408668-12）",
-    "qty": 25,
+    "qty": 14,
     "tray": 8,
     "note": "40,Tray#20,4pcs."
   },
@@ -2863,51 +2836,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800116",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800117",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800118",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800119",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 600,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800120",
-    "itemCode": "10-26803-000",
-    "itemName": "RB441T(CE)HOOK L RB441T(CE)ﾌｯｸL",
-    "qty": 100,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26111800121",
     "itemCode": "10-30005-000",
     "itemName": "PRESET CHIP ﾌﾟﾘｾｯﾄﾁｯﾌﾟ",
@@ -3577,7 +3505,7 @@
     "boxNo": "S26111800258",
     "itemCode": "10-22639-000",
     "itemName": "GCT1014M YARN FEEDER (A) GCT1014Mﾔｰﾝﾌｨｰﾀﾞｰ(A)(GCT1014M)",
-    "qty": 200,
+    "qty": 182,
     "tray": 13,
     "note": "A"
   },
@@ -3602,60 +3530,6 @@
   {
     "type": "SEA",
     "boxNo": "S26111800261",
-    "itemCode": "10-26804-000",
-    "itemName": "RB441T(CE)HOOK R RB441T(CE)ﾌｯｸR",
-    "qty": 600,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800262",
-    "itemCode": "10-26804-000",
-    "itemName": "RB441T(CE)HOOK R RB441T(CE)ﾌｯｸR",
-    "qty": 600,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800263",
-    "itemCode": "10-26804-000",
-    "itemName": "RB441T(CE)HOOK R RB441T(CE)ﾌｯｸR",
-    "qty": 600,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800264",
-    "itemCode": "10-26804-000",
-    "itemName": "RB441T(CE)HOOK R RB441T(CE)ﾌｯｸR",
-    "qty": 600,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800265",
-    "itemCode": "10-26804-000",
-    "itemName": "RB441T(CE)HOOK R RB441T(CE)ﾌｯｸR",
-    "qty": 600,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800266",
-    "itemCode": "10-26804-000",
-    "itemName": "RB441T(CE)HOOK R RB441T(CE)ﾌｯｸR",
-    "qty": 600,
-    "tray": 13,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800267",
     "itemCode": "10-26804-000",
     "itemName": "RB441T(CE)HOOK R RB441T(CE)ﾌｯｸR",
     "qty": 600,
@@ -3947,60 +3821,6 @@
     "itemCode": "10-29532-000",
     "itemName": "HN-90N7D-G FEED A HN-90N7(D)-G ﾌｨｰﾄﾞA",
     "qty": 50,
-    "tray": 14,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800324",
-    "itemCode": "10-27404-100",
-    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
-    "qty": 12,
-    "tray": 14,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800325",
-    "itemCode": "10-27404-100",
-    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
-    "qty": 12,
-    "tray": 14,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800326",
-    "itemCode": "10-27404-100",
-    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
-    "qty": 12,
-    "tray": 14,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800327",
-    "itemCode": "10-27404-100",
-    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
-    "qty": 12,
-    "tray": 14,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800328",
-    "itemCode": "10-27404-100",
-    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
-    "qty": 12,
-    "tray": 14,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800329",
-    "itemCode": "10-27404-100",
-    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
-    "qty": 5,
     "tray": 14,
     "note": "A"
   },
@@ -4519,15 +4339,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800449",
-    "itemCode": "10-01772-000",
-    "itemName": "HOLDER ﾎﾙﾀﾞ-(大) 姫島ﾒｯｷ",
-    "qty": 30,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26111800484",
     "itemCode": "10-08149-000",
     "itemName": "SEAT 弁座(3U-7676)",
@@ -4559,42 +4370,6 @@
     "itemCode": "10-24271-100",
     "itemName": "LINK LINK (F01G1070SB)",
     "qty": 300,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111900008",
-    "itemCode": "10-23106-000",
-    "itemName": "DOOR ﾄﾞｱ (HN12151)",
-    "qty": 120,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111900009",
-    "itemCode": "10-23106-000",
-    "itemName": "DOOR ﾄﾞｱ (HN12151)",
-    "qty": 120,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111900010",
-    "itemCode": "10-23106-000",
-    "itemName": "DOOR ﾄﾞｱ (HN12151)",
-    "qty": 120,
-    "tray": 15,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111900011",
-    "itemCode": "10-23106-000",
-    "itemName": "DOOR ﾄﾞｱ (HN12151)",
-    "qty": 10,
     "tray": 15,
     "note": "A"
   },
@@ -6184,15 +5959,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800257",
-    "itemCode": "10-30074-000",
-    "itemName": "TACK PRESSER ﾀｯｸﾌﾟﾚｯｻｰ",
-    "qty": 200,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26111900013",
     "itemCode": "10-25659-000",
     "itemName": "GS-638C DRIVER GUIDE A GS-638CﾄﾞﾗｲﾊﾞｶﾞｲﾄﾞA",
@@ -6673,7 +6439,7 @@
     "boxNo": "S26111800183",
     "itemCode": "10-25604-000",
     "itemName": "TA-51111638T NOSE TA-51111638Tﾉｰｽﾞ(TA14610)",
-    "qty": 10,
+    "qty": 9,
     "tray": 21,
     "note": "M"
   },
@@ -6979,7 +6745,7 @@
     "boxNo": "S26111800294",
     "itemCode": "10-20583-000",
     "itemName": "LEVER ＬＥＶＥＲ 8443003300",
-    "qty": 52,
+    "qty": 49,
     "tray": 22,
     "note": "M"
   },
@@ -7372,222 +7138,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800643",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800644",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800645",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800646",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800647",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800648",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800649",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800650",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800651",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800652",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800653",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800654",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800655",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800656",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800657",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800658",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800659",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800660",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800661",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800662",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800663",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800664",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800665",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 20,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26111800666",
-    "itemCode": "10-25396-120",
-    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26111800739",
     "itemCode": "10-29031-110",
     "itemName": "BRACKET ﾌﾞﾗｹｯﾄ(B-IB-08-R-B)",
@@ -7786,11 +7336,452 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26111800761",
-    "itemCode": "32-03003-000",
-    "itemName": "TEST PIECE(KK72) TEST PIECE(KK72)",
-    "qty": 4,
+    "boxNo": "S26112000001",
+    "itemCode": "10-26368-000",
+    "itemName": "GS738C2NOSE GS738C2ﾉｰｽﾞ(GN12438)",
+    "qty": 8,
     "tray": 23,
     "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000002",
+    "itemCode": "10-29910-000",
+    "itemName": "CLAMP ARM FOR FRAME JIG 枠治具用ｸﾗﾝﾌﾟｱｰﾑ",
+    "qty": 98,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000003",
+    "itemCode": "10-22912-000",
+    "itemName": "YG CAM DRIVE LEVER YGｶﾑ駆動ﾚﾊﾞｰ(JEC0046M)",
+    "qty": 100,
+    "tray": 23,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000008",
+    "itemCode": "10-06884-000",
+    "itemName": "CYLINDER COVER ｼﾘﾝﾀﾞｰｶﾊﾞｰ",
+    "qty": 80,
+    "tray": 23,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000009",
+    "itemCode": "10-06884-000",
+    "itemName": "CYLINDER COVER ｼﾘﾝﾀﾞｰｶﾊﾞｰ",
+    "qty": 80,
+    "tray": 23,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000010",
+    "itemCode": "10-06884-000",
+    "itemName": "CYLINDER COVER ｼﾘﾝﾀﾞｰｶﾊﾞｰ",
+    "qty": 55,
+    "tray": 23,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000011",
+    "itemCode": "10-25196-000",
+    "itemName": "DLC RAIL FIXING FITTINGS DLCﾚｰﾙ固定金具",
+    "qty": 1000,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000012",
+    "itemCode": "10-25196-000",
+    "itemName": "DLC RAIL FIXING FITTINGS DLCﾚｰﾙ固定金具",
+    "qty": 1000,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000013",
+    "itemCode": "10-25196-000",
+    "itemName": "DLC RAIL FIXING FITTINGS DLCﾚｰﾙ固定金具",
+    "qty": 1000,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000014",
+    "itemCode": "10-25196-000",
+    "itemName": "DLC RAIL FIXING FITTINGS DLCﾚｰﾙ固定金具",
+    "qty": 1000,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000015",
+    "itemCode": "10-25196-000",
+    "itemName": "DLC RAIL FIXING FITTINGS DLCﾚｰﾙ固定金具",
+    "qty": 1000,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000016",
+    "itemCode": "10-25196-000",
+    "itemName": "DLC RAIL FIXING FITTINGS DLCﾚｰﾙ固定金具",
+    "qty": 1000,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000017",
+    "itemCode": "10-25196-000",
+    "itemName": "DLC RAIL FIXING FITTINGS DLCﾚｰﾙ固定金具",
+    "qty": 1000,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000018",
+    "itemCode": "10-25196-000",
+    "itemName": "DLC RAIL FIXING FITTINGS DLCﾚｰﾙ固定金具",
+    "qty": 1000,
+    "tray": 23,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000004",
+    "itemCode": "10-25737-120",
+    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
+    "qty": 18,
+    "tray": 24,
+    "note": "18 Tray#9,2 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000005",
+    "itemCode": "10-25737-120",
+    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
+    "qty": 18,
+    "tray": 24,
+    "note": "18 Tray#9,2 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000006",
+    "itemCode": "10-25737-120",
+    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
+    "qty": 18,
+    "tray": 24,
+    "note": "18 Tray#9,2 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112000007",
+    "itemCode": "10-25737-120",
+    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
+    "qty": 10,
+    "tray": 24,
+    "note": "18 Tray#9,2 pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800643",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800644",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800645",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800646",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800647",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800648",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800649",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800650",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800651",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800652",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800653",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800654",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800655",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800656",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800657",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800658",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 24,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800659",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 25,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800660",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 25,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800661",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 25,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800662",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 25,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800663",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 25,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800664",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 25,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800665",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 20,
+    "tray": 25,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800666",
+    "itemCode": "10-25396-120",
+    "itemName": "PIPE,ARM UPPER (3B10-532898-11) PIPE,ARM UPPER (3B03-500088-12)",
+    "qty": 10,
+    "tray": 25,
+    "note": "20pcs,Tray#20,2pcs"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800324",
+    "itemCode": "10-27404-100",
+    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
+    "qty": 12,
+    "tray": 25,
+    "note": "12,Tray#6,4pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800325",
+    "itemCode": "10-27404-100",
+    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
+    "qty": 12,
+    "tray": 25,
+    "note": "12,Tray#6,4pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800326",
+    "itemCode": "10-27404-100",
+    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
+    "qty": 12,
+    "tray": 25,
+    "note": "12,Tray#6,4pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800327",
+    "itemCode": "10-27404-100",
+    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
+    "qty": 12,
+    "tray": 25,
+    "note": "12,Tray#6,4pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800328",
+    "itemCode": "10-27404-100",
+    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
+    "qty": 12,
+    "tray": 25,
+    "note": "12,Tray#6,4pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26111800329",
+    "itemCode": "10-27404-100",
+    "itemName": "F TYPE LENS BARREL F型鏡筒 (TSF0000521)",
+    "qty": 3,
+    "tray": 25,
+    "note": "12,Tray#6,4pcs."
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S202600124",
+    "itemCode": "10-28932-100-1,2,3",
+    "itemName": "-",
+    "qty": 1,
+    "tray": 25,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S202600125",
+    "itemCode": "FABRICATION JIG",
+    "itemName": "-",
+    "qty": 1,
+    "tray": 25,
+    "note": "A"
   }
 ]
