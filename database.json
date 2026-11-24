@@ -1,759 +1,1101 @@
 [
   {
     "type": "AIR",
-    "boxNo": "S26110400003",
-    "itemCode": "10-29090-000",
-    "itemName": "BARBER SCISSORS HANDLE 理容鋏把手 (T4-S)",
-    "qty": 29,
+    "boxNo": "S26112300032",
+    "itemCode": "10-23264-000",
+    "itemName": "HN-65(USA) CONTACT NOSE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
+    "qty": 8,
     "tray": 1,
-    "note": "M"
+    "note": "105pcs.,Tray#35,3+1pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400004",
-    "itemCode": "10-26348-000",
-    "itemName": "N-64-1-H DAICE MATERIAL N-64-1-Hﾀﾞｲｽ素材 (Z002029)",
-    "qty": 14,
+    "boxNo": "S26112300045",
+    "itemCode": "10-26313-100",
+    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
+    "qty": 9,
     "tray": 1,
-    "note": "A"
+    "note": "9,CKD,Tray9=2pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400005",
-    "itemCode": "10-26451-000",
-    "itemName": "N-3637-1-H MATERIAL N-3637-1-H素材",
-    "qty": 60,
+    "boxNo": "S26112300046",
+    "itemCode": "10-26313-100",
+    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
+    "qty": 9,
     "tray": 1,
-    "note": "A"
+    "note": "9,CKD,Tray9=2pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400006",
-    "itemCode": "10-29375-000",
-    "itemName": "HINGE ﾋﾝｼﾞ",
-    "qty": 330,
+    "boxNo": "S26112300047",
+    "itemCode": "10-26313-100",
+    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
+    "qty": 9,
     "tray": 1,
-    "note": "A"
+    "note": "9,CKD,Tray9=2pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400007",
-    "itemCode": "10-29375-000",
-    "itemName": "HINGE ﾋﾝｼﾞ",
-    "qty": 30,
+    "boxNo": "S26112300048",
+    "itemCode": "10-26313-100",
+    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
+    "qty": 9,
     "tray": 1,
-    "note": "A"
+    "note": "9,CKD,Tray9=2pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400008",
-    "itemCode": "10-30451-000",
-    "itemName": "xxxx",
-    "qty": 18,
+    "boxNo": "S26112300049",
+    "itemCode": "10-26313-100",
+    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
+    "qty": 9,
     "tray": 1,
-    "note": "#N/A"
+    "note": "9,CKD,Tray9=2pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400009",
-    "itemCode": "10-30451-000",
-    "itemName": "xxxx",
-    "qty": 18,
+    "boxNo": "S26112300050",
+    "itemCode": "10-26313-100",
+    "itemName": "AP AD-15A BODY AP・AD-15Aﾎﾞﾃﾞｨ",
+    "qty": 5,
     "tray": 1,
-    "note": "#N/A"
+    "note": "9,CKD,Tray9=2pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400010",
-    "itemCode": "10-30451-000",
-    "itemName": "xxxx",
-    "qty": 18,
-    "tray": 1,
-    "note": "#N/A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400011",
-    "itemCode": "10-30451-000",
-    "itemName": "xxxx",
-    "qty": 18,
-    "tray": 1,
-    "note": "#N/A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400012",
-    "itemCode": "10-30451-000",
-    "itemName": "xxxx",
-    "qty": 18,
-    "tray": 1,
-    "note": "#N/A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400013",
-    "itemCode": "10-30451-000",
-    "itemName": "xxxx",
-    "qty": 10,
-    "tray": 1,
-    "note": "#N/A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400014",
-    "itemCode": "10-26526-000",
-    "itemName": "FLAME ﾌﾚｰﾑ (4304219)",
-    "qty": 150,
-    "tray": 1,
-    "note": "210,Tray#35,7 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400015",
-    "itemCode": "10-26526-000",
-    "itemName": "FLAME ﾌﾚｰﾑ (4304219)",
-    "qty": 7,
-    "tray": 1,
-    "note": "210,Tray#35,7 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400016",
-    "itemCode": "10-28933-000",
-    "itemName": "GRIPPER ARM ｸﾞﾘｯﾊﾟｰｱｰﾑ (TEP396-5502-02)",
-    "qty": 62,
-    "tray": 1,
-    "note": ""
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400064",
-    "itemCode": "10-27556-100",
-    "itemName": "ADAPTER 10 ｱﾀﾞﾌﾟﾀ10",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,6pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400065",
-    "itemCode": "10-27556-100",
-    "itemName": "ADAPTER 10 ｱﾀﾞﾌﾟﾀ10",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,6pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400066",
-    "itemCode": "10-27556-100",
-    "itemName": "ADAPTER 10 ｱﾀﾞﾌﾟﾀ10",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,6pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400067",
-    "itemCode": "10-27556-100",
-    "itemName": "ADAPTER 10 ｱﾀﾞﾌﾟﾀ10",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,6pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400068",
-    "itemCode": "10-27556-100",
-    "itemName": "ADAPTER 10 ｱﾀﾞﾌﾟﾀ10",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,6pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400069",
-    "itemCode": "10-27556-100",
-    "itemName": "ADAPTER 10 ｱﾀﾞﾌﾟﾀ10",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,6pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400070",
-    "itemCode": "10-27556-100",
-    "itemName": "ADAPTER 10 ｱﾀﾞﾌﾟﾀ10",
-    "qty": 136,
-    "tray": 1,
-    "note": "144,Tray#48,6pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400072",
-    "itemCode": "10-29504-100",
-    "itemName": "PUMP FRAME ﾎﾟﾝﾌﾟﾌﾚｰﾑ",
-    "qty": 7,
-    "tray": 1,
-    "note": "#N/A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400073",
-    "itemCode": "10-26824-000",
-    "itemName": "HANDLE BEARING+BOSS HANDLE BEARING+ﾎﾞｽ",
-    "qty": 19,
-    "tray": 1,
-    "note": "40,Tray#20,4pcs"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400074",
-    "itemCode": "10-28463-000",
-    "itemName": "MIRROR HOLDER A ﾐﾗｰﾎﾙﾀﾞｰA (3200933618/H3185214001)",
-    "qty": 29,
-    "tray": 1,
-    "note": "264,Tray#88,6pcs"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400075",
-    "itemCode": "10-07286-000",
-    "itemName": "CLICK ﾂﾒ(T36145)",
-    "qty": 500,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400076",
-    "itemCode": "10-08034-000",
-    "itemName": "HOLDER G2 受金種別Ｇ２（SS214005）",
-    "qty": 15,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400077",
-    "itemCode": "10-04045-000",
-    "itemName": "STUCK BLOCK(RIGHT) ｽﾀｯｸﾌﾞﾛｯｸ(右(1AG00310300-B)",
-    "qty": 648,
-    "tray": 1,
-    "note": "M"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400078",
-    "itemCode": "10-29799-110",
+    "boxNo": "S26112300068",
+    "itemCode": "10-30150-120",
     "itemName": "BLOCK ﾌﾞﾛｯｸ",
-    "qty": 18,
+    "qty": 3,
     "tray": 1,
-    "note": "18,Tray#9,4pcs."
+    "note": "18pcs.Tray#9,4pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400079",
-    "itemCode": "10-29799-110",
-    "itemName": "BLOCK ﾌﾞﾛｯｸ",
-    "qty": 18,
+    "boxNo": "S26112300069",
+    "itemCode": "10-30113-120",
+    "itemName": "GEAR CASE ｷﾞﾔｰｹｰｽ",
+    "qty": 9,
     "tray": 1,
-    "note": "18,Tray#9,4pcs."
+    "note": "9,Tray#9,2pcs."
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400080",
-    "itemCode": "10-29799-110",
-    "itemName": "BLOCK ﾌﾞﾛｯｸ",
-    "qty": 15,
-    "tray": 1,
-    "note": "18,Tray#9,4pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400081",
-    "itemCode": "10-26379-100",
-    "itemName": "AD-15A STUFFING AD-15Aｽﾀﾌｨﾝｸﾞ",
-    "qty": 20,
-    "tray": 1,
-    "note": "20,CKD,Tray#20, 2 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400082",
-    "itemCode": "10-26379-100",
-    "itemName": "AD-15A STUFFING AD-15Aｽﾀﾌｨﾝｸﾞ",
-    "qty": 20,
-    "tray": 1,
-    "note": "20,CKD,Tray#20, 2 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400083",
-    "itemCode": "10-26379-100",
-    "itemName": "AD-15A STUFFING AD-15Aｽﾀﾌｨﾝｸﾞ",
-    "qty": 10,
-    "tray": 1,
-    "note": "20,CKD,Tray#20, 2 pcs."
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400084",
-    "itemCode": "10-29973-110",
-    "itemName": "BLOCK ﾌﾞﾛｯｸ",
-    "qty": 18,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S26110400085",
-    "itemCode": "10-29973-110",
-    "itemName": "BLOCK ﾌﾞﾛｯｸ",
-    "qty": 2,
-    "tray": 1,
-    "note": "A"
-  },
-  {
-    "type": "AIR",
-    "boxNo": "S202600119",
-    "itemCode": "10-30517",
-    "itemName": "-",
+    "boxNo": "S26112300070",
+    "itemCode": "10-30113-120",
+    "itemName": "GEAR CASE ｷﾞﾔｰｹｰｽ",
     "qty": 1,
     "tray": 1,
+    "note": "9,Tray#9,2pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300086",
+    "itemCode": "10-26419-000",
+    "itemName": "BOOTS S ﾌﾞｰﾂS (Z00213)",
+    "qty": 144,
+    "tray": 1,
+    "note": "144pcs,Tray#48,4pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300087",
+    "itemCode": "10-26419-000",
+    "itemName": "BOOTS S ﾌﾞｰﾂS (Z00213)",
+    "qty": 56,
+    "tray": 1,
+    "note": "144pcs,Tray#48,4pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300089",
+    "itemCode": "10-26376-130",
+    "itemName": "AP-15A STUFFING AP-15Aｽﾀﾌｨﾝｸﾞ(D3-263334）",
+    "qty": 17,
+    "tray": 1,
+    "note": "20,CKD,Tray#20,2pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300093",
+    "itemCode": "10-20619-110",
+    "itemName": "PARABOLOID HOLDER 放物面鏡ﾎﾙﾀﾞ",
+    "qty": 26,
+    "tray": 1,
+    "note": "40,Tray#20,2 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300125",
+    "itemCode": "10-27897-120",
+    "itemName": "SHO DISK ｼｮｳｴﾝﾊﾞﾝ (VQ80A12BAZ03)",
+    "qty": 30,
+    "tray": 1,
+    "note": "144,Tray#48,4 pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300033",
+    "itemCode": "10-06947-100",
+    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
+    "qty": 1,
+    "tray": 1,
+    "note": "B"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300034",
+    "itemCode": "10-06947-100",
+    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
+    "qty": 1,
+    "tray": 1,
+    "note": "B"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300035",
+    "itemCode": "10-06947-100",
+    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
+    "qty": 1,
+    "tray": 1,
+    "note": "B"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300036",
+    "itemCode": "10-06947-100",
+    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
+    "qty": 1,
+    "tray": 1,
+    "note": "B"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300037",
+    "itemCode": "10-06947-100",
+    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
+    "qty": 1,
+    "tray": 1,
+    "note": "B"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300038",
+    "itemCode": "10-06947-100",
+    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
+    "qty": 1,
+    "tray": 1,
+    "note": "B"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300039",
+    "itemCode": "10-06947-100",
+    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
+    "qty": 1,
+    "tray": 1,
+    "note": "B"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300040",
+    "itemCode": "10-06947-100",
+    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
+    "qty": 1,
+    "tray": 1,
+    "note": "B"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300041",
+    "itemCode": "10-06947-100",
+    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
+    "qty": 1,
+    "tray": 1,
+    "note": "B"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300094",
+    "itemCode": "32-03001-000",
+    "itemName": "TEST PIECE TEST PIECE",
+    "qty": 1,
+    "tray": 1,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300095",
+    "itemCode": "32-03001-000",
+    "itemName": "TEST PIECE TEST PIECE",
+    "qty": 1,
+    "tray": 1,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300096",
+    "itemCode": "32-03001-000",
+    "itemName": "TEST PIECE TEST PIECE",
+    "qty": 1,
+    "tray": 1,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300097",
+    "itemCode": "32-03001-000",
+    "itemName": "TEST PIECE TEST PIECE",
+    "qty": 1,
+    "tray": 1,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300088",
+    "itemCode": "10-30496-000",
+    "itemName": "BEARING HOLDER ﾍﾞｱﾘﾝｸﾞﾎﾙﾀﾞ",
+    "qty": 3,
+    "tray": 1,
+    "note": "#N/A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300012",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
+    "tray": 2,
     "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400017",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300013",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400018",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300014",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400019",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300015",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400020",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300016",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400021",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300017",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400022",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300018",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400023",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300019",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400024",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300020",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400025",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300021",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400026",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300022",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400027",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300023",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400028",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300024",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400029",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300025",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400030",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300026",
+    "itemCode": "10-28535-000",
+    "itemName": "6922NB CARRIER 6922NBｷｬﾘｱ (310147*5)",
+    "qty": 23,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": ""
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400031",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300001",
+    "itemCode": "10-28888-100",
+    "itemName": "MAIN BODY 1 本体1(GW-021311)",
+    "qty": 35,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400032",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300002",
+    "itemCode": "10-26451-000",
+    "itemName": "N-3637-1-H MATERIAL N-3637-1-H素材",
+    "qty": 23,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400033",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300010",
+    "itemCode": "10-28812-000",
+    "itemName": "SL-SN-100VALVE ARM SL-SN-100弁ｱｰﾑ",
+    "qty": 30,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400034",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300011",
+    "itemCode": "10-28812-000",
+    "itemName": "SL-SN-100VALVE ARM SL-SN-100弁ｱｰﾑ",
+    "qty": 1,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400035",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300027",
+    "itemCode": "10-29510-000",
+    "itemName": "D8 LONG HANDLE ANNULUS D-8 長柄 環",
+    "qty": 2,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400036",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300030",
+    "itemCode": "10-21360-000",
+    "itemName": "VENT JOINT 25 1 チェーンストッパーZCA25",
+    "qty": 100,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400037",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300042",
+    "itemCode": "10-20734-100",
+    "itemName": "LEVER ﾚﾊﾞｰ (57063)",
+    "qty": 178,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400038",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300043",
+    "itemCode": "10-27951-100",
+    "itemName": "RACK JOINT M ﾗｯｸｼﾞｮｲﾝﾄ M",
+    "qty": 400,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400039",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300044",
+    "itemCode": "10-27955-100",
+    "itemName": "RACK JOINT S ﾗｯｸｼﾞｮｲﾝﾄ S",
+    "qty": 400,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400040",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
+    "boxNo": "S26112300051",
+    "itemCode": "10-25219-100",
+    "itemName": "PUMP CASING ﾎﾟﾝﾌﾟｹｰｼﾝｸﾞL-RV-G",
     "qty": 6,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400041",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
+    "boxNo": "S26112300052",
+    "itemCode": "10-25219-100",
+    "itemName": "PUMP CASING ﾎﾟﾝﾌﾟｹｰｼﾝｸﾞL-RV-G",
     "qty": 6,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400042",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
+    "boxNo": "S26112300053",
+    "itemCode": "10-25219-100",
+    "itemName": "PUMP CASING ﾎﾟﾝﾌﾟｹｰｼﾝｸﾞL-RV-G",
     "qty": 6,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400043",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
+    "boxNo": "S26112300054",
+    "itemCode": "10-25219-100",
+    "itemName": "PUMP CASING ﾎﾟﾝﾌﾟｹｰｼﾝｸﾞL-RV-G",
     "qty": 6,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400044",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
+    "boxNo": "S26112300055",
+    "itemCode": "10-25219-100",
+    "itemName": "PUMP CASING ﾎﾟﾝﾌﾟｹｰｼﾝｸﾞL-RV-G",
     "qty": 6,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400045",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
+    "boxNo": "S26112300056",
+    "itemCode": "10-25219-100",
+    "itemName": "PUMP CASING ﾎﾟﾝﾌﾟｹｰｼﾝｸﾞL-RV-G",
     "qty": 6,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400046",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300057",
+    "itemCode": "10-25219-100",
+    "itemName": "PUMP CASING ﾎﾟﾝﾌﾟｹｰｼﾝｸﾞL-RV-G",
+    "qty": 1,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400047",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300058",
+    "itemCode": "10-20654-100",
+    "itemName": "BLOCK ブロック 1NNOOG20046AC-A",
+    "qty": 295,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400048",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300059",
+    "itemCode": "10-23627-100",
+    "itemName": "SUPPORT SUPPORT(042-618-95510)",
+    "qty": 10,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400049",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300060",
+    "itemCode": "10-23627-100",
+    "itemName": "SUPPORT SUPPORT(042-618-95510)",
+    "qty": 10,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400050",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300061",
+    "itemCode": "10-23627-100",
+    "itemName": "SUPPORT SUPPORT(042-618-95510)",
+    "qty": 10,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400051",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300062",
+    "itemCode": "10-23627-100",
+    "itemName": "SUPPORT SUPPORT(042-618-95510)",
+    "qty": 10,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400052",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300063",
+    "itemCode": "10-23627-100",
+    "itemName": "SUPPORT SUPPORT(042-618-95510)",
+    "qty": 10,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400053",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300064",
+    "itemCode": "10-23627-100",
+    "itemName": "SUPPORT SUPPORT(042-618-95510)",
+    "qty": 10,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400054",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300065",
+    "itemCode": "10-23627-100",
+    "itemName": "SUPPORT SUPPORT(042-618-95510)",
+    "qty": 10,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400055",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300066",
+    "itemCode": "10-23627-100",
+    "itemName": "SUPPORT SUPPORT(042-618-95510)",
+    "qty": 10,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400056",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300067",
+    "itemCode": "10-23627-100",
+    "itemName": "SUPPORT SUPPORT(042-618-95510)",
+    "qty": 2,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400057",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300073",
+    "itemCode": "10-26320-000",
+    "itemName": "HOUJING ﾊｳｼﾞﾝｸﾞ (164-355034)",
+    "qty": 18,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400058",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300074",
+    "itemCode": "10-26320-000",
+    "itemName": "HOUJING ﾊｳｼﾞﾝｸﾞ (164-355034)",
+    "qty": 2,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400059",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300075",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 500,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400060",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300076",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 500,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400061",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300077",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 500,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400062",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
-    "qty": 6,
+    "boxNo": "S26112300078",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 500,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "A"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400063",
-    "itemCode": "10-29354-100",
-    "itemName": "FLANGE HEATING ROLLER UNIT ﾌﾗﾝｼﾞ:加熱ﾛｰﾗ:ﾕﾆｯﾄ",
+    "boxNo": "S26112300079",
+    "itemCode": "10-08034-000",
+    "itemName": "HOLDER G2 受金種別Ｇ２（SS214005）",
+    "qty": 8,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300080",
+    "itemCode": "10-20464-000",
+    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
+    "qty": 120,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300081",
+    "itemCode": "10-20464-000",
+    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
+    "qty": 120,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300082",
+    "itemCode": "10-20464-000",
+    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
+    "qty": 60,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300083",
+    "itemCode": "10-20464-000",
+    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
+    "qty": 120,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300084",
+    "itemCode": "10-20464-000",
+    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
+    "qty": 120,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300085",
+    "itemCode": "10-20464-000",
+    "itemName": "BLADE GUIDE ﾌﾞﾚｰﾄﾞｶﾞｲﾄﾞ(国産ﾋﾟﾝ取付)",
+    "qty": 80,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300090",
+    "itemCode": "10-20649-110",
+    "itemName": "HANDLE ﾊﾝﾄﾞﾙ (7303412-0)",
+    "qty": 15,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300098",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 7,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300099",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 7,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300100",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 7,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300101",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 7,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300102",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 7,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300103",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 7,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300104",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 7,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300105",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 7,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300106",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 7,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300107",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 7,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300108",
+    "itemCode": "10-29992-240",
+    "itemName": "BUSHING, ON-OFF TOOL, 1.800 X 7/8SR BUSHING, ON-OFF TOOL, 1.800 X 7/8SR",
+    "qty": 4,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300110",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300111",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300112",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300113",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300114",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300115",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300116",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300117",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300118",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300119",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300120",
+    "itemCode": "10-29991-140",
+    "itemName": "SHELL, ON-OFF TOOL, 1.875 SHELL, ON-OFF TOOL, 1.875",
+    "qty": 6,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300003",
+    "itemCode": "10-29472-000",
+    "itemName": "STP MOUNTING PLATE STP.取付台",
+    "qty": 44,
+    "tray": 2,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300004",
+    "itemCode": "10-24844-000",
+    "itemName": "ULTIMATE CUTTER CLAMP PLATE ｱﾙﾃｨﾒｯﾄｶｯﾀｰ ｸﾗﾝﾌﾟﾌﾟﾚｰﾄ",
     "qty": 5,
     "tray": 2,
-    "note": "Tray#6,2pcs."
+    "note": "M"
   },
   {
     "type": "AIR",
-    "boxNo": "S26110400071",
-    "itemCode": "10-29585-100",
-    "itemName": "DEVICE HOOK PIN ﾃﾞﾊﾞｲｽﾌｯｸﾋﾟﾝ",
-    "qty": 266,
+    "boxNo": "S26112300005",
+    "itemCode": "10-28807-000",
+    "itemName": "SLEEVE A ｽﾘｰﾌﾞA(RB13135)",
+    "qty": 80,
     "tray": 2,
-    "note": "1056,Tray#88,12+1pcs"
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300006",
+    "itemCode": "10-28807-000",
+    "itemName": "SLEEVE A ｽﾘｰﾌﾞA(RB13135)",
+    "qty": 80,
+    "tray": 2,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300007",
+    "itemCode": "10-28807-000",
+    "itemName": "SLEEVE A ｽﾘｰﾌﾞA(RB13135)",
+    "qty": 80,
+    "tray": 2,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300008",
+    "itemCode": "10-28807-000",
+    "itemName": "SLEEVE A ｽﾘｰﾌﾞA(RB13135)",
+    "qty": 80,
+    "tray": 2,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300009",
+    "itemCode": "10-28807-000",
+    "itemName": "SLEEVE A ｽﾘｰﾌﾞA(RB13135)",
+    "qty": 66,
+    "tray": 2,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112300031",
+    "itemCode": "10-06563-000",
+    "itemName": "SUPPORT FITTING ｳｹｶﾅｸﾞ(D5-455306B)",
+    "qty": 600,
+    "tray": 2,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112400001",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 500,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112400002",
+    "itemCode": "10-26806-000",
+    "itemName": "RB441T(CE)SLEEB B (RB12615) RB441T(CE)ｽﾘｰﾌﾞB (RB12615)",
+    "qty": 472,
+    "tray": 2,
+    "note": "A"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112400003",
+    "itemCode": "10-26376-130",
+    "itemName": "AP-15A STUFFING AP-15Aｽﾀﾌｨﾝｸﾞ(D3-263334）",
+    "qty": 20,
+    "tray": 2,
+    "note": "20,CKD,Tray#20,2pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112400004",
+    "itemCode": "10-26376-130",
+    "itemName": "AP-15A STUFFING AP-15Aｽﾀﾌｨﾝｸﾞ(D3-263334）",
+    "qty": 20,
+    "tray": 2,
+    "note": "20,CKD,Tray#20,2pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112400005",
+    "itemCode": "10-26376-130",
+    "itemName": "AP-15A STUFFING AP-15Aｽﾀﾌｨﾝｸﾞ(D3-263334）",
+    "qty": 10,
+    "tray": 2,
+    "note": "20,CKD,Tray#20,2pcs."
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112400006",
+    "itemCode": "10-30061-000",
+    "itemName": "CAM 80A-120 L3 ｶﾑ80A・120 L3",
+    "qty": 30,
+    "tray": 2,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112400007",
+    "itemCode": "10-30061-000",
+    "itemName": "CAM 80A-120 L3 ｶﾑ80A・120 L3",
+    "qty": 9,
+    "tray": 2,
+    "note": "M"
+  },
+  {
+    "type": "AIR",
+    "boxNo": "S26112400008",
+    "itemCode": "10-29842-000",
+    "itemName": "R BLADE L R刃L",
+    "qty": 9,
+    "tray": 2,
+    "note": "M"
   },
   {
     "type": "SEA",
