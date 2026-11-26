@@ -1117,15 +1117,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500085",
-    "itemCode": "10-29082-000",
-    "itemName": "LEVER ﾚﾊﾞｰ(QCPSS2245-6-04）",
-    "qty": 21,
-    "tray": 1,
-    "note": "Tray#20,2pcs."
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26112500118",
     "itemCode": "10-23264-000",
     "itemName": "HN-65(USA)CONTACT NOZE L (HN11469) HN-65(USA)ｺﾝﾀｸﾄﾉｰｽﾞL (HN11469)",
@@ -1246,25 +1237,7 @@
     "boxNo": "S26112500401",
     "itemCode": "10-29429-100",
     "itemName": "ADJUSTMENT BRIDGE 調整ﾌﾞﾘｯｼﾞ",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,4pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500402",
-    "itemCode": "10-29429-100",
-    "itemName": "ADJUSTMENT BRIDGE 調整ﾌﾞﾘｯｼﾞ",
-    "qty": 144,
-    "tray": 1,
-    "note": "144,Tray#48,4pcs."
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500403",
-    "itemCode": "10-29429-100",
-    "itemName": "ADJUSTMENT BRIDGE 調整ﾌﾞﾘｯｼﾞ",
-    "qty": 117,
+    "qty": 84,
     "tray": 1,
     "note": "144,Tray#48,4pcs."
   },
@@ -1387,33 +1360,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500423",
-    "itemCode": "10-10392-100",
-    "itemName": "BRAKE ROTOR PLATE ロ-タ板（9800110084）",
-    "qty": 144,
-    "tray": 2,
-    "note": "144pcs,Tray#48,6pcs"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500424",
-    "itemCode": "10-10392-100",
-    "itemName": "BRAKE ROTOR PLATE ロ-タ板（9800110084）",
-    "qty": 144,
-    "tray": 2,
-    "note": "144pcs,Tray#48,6pcs"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500425",
-    "itemCode": "10-10392-100",
-    "itemName": "BRAKE ROTOR PLATE ロ-タ板（9800110084）",
-    "qty": 12,
-    "tray": 2,
-    "note": "144pcs,Tray#48,6pcs"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26112500470",
     "itemCode": "10-21488-100",
     "itemName": "GRIPPER GRIPPER(8146002504)",
@@ -1453,7 +1399,7 @@
     "boxNo": "S26112500721",
     "itemCode": "10-26147-110",
     "itemName": "RR NUCLE JYOINT RR_ﾅｯｸﾙｼﾞｮｲﾝﾄ (11720052-10-001-00)",
-    "qty": 17,
+    "qty": 6,
     "tray": 2,
     "note": "35,Tray#35,2pcs"
   },
@@ -3259,42 +3205,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500192",
-    "itemCode": "10-23106-000",
-    "itemName": "DOOR ﾄﾞｱ (HN12151)",
-    "qty": 120,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500193",
-    "itemCode": "10-23106-000",
-    "itemName": "DOOR ﾄﾞｱ (HN12151)",
-    "qty": 120,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500194",
-    "itemCode": "10-23106-000",
-    "itemName": "DOOR ﾄﾞｱ (HN12151)",
-    "qty": 120,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500195",
-    "itemCode": "10-23106-000",
-    "itemName": "DOOR ﾄﾞｱ (HN12151)",
-    "qty": 10,
-    "tray": 10,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26112500196",
     "itemCode": "10-23202-000",
     "itemName": "CN-100(CE)DOOR CN-100(CE)ﾄﾞｱ (CN36183)",
@@ -3452,87 +3362,6 @@
     "itemCode": "10-05268-100",
     "itemName": "ELEMENT SUPPORTER ELEMENT,SUPPORTER(J2725-59010-00",
     "qty": 100,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500457",
-    "itemCode": "10-11175-100",
-    "itemName": "FRAME ZPH/Z2Hﾌﾚｰﾑ (ZPH-313)",
-    "qty": 24,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500458",
-    "itemCode": "10-11175-100",
-    "itemName": "FRAME ZPH/Z2Hﾌﾚｰﾑ (ZPH-313)",
-    "qty": 24,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500459",
-    "itemCode": "10-11175-100",
-    "itemName": "FRAME ZPH/Z2Hﾌﾚｰﾑ (ZPH-313)",
-    "qty": 24,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500460",
-    "itemCode": "10-11175-100",
-    "itemName": "FRAME ZPH/Z2Hﾌﾚｰﾑ (ZPH-313)",
-    "qty": 24,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500461",
-    "itemCode": "10-11175-100",
-    "itemName": "FRAME ZPH/Z2Hﾌﾚｰﾑ (ZPH-313)",
-    "qty": 24,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500462",
-    "itemCode": "10-11175-100",
-    "itemName": "FRAME ZPH/Z2Hﾌﾚｰﾑ (ZPH-313)",
-    "qty": 24,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500463",
-    "itemCode": "10-11175-100",
-    "itemName": "FRAME ZPH/Z2Hﾌﾚｰﾑ (ZPH-313)",
-    "qty": 24,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500464",
-    "itemCode": "10-11175-100",
-    "itemName": "FRAME ZPH/Z2Hﾌﾚｰﾑ (ZPH-313)",
-    "qty": 24,
-    "tray": 11,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500465",
-    "itemCode": "10-11175-100",
-    "itemName": "FRAME ZPH/Z2Hﾌﾚｰﾑ (ZPH-313)",
-    "qty": 8,
     "tray": 11,
     "note": "A"
   },
@@ -3713,6 +3542,69 @@
     "itemCode": "10-21047-000",
     "itemName": "HANDLE CLAMP ﾊﾝﾄﾞﾙｸﾗﾝﾌﾟ",
     "qty": 5,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112501074",
+    "itemCode": "10-06398-000",
+    "itemName": "HOLDER 側引戸(E231)両端止金具(右)",
+    "qty": 15,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112501075",
+    "itemCode": "10-06398-000",
+    "itemName": "HOLDER 側引戸(E231)両端止金具(右)",
+    "qty": 13,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600016",
+    "itemCode": "10-27031-000",
+    "itemName": "RB-515-B2C FOOK RB-515-B2C ﾌｯｸ (RB11816)",
+    "qty": 374,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600017",
+    "itemCode": "10-24185-000",
+    "itemName": "MACHINE ZIPPER ﾒｶﾁｬｯｸ (2001)",
+    "qty": 14,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600022",
+    "itemCode": "10-27037-000",
+    "itemName": "N55 SEND NAIL N55 ｵｸﾘﾂﾞﾒ (CN31875)",
+    "qty": 300,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600023",
+    "itemCode": "10-27037-000",
+    "itemName": "N55 SEND NAIL N55 ｵｸﾘﾂﾞﾒ (CN31875)",
+    "qty": 300,
+    "tray": 11,
+    "note": "A"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600024",
+    "itemCode": "10-27037-000",
+    "itemName": "N55 SEND NAIL N55 ｵｸﾘﾂﾞﾒ (CN31875)",
+    "qty": 101,
     "tray": 11,
     "note": "A"
   },
@@ -4627,15 +4519,6 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500746",
-    "itemCode": "10-03885-110",
-    "itemName": "SRG-20 ADAPTER RG ｱﾀﾞﾌﾟﾀ(RG)(SRG-20)",
-    "qty": 32,
-    "tray": 14,
-    "note": "A"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26112500819",
     "itemCode": "10-21925-110",
     "itemName": "SHAFT SHAFT (AC9 3062 400)",
@@ -5284,6 +5167,96 @@
   },
   {
     "type": "SEA",
+    "boxNo": "S26112600005",
+    "itemCode": "10-28748-000",
+    "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600006",
+    "itemCode": "10-28748-000",
+    "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600007",
+    "itemCode": "10-28748-000",
+    "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600008",
+    "itemCode": "10-28748-000",
+    "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600009",
+    "itemCode": "10-28748-000",
+    "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600010",
+    "itemCode": "10-28748-000",
+    "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600011",
+    "itemCode": "10-28748-000",
+    "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600012",
+    "itemCode": "10-28748-000",
+    "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600013",
+    "itemCode": "10-28748-000",
+    "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112600014",
+    "itemCode": "10-28748-000",
+    "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
+    "qty": 40,
+    "tray": 16,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
     "boxNo": "S26112500003",
     "itemCode": "10-28748-000",
     "itemName": "CABLE GRAND ｹｰﾌﾞﾙｸﾞﾗﾝﾄﾞ(4287 4797 10)",
@@ -5692,7 +5665,7 @@
     "boxNo": "S26112500048",
     "itemCode": "10-08218-000",
     "itemName": "REVOLVER 回転子",
-    "qty": 179,
+    "qty": 177,
     "tray": 17,
     "note": "M"
   },
@@ -6306,7 +6279,7 @@
     "itemName": "BODY ﾎﾞﾃﾞｨ",
     "qty": 40,
     "tray": 19,
-    "note": "M"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -6315,7 +6288,7 @@
     "itemName": "BODY ﾎﾞﾃﾞｨ",
     "qty": 40,
     "tray": 19,
-    "note": "M"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -6324,7 +6297,7 @@
     "itemName": "BODY ﾎﾞﾃﾞｨ",
     "qty": 20,
     "tray": 19,
-    "note": "M"
+    "note": "A"
   },
   {
     "type": "SEA",
@@ -6404,15 +6377,6 @@
     "itemCode": "10-29006-110",
     "itemName": "BRACKET ｴﾇｱｲｼ・ｵｰﾄﾃｯｸ㈱",
     "qty": 37,
-    "tray": 19,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500882",
-    "itemCode": "32-03003-000",
-    "itemName": "TEST PIECE(KK72) TEST PIECE(KK72)",
-    "qty": 4,
     "tray": 19,
     "note": "M"
   },
@@ -6583,34 +6547,7 @@
     "boxNo": "S26112500126",
     "itemCode": "10-30074-000",
     "itemName": "TACK PRESSER ﾀｯｸﾌﾟﾚｯｻｰ",
-    "qty": 191,
-    "tray": 19,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500189",
-    "itemCode": "10-30008-000",
-    "itemName": "TACK PRESSER ﾀｯｸﾌﾟﾚｯｻｰ",
-    "qty": 900,
-    "tray": 19,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500190",
-    "itemCode": "10-30008-000",
-    "itemName": "TACK PRESSER ﾀｯｸﾌﾟﾚｯｻｰ",
-    "qty": 900,
-    "tray": 19,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500191",
-    "itemCode": "10-30008-000",
-    "itemName": "TACK PRESSER ﾀｯｸﾌﾟﾚｯｻｰ",
-    "qty": 200,
+    "qty": 190,
     "tray": 19,
     "note": "#N/A"
   },
@@ -6643,992 +6580,11 @@
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500828",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500829",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500830",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500831",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500832",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500833",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500834",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500835",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500836",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500837",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500838",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500839",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500840",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500841",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500842",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500843",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500844",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500845",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500846",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500847",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 20,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500848",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500849",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500850",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500851",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500852",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500853",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500854",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500855",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500856",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500857",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500858",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500859",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500860",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500861",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500862",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500863",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500864",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500865",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500866",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500867",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 21,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500868",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500869",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500870",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500871",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500872",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500873",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500874",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500875",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500876",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500877",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500878",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500879",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 23,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500880",
-    "itemCode": "10-25942-110",
-    "itemName": "TOP サイドクランプ",
-    "qty": 9,
-    "tray": 22,
-    "note": "#N/A"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500676",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 22,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500677",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 22,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500678",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 22,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500679",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 22,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500680",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 22,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500681",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 22,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500682",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 22,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500683",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 22,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500620",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500621",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500622",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500623",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500624",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500625",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500626",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500627",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500628",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500629",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500630",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500631",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500632",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500633",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500634",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500635",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500636",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500637",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500638",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500639",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500640",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500641",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500642",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500643",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500644",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500645",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500646",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500647",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500648",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500649",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500650",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500651",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500652",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500653",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500654",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500655",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500656",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500657",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500658",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500659",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500660",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500661",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500662",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500663",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500664",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500665",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500666",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500667",
-    "itemCode": "10-26997-000",
-    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
-    "qty": 10,
-    "tray": 23,
-    "note": "M"
-  },
-  {
-    "type": "SEA",
     "boxNo": "S26112500668",
     "itemCode": "10-26997-000",
     "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
     "qty": 10,
-    "tray": 23,
+    "tray": 19,
     "note": "M"
   },
   {
@@ -7637,7 +6593,7 @@
     "itemCode": "10-26997-000",
     "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
     "qty": 10,
-    "tray": 23,
+    "tray": 19,
     "note": "M"
   },
   {
@@ -7646,7 +6602,7 @@
     "itemCode": "10-26997-000",
     "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
     "qty": 10,
-    "tray": 23,
+    "tray": 19,
     "note": "M"
   },
   {
@@ -7655,7 +6611,7 @@
     "itemCode": "10-26997-000",
     "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
     "qty": 10,
-    "tray": 23,
+    "tray": 19,
     "note": "M"
   },
   {
@@ -7664,7 +6620,7 @@
     "itemCode": "10-26997-000",
     "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
     "qty": 10,
-    "tray": 23,
+    "tray": 19,
     "note": "M"
   },
   {
@@ -7673,7 +6629,7 @@
     "itemCode": "10-26997-000",
     "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
     "qty": 10,
-    "tray": 23,
+    "tray": 19,
     "note": "M"
   },
   {
@@ -7682,7 +6638,7 @@
     "itemCode": "10-26997-000",
     "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
     "qty": 10,
-    "tray": 23,
+    "tray": 19,
     "note": "M"
   },
   {
@@ -7691,7 +6647,511 @@
     "itemCode": "10-26997-000",
     "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
     "qty": 10,
-    "tray": 23,
+    "tray": 19,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500676",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500677",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500678",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500679",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500680",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500681",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500682",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500683",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500620",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500621",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500622",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500623",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500624",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500625",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500626",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500627",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500628",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500629",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500630",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500631",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500632",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500633",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500634",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500635",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500636",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500637",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500638",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500639",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500640",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500641",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500642",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500643",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500644",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500645",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500646",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500647",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500648",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500649",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500650",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500651",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500652",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500653",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500654",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500655",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500656",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500657",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500658",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500659",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500660",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500661",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500662",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500663",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500664",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500665",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500666",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
+    "note": "M"
+  },
+  {
+    "type": "SEA",
+    "boxNo": "S26112500667",
+    "itemCode": "10-26997-000",
+    "itemName": "UNDER ARM 1 ｱﾝﾀﾞｰｱｰﾑ1(1E000105724 2A000134855)",
+    "qty": 10,
+    "tray": 20,
     "note": "M"
   },
   {
@@ -7700,7 +7160,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7709,7 +7169,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7718,7 +7178,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7727,7 +7187,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7736,7 +7196,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7745,7 +7205,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7754,7 +7214,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7763,7 +7223,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7772,7 +7232,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7781,7 +7241,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7790,7 +7250,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7799,7 +7259,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7808,7 +7268,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7817,7 +7277,7 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
@@ -7826,233 +7286,134 @@
     "itemCode": "35-00003-100",
     "itemName": "Robinmask no buff ロビンマスク バフ無し品",
     "qty": 1,
-    "tray": 24,
+    "tray": 21,
     "note": "Big Size"
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500222",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112600015",
+    "itemCode": "10-27758-100",
+    "itemName": "SWITCH MOUNTING BASE ｽｲｯﾁ取付台",
+    "qty": 13,
+    "tray": 22,
+    "note": "144,Tray#48,3 pcs"
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500223",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112501076",
+    "itemCode": "10-25737-120",
+    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
+    "qty": 18,
+    "tray": 22,
+    "note": "18 Tray#9,2 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500224",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112501077",
+    "itemCode": "10-25737-120",
+    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
+    "qty": 18,
+    "tray": 22,
+    "note": "18 Tray#9,2 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500225",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112501078",
+    "itemCode": "10-25737-120",
+    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
+    "qty": 18,
+    "tray": 22,
+    "note": "18 Tray#9,2 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500226",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112501079",
+    "itemCode": "10-25737-120",
+    "itemName": "PLATE/90 ﾌﾟﾚｰﾄ/90 (230914)",
+    "qty": 4,
+    "tray": 22,
+    "note": "18 Tray#9,2 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500227",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112501080",
+    "itemCode": "10-25942-110",
+    "itemName": "TOP サイドクランプ",
+    "qty": 264,
+    "tray": 22,
+    "note": "264,Tray#88,6pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500228",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112501081",
+    "itemCode": "10-25942-110",
+    "itemName": "TOP サイドクランプ",
+    "qty": 264,
+    "tray": 22,
+    "note": "264,Tray#88,6pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500229",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112501082",
+    "itemCode": "10-25942-110",
+    "itemName": "TOP サイドクランプ",
+    "qty": 264,
+    "tray": 22,
+    "note": "264,Tray#88,6pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500230",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112501083",
+    "itemCode": "10-25942-110",
+    "itemName": "TOP サイドクランプ",
+    "qty": 264,
+    "tray": 22,
+    "note": "264,Tray#88,6pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500231",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112501084",
+    "itemCode": "10-25942-110",
+    "itemName": "TOP サイドクランプ",
+    "qty": 149,
+    "tray": 22,
+    "note": "264,Tray#88,6pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500232",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112600018",
+    "itemCode": "10-24278-100",
+    "itemName": "LINK LINK (H 154 235 483)",
+    "qty": 528,
+    "tray": 22,
+    "note": "528,C Tray#88,7 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500233",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112600019",
+    "itemCode": "10-24278-100",
+    "itemName": "LINK LINK (H 154 235 483)",
+    "qty": 528,
+    "tray": 22,
+    "note": "528,C Tray#88,7 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500234",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112600020",
+    "itemCode": "10-24278-100",
+    "itemName": "LINK LINK (H 154 235 483)",
+    "qty": 528,
+    "tray": 22,
+    "note": "528,C Tray#88,7 pcs."
   },
   {
     "type": "SEA",
-    "boxNo": "S26112500235",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500236",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500237",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500238",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500239",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500240",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500241",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500242",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500243",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500244",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500245",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
-  },
-  {
-    "type": "SEA",
-    "boxNo": "S26112500246",
-    "itemCode": "10-06947-100",
-    "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
-    "qty": 1,
-    "tray": 25,
-    "note": "B"
+    "boxNo": "S26112600021",
+    "itemCode": "10-24278-100",
+    "itemName": "LINK LINK (H 154 235 483)",
+    "qty": 489,
+    "tray": 22,
+    "note": "528,C Tray#88,7 pcs."
   },
   {
     "type": "SEA",
@@ -8060,7 +7421,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 25,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8069,7 +7430,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 25,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8078,7 +7439,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 25,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8087,7 +7448,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 25,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8096,7 +7457,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 25,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8105,7 +7466,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 25,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8114,7 +7475,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 25,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8123,7 +7484,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8132,7 +7493,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8141,7 +7502,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8150,7 +7511,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8159,7 +7520,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8168,7 +7529,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8177,7 +7538,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8186,7 +7547,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8195,7 +7556,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8204,7 +7565,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8213,7 +7574,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8222,7 +7583,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8231,7 +7592,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8240,7 +7601,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8249,7 +7610,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8258,7 +7619,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8267,7 +7628,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8276,7 +7637,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8285,7 +7646,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8294,7 +7655,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8303,7 +7664,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8312,7 +7673,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8321,7 +7682,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8330,7 +7691,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8339,7 +7700,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 23,
     "note": "B"
   },
   {
@@ -8348,7 +7709,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8357,7 +7718,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8366,7 +7727,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8375,7 +7736,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8384,7 +7745,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8393,7 +7754,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8402,7 +7763,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 26,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8411,7 +7772,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8420,7 +7781,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8429,7 +7790,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8438,7 +7799,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8447,7 +7808,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8456,7 +7817,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8465,7 +7826,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8474,7 +7835,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8483,7 +7844,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8492,7 +7853,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8501,7 +7862,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8510,7 +7871,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8519,7 +7880,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8528,7 +7889,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8537,7 +7898,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8546,7 +7907,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8555,7 +7916,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8564,7 +7925,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8573,7 +7934,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8582,7 +7943,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8591,7 +7952,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8600,7 +7961,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8609,7 +7970,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8618,7 +7979,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8627,7 +7988,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 24,
     "note": "B"
   },
   {
@@ -8636,7 +7997,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8645,7 +8006,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8654,7 +8015,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8663,7 +8024,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8672,7 +8033,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8681,7 +8042,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8690,7 +8051,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 27,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8699,7 +8060,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8708,7 +8069,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8717,7 +8078,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8726,7 +8087,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8735,7 +8096,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8744,7 +8105,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8753,7 +8114,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8762,7 +8123,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8771,7 +8132,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8780,7 +8141,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8789,7 +8150,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8798,7 +8159,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8807,7 +8168,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8816,7 +8177,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8825,7 +8186,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8834,7 +8195,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8843,7 +8204,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8852,7 +8213,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8861,7 +8222,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8870,7 +8231,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8879,7 +8240,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8888,7 +8249,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8897,7 +8258,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8906,7 +8267,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8915,7 +8276,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 25,
     "note": "B"
   },
   {
@@ -8924,7 +8285,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -8933,7 +8294,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -8942,7 +8303,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -8951,7 +8312,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -8960,7 +8321,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -8969,7 +8330,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -8978,7 +8339,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 28,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -8987,7 +8348,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -8996,7 +8357,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9005,7 +8366,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9014,7 +8375,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9023,7 +8384,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9032,7 +8393,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9041,7 +8402,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9050,7 +8411,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9059,7 +8420,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9068,7 +8429,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9077,7 +8438,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9086,7 +8447,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9095,7 +8456,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9104,7 +8465,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9113,7 +8474,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9122,7 +8483,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9131,7 +8492,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9140,7 +8501,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9149,7 +8510,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9158,7 +8519,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9167,7 +8528,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9176,7 +8537,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9185,7 +8546,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9194,7 +8555,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9203,7 +8564,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 26,
     "note": "B"
   },
   {
@@ -9212,7 +8573,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9221,7 +8582,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9230,7 +8591,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9239,7 +8600,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9248,7 +8609,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9257,7 +8618,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9266,7 +8627,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 29,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9275,7 +8636,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9284,7 +8645,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9293,7 +8654,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9302,7 +8663,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9311,7 +8672,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9320,7 +8681,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9329,7 +8690,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9338,7 +8699,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9347,7 +8708,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9356,7 +8717,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9365,7 +8726,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9374,7 +8735,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9383,7 +8744,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9392,7 +8753,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   },
   {
@@ -9401,7 +8762,7 @@
     "itemCode": "10-06947-100",
     "itemName": "STAINLESS BODY AD,AP,ADK,APK21-50Fﾎﾞﾃﾞｨ",
     "qty": 1,
-    "tray": 30,
+    "tray": 27,
     "note": "B"
   }
 ]
